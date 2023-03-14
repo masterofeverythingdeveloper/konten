@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="nv-content-wrap entry-content">
+<div class="nv-content-wrap entry-content">
+<div class="nv-content-wrap entry-content">
+<div class="nv-content-wrap entry-content">
+<div class="nv-content-wrap entry-content">
+<div class="nv-content-wrap entry-content">
+<div class="nv-content-wrap entry-content">
+<h1 class="b-headline__title  " itemprop="headline">The best VSCO filters, from classic film to cinematic</h1>
+<p><br />VSCO&rsquo;s filters have made the photo-editing app so popular, it&rsquo;s now among the slang that has parents of teenagers scratching their heads. (<a href="https://www.digitaltrends.com/mobile/how-to-be-a-vsco-girl/">What, exactly, is a VSCO Girl, anyways?</a>) The filters, many inspired after real film, are so plentiful that, chances are, there are dozens of filters that will match your photo to your mood.</p>
+<div id="dt-toc" class="b-toc b-sticky h-sticky">
+<div class="b-sticky__inner h-sticky-inner">But, tapping to try out a hundred filters for each photo is an easy way to look up from your phone bleary-eyed, wondering where the last hour went. We&rsquo;ve rounded up some of our favorite VSCO filters so you can find that great filter quickly.</div>
+</div>
+<p>The editing style of a photograph is, of course, entirely subjective. As I photographer, I chose filters that add to the photo instead of distracting from it, skipping the more overwhelming filters that make you think first about the filter and only second about the actual contents of the image. I also skipped over the filters that reduce the contrast so much that details are lost. Keep in mind that the look of a filter is also largely dependent on the light that&rsquo;s in the original photo, and that VSCO has tools to tweak that filter to perfection with just a few more taps.</p>
+<p>Try out these top VSCO filters. Use VSCO&rsquo;s organize tool &mdash; the icon on the lower right &mdash; to save favorites into your own custom section for easy access.</p>
+<figure id="attachment_2580239" aria-describedby="caption-attachment-2580239" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580239 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_fp1.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_fp1.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_fp1.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580239 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580239" class="wp-caption-text"><span class="text">Processed with VSCO with fp1 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-fp1-fuji-pro-160s" aria-label="FP1: Fuji Pro 160S"></a>FP1: Fuji Pro 160S</h2>
+<p>Designed after one of Fujifilm&rsquo;s professionally geared films, the FP1 VSCO filter has a light and airy look, yet still doesn&rsquo;t destroy the details. The original film is known for its skin tones and colors that are closer to the actual colors than many others. The VSCO filter keeps most of that in a digital <a href="https://www.digitaltrends.com/mobile/best-smartphones/" data-injected="1">smartphone</a> format and is excellent for portraits, but works for some types of landscapes too.</p>
+<figure id="attachment_2580238" aria-describedby="caption-attachment-2580238" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580238 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_fr4.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_fr4.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_fr4.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580238 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580238" class="wp-caption-text"><span class="text">Processed with VSCO with fr4 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-fr4-fuji-provia-400x" aria-label="FR4: Fuji Provia 400X"></a>FR4: Fuji Provia 400X</h2>
+<p>The Fuji Provia 400X, a discontinued film, is designed to create more vivid color. The VSCO preset adapts that same increased saturation. The filter also creates brighter highlights, yet keeps the midtones and shadows intact, which is great for creating a bit of a brighter look without sabotaging much detail.</p>
+<figure id="attachment_2580237" aria-describedby="caption-attachment-2580237" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580237 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ft6.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ft6.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ft6.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580237 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580237" class="wp-caption-text"><span class="text">Processed with VSCO with ft6 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-ft6-fuji-t64" aria-label="FT6: Fuji T64"></a>FT6: Fuji T64</h2>
+<p>This VSCO preset is modeled after the Fujichrome T64, a film originally designed for working under tungsten light sources for indoor photography. Even in outdoor shots, however, the VSCO preset adds cool blue tones &mdash; which can be excellent for smartphone landscape snapshots. Use for creating a deep blue sky, but avoid for close-up portraits.</p>
+<figure id="attachment_2580236" aria-describedby="caption-attachment-2580236" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580236 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ka1.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ka1.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ka1.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580236 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580236" class="wp-caption-text"><span class="text">Processed with VSCO with ka1 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-ka1-kodak-ektachrome-e100g" aria-label="Ka1: Kodak Ektachrome E100G"></a>Ka1: Kodak Ektachrome E100G</h2>
+<p>The Kodak Ektachrome E100G filter ideally blends saturation and contrast, adding just the amount of brightness. This VSCO filter will make the whites and highlights a bit brighter, while the shadows and blacks get even deeper.</p>
+<figure id="attachment_2580233" aria-describedby="caption-attachment-2580233" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580233 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_kc25.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_kc25.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_kc25.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580233 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580233" class="wp-caption-text"><span class="text">Processed with VSCO with kc25 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-kc25-kodak-kodachrome-25" aria-label="KC25: Kodak Kodachrome 25"></a>KC25: Kodak Kodachrome 25</h2>
+<p>Some call the Kodachrome line Kodak&rsquo;s best ever film &mdash; but it makes a pretty great VSCO preset too. The KC25 option boosts contrast, yet keeps colors realistic. Kodachrome was the oldest film still sold until it was discontinued in 2009, so it&rsquo;s nice to see a digital version live on in VSCO.</p>
+<figure id="attachment_2580230" aria-describedby="caption-attachment-2580230" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580230 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ke1.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ke1.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco_ke1.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580230 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580230" class="wp-caption-text"><span class="text">Processed with VSCO with ke1 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-ke1-kodak-ektar-100" aria-label="KE1: Kodak Ektar 100"></a>KE1: Kodak Ektar 100</h2>
+<p>The Kodak Ektar 100 VSCO preset, modeled after the film by the same name, creates more vivid colors. The brightest areas of the image are lightened, while the darks see little change, which means most detail is preserved.</p>
+<figure id="attachment_2580229" aria-describedby="caption-attachment-2580229" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580229 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kg1.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kg1.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kg1.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580229 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580229" class="wp-caption-text"><span class="text">Processed with VSCO with kg1 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-kg1-kodak-gold-100" aria-label="KG1: Kodak Gold 100"></a>KG1: Kodak Gold 100</h2>
+<p>The Kodak Gold 100 film has an interesting history &mdash; it was originally created for photographing chocolate and furniture, but quickly became recognized as a film that faithfully reproduced dark skin tones. True to that inspiration, the KG1 filter does well with dark skin and offers solid saturation. Some photos may come out looking a little too green, which can be fixed with the white balance tool.</p>
+<figure id="attachment_2580227" aria-describedby="caption-attachment-2580227" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580227 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kp2.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kp2.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kp2.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580227 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580227" class="wp-caption-text"><span class="text">Processed with VSCO with kp2 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-kp2-kodak-potra-160nc" aria-label="KP2: Kodak Potra 160NC"></a>KP2: Kodak Potra 160NC</h2>
+<p>The Kodak Porta 160NC is a film for fans of the light and airy look. The filter creates a brighter image, without reducing too much contrast. Greens and blues in particular are brightened and stand out, which makes it good for landscape shots. The original film advertised &ldquo;exceptional&rdquo; skin tones, and the VSCO filter works well for images with multiple skin tones while also reducing skin redness.</p>
+<figure id="attachment_2580225" aria-describedby="caption-attachment-2580225" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580225 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-ih5.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-ih5.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-ih5.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580225 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580225" class="wp-caption-text"><span class="text">Processed with VSCO with ih5 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-ih5-ilford-hp5" aria-label="IH5: Ilford HP5"></a>IH5: Ilford HP5</h2>
+<p>Created after a medium-contrast black-and-white film, the IH5 VSCO preset is excellent for creating a matte look that doesn&rsquo;t lose too much detail. The preset favors lighter shades of gray, with excellent results.</p>
+<figure id="attachment_2580241" aria-describedby="caption-attachment-2580241" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580241 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kt32.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kt32.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kt32.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580241 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580241" class="wp-caption-text"><span class="text">Processed with VSCO with kt32 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-kt32-kodak-t-max-3200" aria-label="KT32: Kodak T-Max 3200"></a>KT32: Kodak T-Max 3200</h2>
+<p>The KT32 is a black-and-white VSCO filter with punch. Use this preset for lots of contrast, without making the overall image too dark.</p>
+<figure id="attachment_2580213" aria-describedby="caption-attachment-2580213" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580213 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kx4.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kx4.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-kx4.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580213 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580213" class="wp-caption-text"><span class="text">Processed with VSCO with kx4 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-kx4-kodak-tri-x-400" aria-label="KX4: Kodak TRI-X 400"></a>KX4: Kodak TRI-X 400</h2>
+<p>Another filter that offers lots of black-and-white contrast, the KX4 is a favorite for monochrome that pops. The filter tends to turn blues into lighter gray, and greens into darker shades, creating a lot of contrast in landscapes and outdoor photography.</p>
+<figure id="attachment_2580212" aria-describedby="caption-attachment-2580212" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580212 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-a9.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-a9.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-a9.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580212 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580212" class="wp-caption-text"><span class="text">Processed with VSCO with a9 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-a9-analog" aria-label="A9: Analog"></a>A9: Analog</h2>
+<p>VSCO&rsquo;s 9th Analog preset option offers lots of contrast and cooler tones. While not named after a specific film, it still offers a great film-like appeal.</p>
+<figure id="attachment_2580208" aria-describedby="caption-attachment-2580208" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580208 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-c9.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-c9.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-c9.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580208 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580208" class="wp-caption-text"><span class="text">Processed with VSCO with c9 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-c9-chromatic" aria-label="C9: Chromatic"></a>C9: Chromatic</h2>
+<p>VSCO&rsquo;s Chromatic filter creates cinematic colors emphasizing deeper greens, blues, and oranges. If you like a cinematic look, definitely add this one to your favorites list.</p>
+<figure id="attachment_2580206" aria-describedby="caption-attachment-2580206" class="wp-caption aligncenter is-caption-text"><a class="wp-image-2580206 h-lightbox is-zoomable" href="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-s1.jpg?fit=1600%2C1067&amp;p=1"><img src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-s1.jpg?fit=720%2C480&amp;p=1" data-dt-lazy-src="https://www.digitaltrends.com/wp-content/uploads/2020/10/vsco-s1.jpg?fit=720%2C480&amp;p=1" onerror="dti_load_error(this)" decoding="async" class="size-large wp-image-2580206 dt-lazy-load dt-lazy-loaded" alt="" style="aspect-ratio: 1.4995313964386;" /></a>
+<figcaption id="caption-attachment-2580206" class="wp-caption-text"><span class="text">Processed with VSCO with s1 preset</span></figcaption>
+</figure>
+<h2><a id="dt-heading-s1-clean" aria-label="S1: Clean"></a>S1: Clean</h2>
+<p>The VSCO Clean filter creates a light and airy look, with film-like pastel colors. The filter looks good on multiple skin tones and adapts easily to both portraits and landscapes.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

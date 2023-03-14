@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2 style="font-size: 25px;" class="article-header-title -nopad-bottom">Five VSCO Recipes We Use on Our Own Photos</h2>
+<br />
+<div class="article-body col-12-12 -medium-8-12">
+<h4 class="article-body-subtitle">Recipe 01</h4>
+<h3 class="article-body-title -nopad-bottom">People</h3>
+<figure><img class="article-body-img" src="https://assets.artifactuprising.com/assets/campaigns/2020/Q1/02-26+VSCO+Tips+Blog+Post/01-People.jpg" />
+<figcaption class="text-left">Preset available exclusively for VSCO members</figcaption>
+</figure>
+</div>
+<br />
+<p class="article-body-text">When editing shots where people take the focus, it's all about creating even, warm, and natural skin tones. That means creating an effect that feels organic, as opposed to doctored or unnatural. That's why we turn to the AL5 preset with a few subtle tweaks. Start by turning up the Temperature within the White Balance tool to capture the natural warmth that gets lost in the lens. Then, use the Tone tool to increase Highlights and recover detail in bright areas of your image. Finish off your edit by fine-tuning the Exposure. This creates definition while simultaneously adding smoothness and giving skin that natural glow. <br /><br />(Psst&hellip;. start with a great image by following these <a target="_blank" href="https://www.artifactuprising.com/photography-tips/photographing-people-on-the-iphone" rel="noopener">tips for photographing people</a>!) <br /><br /><b>Have the VSCO app on your phone?</b> <br /><a target="_blank" href="vsco://edit/presets/al5" rel="noopener">Tap here</a> to go straight to the preset.</p>
+<br /><hr class="article-divider" />
+<div class="article-body col-12-12 -medium-8-12">
+<h4 class="article-body-subtitle">Recipe 02</h4>
+<h3 class="article-body-title -nopad-bottom">Landscapes</h3>
+<figure><img class="article-body-img" src="https://assets.artifactuprising.com/assets/campaigns/2020/Q1/02-26+VSCO+Tips+Blog+Post/02-Landscape.jpg" />
+<figcaption class="text-left">Preset available exclusively for VSCO members</figcaption>
+</figure>
+</div>
+<br />
+<p class="article-body-text">From the purple mountain majesties of our home state, Colorado, to the vast expanses of ocean that foster our connection to the coasts, some small edits are all it takes to give mother nature her due. Oftentimes, it's a simple matter of creating higher Contrast in shadows to add depth and define natural features, creating smooth and seamless highlights by bumping up the Exposure, and using the White Balance tool to increase Temperature (this will offset the deep blue tones). Start with the A6 preset, making the simple adjustments above to dial it in for the great outdoors. <br /><br />To capture an image you can't wait to edit, follow these <a target="_blank" href="https://www.artifactuprising.com/landscape-photography-tips" rel="noopener">landscape photography tips</a>. <br /><br /><b>Have the VSCO app on your phone?</b> <br /><a target="_blank" href="vsco://edit/presets/a6" rel="noopener">Tap here</a> to go straight to the preset.</p>
+<br /><hr class="article-divider" />
+<div class="article-body col-12-12 -medium-8-12">
+<h4 class="article-body-subtitle">Recipe 03</h4>
+<h3 class="article-body-title -nopad-bottom">Black and White</h3>
+<figure><img class="article-body-img" src="https://assets.artifactuprising.com/assets/campaigns/2020/Q1/02-26+VSCO+Tips+Blog+Post/03-BW.jpg" />
+<figcaption class="text-left">Preset available exclusively for VSCO members</figcaption>
+</figure>
+</div>
+<br />
+<p class="article-body-text">Channel your inner Ansel Adams and make way for timelessness with the FN16 preset, which recreates Fuji's classic Neopan 1600 film stock. Turning up the Exposure can completely change the detail in <a target="_blank" href="https://www.artifactuprising.com/photography-tips/black-and-white-photography" rel="noopener">black and white photography</a>, so don't be afraid to play around until the photo matches the story you want to tell. <br /><br />Think back to how you felt in the moment the photo was taken. Taking your Exposure up a few notches can create a bright and cheery image that's perfect for photos of much-loved littles. Or, you can create a more pensive and serious image (hello, classic detective film) by keeping Exposure relatively low. Just remember: Lower Contrast and brighter edits will ensure that you capture more detail in the blacks of the image when you <a target="_blank" href="https://www.artifactuprising.com/photo-prints" rel="noopener">print your photo</a>. (Really want to get that Ansel Adams effect? Add small amounts of Grain and Clarity.) <br /><br /><b>Have the VSCO app on your phone?</b> <br /><a target="_blank" href="vsco://edit/presets/fn16" rel="noopener">Tap here</a> to go straight to the preset.</p>
+<br /><hr class="article-divider" />
+<div class="article-body col-12-12 -medium-8-12">
+<h4 class="article-body-subtitle">Recipe 04</h4>
+<h3 class="article-body-title -nopad-bottom">Cities</h3>
+<figure><img class="article-body-img" src="https://assets.artifactuprising.com/assets/campaigns/2020/Q1/02-26+VSCO+Tips+Blog+Post/04-Cities.jpg" />
+<figcaption class="text-left">Preset available exclusively for VSCO members</figcaption>
+</figure>
+</div>
+<br />
+<p class="article-body-text">Cityscapes can make for busy images where buildings, roads, and crowds all find themselves competing for the limelight. This is where we call in a little help from our old friend, the L7 preset. Toning down the Saturation and Temperature just a bit can help ditch the competition for cohesion by bringing out some of the cooler colors that capture the best of concrete jungles and seaside villas alike. Give it the finishing touches with a slight bump to the Highlights using the Tone tool, smoothing the image out even further by (you guessed it) increasing the Exposure just a tad. <br /><br /><b>Have the VSCO app on your phone?</b> <a target="_blank" href="vsco://edit/presets/l7" rel="noopener"> <br />Tap here</a> to go straight to the preset.</p>
+<br /><hr class="article-divider" />
+<div class="article-body col-12-12 -medium-8-12">
+<h4 class="article-body-subtitle">Recipe 05</h4>
+<h3 class="article-body-title -nopad-bottom">Light</h3>
+<figure><img class="article-body-img" src="https://assets.artifactuprising.com/assets/campaigns/2020/Q1/02-26+VSCO+Tips+Blog+Post/05-Light.jpg" />
+<figcaption class="text-left">Preset available for free in the VSCO app</figcaption>
+</figure>
+</div>
+<br />
+<p class="article-body-text">When it comes down to it, great photos are all about getting the light just right &mdash; which is easier said than done in sun-soaked photos or images with a bright source of <a target="_blank" href="https://www.artifactuprising.com/photography-tips/6-tips-for-photo-lighting" rel="noopener">light</a>. Luckily, we've got a VSCO preset recipe we trust for sunny days, bright skies, rays of light poking through trees, and everything in between. Using the M5 preset, just add a small amount of exposure and contrast to bring out the light and balance the bright.</p>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="container">
+<div class="post-header">
+<div class="post-wrapper">
+<h1 class="h1">The 5 best free VSCO filters</h1>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="post-wrapper">
+<article class="post-content"><hr />
+<h2>Here are the best free VSCO filters</h2>
+<p>VSCO names its free filters with one or two letters followed by a number, and while the names of the filters might not be that memorable, the VSCO effects definitely are. Here are our favorites in no particular order:</p>
+<ul>
+<li>C1</li>
+<li>F2</li>
+<li>M5</li>
+<li>G3</li>
+<li>B1</li>
+</ul>
+<div class="content-banner">
+<figure>
+<figure><picture> <source srcset="https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=128 128w,
+https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=148 148w,
+https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=172 172w,
+https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=200 200w,
+https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=232 232w,
+https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=269 269w,
+https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=312 312w,
+https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=362 362w,
+https://cdn2-imgix.macpaw.com/images/content/gemini_1560871812.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=384 384w" media="(max-width: 768px)" />&nbsp;</picture></figure>
+</figure>
+</div>
+<hr />
+<h3>C1: The best VSCO filter for lovely pastel colors</h3>
+<figure><picture> <source srcset="https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=320 320w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=371 371w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=431 431w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=499 499w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=579 579w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=672 672w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=780 780w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=904 904w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1049 1049w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1217 1217w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1412 1412w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1638 1638w,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1824 1824w" media="(max-width: 768px)" /> <img src="https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608" srcset="https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format&amp;dpr=1&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 1x,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format&amp;dpr=2&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 2x,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format&amp;dpr=3&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 3x,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format&amp;dpr=4&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 4x,
+https://cdn2-imgix.macpaw.com/images/content/c1-vsco-filter_1561043009.png?auto=format&amp;dpr=5&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 5x" alt="" loading="lazy" width="608" height="540" /> </picture></figure>
+<p>C1 is one of the most popular free VSCO filters, and for good reason. It adds lovely pink highlights and blue shadows to your photos, as well as bumps up saturation, brightness, and contrast. C1 is awesome for landscapes and nature shots, as well as cityscapes.</p>
+<hr />
+<h3>F2: The VSCO filter for moody grays and blues</h3>
+<figure><picture> <source srcset="https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=320 320w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=371 371w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=431 431w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=499 499w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=579 579w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=672 672w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=780 780w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=904 904w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1049 1049w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1217 1217w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1412 1412w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1638 1638w,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1824 1824w" media="(max-width: 768px)" /> <img src="https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608" srcset="https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format&amp;dpr=1&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 1x,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format&amp;dpr=2&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 2x,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format&amp;dpr=3&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 3x,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format&amp;dpr=4&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 4x,
+https://cdn2-imgix.macpaw.com/images/content/f2-vsco-filter_1561043567.png?auto=format&amp;dpr=5&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 5x" alt="" loading="lazy" width="608" height="540" /> </picture></figure>
+<p>With the F2 VSCO filter, you can recreate underexposed film shots. F2 creates a mellow, moody look by washing your photo with a muted blue. Deep blacks become subtle grays, and highlights become quiet and understated. While F2 is a quiet filter, it also gives your photos an edgy look and is perfect for floral shots, flat lays, and cloudy beach scenes.</p>
+<div data-download-bar-trigger=""></div>
+<hr />
+<h3>M5: The VSCO filter for a vintage look</h3>
+<figure><picture> <source srcset="https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=320 320w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=371 371w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=431 431w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=499 499w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=579 579w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=672 672w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=780 780w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=904 904w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1049 1049w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1217 1217w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1412 1412w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1638 1638w,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1824 1824w" media="(max-width: 768px)" /> <img src="https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608" srcset="https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format&amp;dpr=1&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 1x,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format&amp;dpr=2&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 2x,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format&amp;dpr=3&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 3x,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format&amp;dpr=4&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 4x,
+https://cdn2-imgix.macpaw.com/images/content/m5-vsco-filter_1561043072.png?auto=format&amp;dpr=5&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 5x" alt="" loading="lazy" width="608" height="540" /> </picture></figure>
+<p>For warm and bright rust tones throughout your photo, definitely check out the M5 filter. The saturation is lowered, but the colors are deepened, making this a great option for portraits and street photography. This filter does a nice job of creating more flattering skin tones and adds an overall vintage feel to your photo.</p>
+<hr />
+<h3>G3: The best VSCO filter for even skin tones</h3>
+<figure><picture> <source srcset="https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=320 320w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=371 371w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=431 431w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=499 499w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=579 579w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=672 672w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=780 780w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=904 904w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1049 1049w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1217 1217w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1412 1412w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1638 1638w,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1824 1824w" media="(max-width: 768px)" /> <img src="https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608" srcset="https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format&amp;dpr=1&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 1x,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format&amp;dpr=2&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 2x,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format&amp;dpr=3&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 3x,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format&amp;dpr=4&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 4x,
+https://cdn2-imgix.macpaw.com/images/content/g3-vsco-filter_1561043630.png?auto=format&amp;dpr=5&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 5x" alt="" loading="lazy" width="608" height="540" /> </picture></figure>
+<p>While many of the VSCO filters we&rsquo;ve mentioned so far will work for portraits, the G series really excels in this department. The contrast and sharpness are increased with G3, and the skin tones are warmed up with fewer harsh highlights. Blues and greens are deepened, especially with photos that are already on the cool side.</p>
+<hr />
+<h3>B1: A great VSCO filter for black and white</h3>
+<figure><picture> <source srcset="https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=320 320w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=371 371w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=431 431w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=499 499w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=579 579w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=672 672w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=780 780w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=904 904w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1049 1049w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1217 1217w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1412 1412w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1638 1638w,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format%2Ccompress&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=1824 1824w" media="(max-width: 768px)" /> <img src="https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608" srcset="https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format&amp;dpr=1&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 1x,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format&amp;dpr=2&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 2x,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format&amp;dpr=3&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 3x,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format&amp;dpr=4&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 4x,
+https://cdn2-imgix.macpaw.com/images/content/b1-vsco-filter_1561043130.png?auto=format&amp;dpr=5&amp;fm=png&amp;ixlib=php-3.3.1&amp;q=60&amp;w=608 5x" alt="" loading="lazy" width="608" height="540" /> </picture></figure>
+<p>Finally, a black and white filter that emulates the effects of old-school film without going overboard. B1 provides great details in the shadows and a gentle contrast that helps preserve the lights and darks in your shot. The B1 filter highlights the subtle textures of your photo, making it great for landscapes, street scenes, and even macro shots.</p>
+</article>
+</div>
+</div>
+</body>
+</html>

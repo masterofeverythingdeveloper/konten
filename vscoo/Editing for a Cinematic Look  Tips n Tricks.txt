@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="post-title">
+<h1 title="Editing for a Cinematic Look - Tips &amp; Tricks">Editing for a Cinematic Look - Tips &amp; Tricks</h1>
+<span class="status-label status-label-featured"></span></div>
+<div class="post-content">
+<div class="post-body">
+<p><img src="https://support.vsco.co/hc/user_images/uO0csgoZBFnBMMV5D-Z2Rg.png" /></p>
+<p>&nbsp;</p>
+<p>There is something magical about movie stills and the feelings they evoke. Whether it&rsquo;s the color grading, the wide cinematic crop, or the effect of 24 frames per second whizzing by, all of these factors create something truly unique. In this tutorial, we will look at ways of creating a cinematic look in your photographs and find inspiration from the community.<br /><br /></p>
+<p>&nbsp;</p>
+<h2>Edit with Grain &amp; Contrast.</h2>
+<p><br /><br />First, make the initial edits to the photograph and its color. Focus on making adjustments using the grain tool and the contrast tool. These two tools will help mimic the look of a movie shot on film. Try adding a bit of film grain to an image to give the feeling of movement and imperfection. Next, decrease the contrast to take out some of the vivid, bright color and give the photo a subtle look.<br /><br /><br /><img src="https://support.vsco.co/hc/user_images/6XvQCbbVJa03m_3U4fctnw.png" /></p>
+<p>Original<br /><br /><img src="https://support.vsco.co/hc/user_images/5RJ9seWF_2kBQ2DU276AHQ.png" /><br /><br /><br /><img src="https://support.vsco.co/hc/user_images/dIqxC9QFlWytb1oPv63B5Q.png" /></p>
+<p>Edit<br /><br /><img src="https://support.vsco.co/hc/user_images/LX91ia8mG5-GvnJnlDLB_Q.png" /></p>
+<p>Edit Stack<br /><br /></p>
+<p>&nbsp;</p>
+<h2>Edit with Crop &amp; Borders.</h2>
+<p><br /><br />After making the initial edits to the color of an image we will look at how Crop and Borders can create a cinematic scene. Movies have a distinct wide aspect ratio, the most notable being 2.35:1. This distinct look came from the invention of the CinemaScope anamorphic lens, which was created in the 50s and resulted in a new dimension for experiencing a movie. To mimic this look, we will use the Crop tool to change the dimensions of an image. Experiment with different aspect ratio&rsquo;s and sizes and find one that fits your image best. Finally, add a black border to frame your newly transformed picture.</p>
+<p>&nbsp;</p>
+<p><img src="https://support.vsco.co/hc/user_images/cSmf56Po5dx9gMD2N-hfsw.png" /></p>
+<p>Edit with Crop Tool<br /><br /><br /><img src="https://support.vsco.co/hc/user_images/Wabf7G1RZgPj-tI-w27YJA.png" /></p>
+<p>Edit with Border Tools<br /><br /><img src="https://support.vsco.co/hc/user_images/7IN7KiodDsd32s3pXu9KBQ.png" /><br /><br /><img src="https://support.vsco.co/hc/user_images/xEqnsSArGS-9kFOZ93GJmw.png" /><br /><br /></p>
+<h2><br />Experiment with these editing techniques on different scenes for varied effects.<br /><br /><br /><br /></h2>
+<p><img src="https://support.vsco.co/hc/user_images/9pXLtUfGqz8VKVII8tcSKA.jpeg" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="https://support.vsco.co/hc/user_images/4F5LWq19wZQaHnDponfPaQ.jpeg" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="https://support.vsco.co/hc/user_images/ebW9jsd5Bp672mfJZL9Cuw.jpeg" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="https://support.vsco.co/hc/user_images/PNbdEyJFFPfdAJwj4uVzKQ.jpeg" /></p>
+<h2>&nbsp;</h2>
+<h2><br />Cinematic Inspiration From the Community.</h2>
+<h2>&nbsp;</h2>
+<p>A shallow depth of field, an adventurous moment, or a beautiful scene all contain the magic of a cinematic moment. Find inspiration from these images from the community and next time you are out photographing try and look for those fleeting moments.<br /><br /><br /><br /><img src="https://support.vsco.co/hc/user_images/rE_kKSi43eJ4e8uW_dr1AQ.jpeg" /></p>
+<p>Image by&nbsp;<a href="https://vsco.co/mc-cait/media/5b44103e168aca5023ba02c5" rel="nofollow noreferrer">mc-cait</a>.</p>
+<p><br /><br /><img src="https://support.vsco.co/hc/user_images/kN_2TiVuuTpn0G7853N7Xg.jpeg" /></p>
+<p>Image by&nbsp;<a href="https://vsco.co/zach/media/599336f31ce29473a0000002" rel="nofollow noreferrer">zach</a>.<br /><br /><br /><img src="https://support.vsco.co/hc/user_images/H0uUS7HyrNpJqV5s8BWYIA.jpeg" /></p>
+<p>Image by <a href="https://vsco.co/luisaaguia/media/5aaae7aa5eab69501f000001" rel="nofollow noreferrer">luisaaguia</a>.<br /><br /><br /><br /><img src="https://support.vsco.co/hc/user_images/ftUlqSlw7VqvzvFBlvbvDQ.jpeg" /></p>
+<p>Image by&nbsp;<a href="https://vsco.co/jessicalindgrenwu/media/5af953ad84b1e426543750ef" rel="nofollow noreferrer">jessicalindgrenwu</a>.<br /><br /><br /><img src="https://support.vsco.co/hc/user_images/hiRivzMd05Wtq0AAkoeCMw.jpeg" /></p>
+<p>Image by&nbsp;<a href="https://vsco.co/animry/media/5ab96936c286aa422dc2fd88" rel="nofollow noreferrer">animry</a>.</p>
+<p>&nbsp;</p>
+<p><img src="https://support.vsco.co/hc/user_images/gmsMAe9VB4xlEjShepRGIw.jpeg" /></p>
+<p>Image by <a href="https://vsco.co/moehemo/media/5ab0002eff26915701d7dbab" rel="nofollow noreferrer">moehemo</a>.</p>
+<p>&nbsp;</p>
+<p><img src="https://support.vsco.co/hc/user_images/VSS01F-QTe61V6H-wzdUFg.jpeg" /></p>
+<p>Image by&nbsp;<a href="https://vsco.co/sweaterboy/media/59497e90bb4d14682dd480c0" rel="nofollow noreferrer">sweaterboy</a>.</p>
+</div>
+</div>
+</body>
+</html>

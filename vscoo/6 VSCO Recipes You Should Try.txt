@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_specialty">
+<div class="et_pb_row">
+<div class="et_pb_column et_pb_column_3_4 et_pb_column_0   et_pb_specialty_column  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_row_inner et_pb_row_inner_0">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_inner et_pb_column_inner_0 et-last-child">
+<div class="et_pb_module et_pb_post_title et_pb_post_title_0 et_pb_bg_layout_light  et_pb_text_align_left">
+<div class="et_pb_title_container">
+<h1 class="entry-title">6 VSCO Recipes You Should Try</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_section et_pb_section_2 et_section_regular">
+<div class="et_pb_row et_pb_row_0">
+<div class="et_pb_column et_pb_column_2_3 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<p style="text-align: justify;"><span style="font-weight: 400;">When it comes to recording life&rsquo;s precious moments, there&rsquo;s no denying the fact that our smartphones have become our most accessible tool for the task. With high-end and sophisticated cameras that allow us to take crystal-clear images without the need for a DSLR camera, we find ourselves with the newfound ability to scroll through thousands of images &ndash; and all within the easy reach of our pockets.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">But when the time comes to edit all those photos, what then?&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">While our smartphones come equipped with their native editing apps within the gallery, trying to achieve a certain desired look may be difficult. After all, you can&rsquo;t exactly blend away blemishes or adjust the colour tone on the native editor.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">This is when the </span><a href="https://vsco.co/download"><span style="font-weight: 400;">VSCO app</span></a><span style="font-weight: 400;"> comes into play. For those of you who are unfamiliar, the VSCO app is a free photo editing app that&rsquo;s available on both Apple iOS and Android PlayStore. The user-friendly tools and adjustable preset filters make it super easy to customise and bring out the best in your most cherished shots.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Below, we&rsquo;re sharing some of our favourite VSCO recipes and the best types of images to apply them to.&nbsp;</span></p>
+</div>
+</div>
+<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h1><span style="font-weight: 400;">80s Vintage</span></h1>
+</div>
+</div>
+<div class="et_pb_module et_pb_image et_pb_image_0"><span class="et_pb_image_wrap "><img src="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/1.png" alt="" title="" srcset="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/1.png 940w, https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/1-480x402.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 940px, 100vw" /></span></div>
+<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<p style="text-align: justify;"><span style="font-weight: 400;">For those who love the vintage, 80&rsquo;s kind of look, this recipe is for you. Utilising the A4 preset helps to give the photo a nice warm, natural and even skin tone. By adjusting the &lsquo;Grain&rsquo; option, you can add a bit of noise to get that grainy, film effect.&nbsp;</span></p>
+<p style="text-align: center;"><b>The Recipe</b></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Preset: A4 +12</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Exposure: -0.4</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Contrast: -1.7</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Highlights (Found under &lsquo;Tone&rsquo;): +0.3</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Temperature (Found under White Balance): +1.2</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Tint (Founder under White Balance): +0.2</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Skin Tone: +0.5</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Clarity: +1.0</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Grain: +6.0</span></p>
+</div>
+</div>
+<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h1><span style="font-weight: 400;">Warm Autumn</span></h1>
+</div>
+</div>
+<div class="et_pb_module et_pb_image et_pb_image_1"><span class="et_pb_image_wrap "><img src="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/2.png" alt="" title="" srcset="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/2.png 940w, https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/2-480x402.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 940px, 100vw" /></span></div>
+<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<p style="text-align: justify;"><span style="font-weight: 400;">You can never go wrong with the &lsquo;Fall Aesthethic&rsquo;. There&rsquo;s just something about the warm, brown tones that make photos look so cosy and inviting. This next recipe is great as it can be used on people, outdoor scenery and even food! Additionally, you can quickly add on an additional &lsquo;vintage look&rsquo; by adjusting the grain.</span></p>
+<p style="text-align: center;"><b>The Recipe</b></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Preset: M5 +12</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Contrast: -0.7</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Highlights (Found under &lsquo;Tone&rsquo;): +2.0</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Temperature (Found under White Balance): +1.2</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Skin Tone: +3.0</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Clarity: +1.7</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Grain: +6.0 (Optional)</span></p>
+</div>
+</div>
+<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h1><span style="font-weight: 400;">Faux Golden Hour Glow</span></h1>
+</div>
+</div>
+<div class="et_pb_module et_pb_image et_pb_image_2"><span class="et_pb_image_wrap "><img src="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/3.png" alt="" title="" srcset="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/3.png 940w, https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/3-480x402.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 940px, 100vw" /></span></div>
+<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<p style="text-align: justify;"><span style="font-weight: 400;">Getting a &lsquo;Golden Hour&rsquo; photo is something many of us dream about. Unfortunately for most of us, catching that magical time just after sunrise and just before sunset is not such an easy task. But with VSCO and a few minor tweaks, you can manually curate the golden hour effect on any of your photos!</span></p>
+<p style="text-align: center;"><b>The Recipe</b></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Preset: None</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Exposure: -2.7</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Contrast: +0.6</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Saturation: + 1.2</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Temperature (Found under White Balance): +4</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Skin Tone: +1.9</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Grain: +1.5</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Highlight Tint in Orange: +6.5 (Optional)</span></p>
+<blockquote>
+<p style="text-align: justify;"><span style="font-weight: 400;"><strong>P.S.</strong> The highlight tint in orange is optional and should be used only if the photo you&rsquo;re using doesn&rsquo;t have much sun exposure.</span></p>
+</blockquote>
+</div>
+</div>
+<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h1><span style="font-weight: 400;">Summer Vacation</span></h1>
+</div>
+</div>
+<div class="et_pb_module et_pb_image et_pb_image_3"><span class="et_pb_image_wrap "><img src="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/4.png" alt="" title="" srcset="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/4.png 940w, https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/4-480x402.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 940px, 100vw" /></span></div>
+<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<p style="text-align: justify;"><span style="font-weight: 400;">Have photos of the sun and surf? Maybe a beach shot? Then you can never go wrong with a &lsquo;Summer Vacation&rsquo; sort of vibe. This recipe utilises the C1 preset from VSCO&rsquo;s Vibrant Classic set. On its own, the preset helps to boost colours, making the photos look both vibrant and controlled. </span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Toss in a few tweaks to the contrast, saturation and tone, you&rsquo;ll be able to use this recipe for a variety of &lsquo;summer-themed&rsquo; shots.&nbsp;</span></p>
+<p style="text-align: center;"><b>The Recipe</b></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Preset: C1 Vibrant Classic + 6.0</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Contrast: &ndash; 3.1</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Saturation: + 1.6</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Highlights (Found under &lsquo;Tone&rsquo;): +5.4</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Shadow (Found under &lsquo;Tone&rsquo;): +4.2</span></p>
+</div>
+</div>
+<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h1><span style="font-weight: 400;">Travel Neutral&nbsp;</span></h1>
+</div>
+</div>
+<div class="et_pb_module et_pb_image et_pb_image_4"><span class="et_pb_image_wrap "><img src="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/5.png" alt="" title="" srcset="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/5.png 940w, https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/5-480x402.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 940px, 100vw" /></span></div>
+<div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<p style="text-align: justify;"><span style="font-weight: 400;">Perfect for blogs, travel, lifestyle and outdoor photography, this VSCO travel-neutral recipe helps to give your photos a simple and clean feel. Without doing anything too complicated to the photo, this filter recipe will let the scene speak for itself without the use of bold colour tints or &lsquo;too dramatic&rsquo; tones.&nbsp;</span></p>
+<p style="text-align: center;"><b>The Recipe</b></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Preset: A4 +12</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Exposure: -1.6</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Contrast: &ndash; 1.0</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Highlights (Found under &lsquo;Tone&rsquo;): +5</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Temperature (Founde under &lsquo;White Balance&rsquo;): +1.4</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Viginett: +2.0</span></p>
+</div>
+</div>
+<div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<h1><span style="font-weight: 400;">City Still&nbsp;</span></h1>
+</div>
+</div>
+<div class="et_pb_module et_pb_image et_pb_image_5"><span class="et_pb_image_wrap "><img src="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/6.png" alt="" title="" srcset="https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/6.png 940w, https://www.pixajoy.com.my/blog/wp-content/uploads/2022/06/6-480x402.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 940px, 100vw" /></span></div>
+<div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner">
+<p style="text-align: justify;"><span>If you&rsquo;re looking for a filter that will give your image that muted, contemplative look, this recipe is for you. Utilising the J2 preset on VSCO, this recipe lends those quiet moments that subtle bit of &lsquo;oomph&rsquo; to make them a little more defined. We&rsquo;ve found that this recipe works best with flat lays, portraiture and architectural shots.</span></p>
+<p style="text-align: center;"><b>The Recipe</b></p>
+<p style="text-align: center;"><span>Preset: J2 + 8</span></p>
+<p style="text-align: center;"><span>Contrast: + 1.0</span></p>
+<p style="text-align: center;"><span>Grain: +2.0</span></p>
+<p style="text-align: center;"><span>Highlights (Found under &lsquo;Tone&rsquo;): +5</span></p>
+<p style="text-align: center;"><span>Skin Tone: +1.5</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
