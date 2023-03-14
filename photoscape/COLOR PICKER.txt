@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1 id="colorpick">Color Picker</h1>
+The Color Picker function of PhotoScape allows you to duplicate the exact color properties from anything on-screen. <br /><br />
+<h2>Grabbing a Color from Your Screen</h2>
+<table>
+<tbody>
+<tr>
+<td style="width: 400px; padding-right: 20px;">1. With Color Picker open, click and drag the Eyedropper icon to the desired area of your screen.</td>
+<td><img src="http://img.photoscape.org/v005/intro/color_picker-1.jpg" /></td>
+</tr>
+<tr>
+<td style="width: 400px; padding-right: 20px;">2. From the Color Picker window, click on the desired color within the zoomed in area. The color information will be sent to the Current Color section of the Color Picker window.</td>
+<td><img src="http://img.photoscape.org/v005/intro/color_picker-2.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<br />
+<h2>Copying Captured Color Information to Clipboard</h2>
+<table>
+<tbody>
+<tr>
+<td style="width: 400px; padding-right: 20px;">1. From the Picked Color History section of the Color Pickertool, click on the clipboard icon to save the color information to the clipboard. <br /><br />Note: You cannot save more than three colors to Picked Color History at a time. </td>
+<td><img src="http://img.photoscape.org/v005/intro/color_picker-3.jpg" /></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

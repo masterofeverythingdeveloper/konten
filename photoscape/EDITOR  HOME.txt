@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+The Editor tool allows you to alter the appearance of pictures. <br /><br /><img src="http://img.photoscape.org/v005/editor/home/editor-1.jpg" /> <br /><hr />
+<h2>Frame</h2>
+<table>
+<tbody>
+<tr valign="top">
+<td><img src="http://img.photoscape.org/v005/editor/home/frame-3.jpg" /> <br /><img src="http://img.photoscape.org/v005/editor/home/frame-4.jpg" /></td>
+<td style="padding-left: 70px;"><img src="http://img.photoscape.org/v005/editor/home/fram-1.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/editor/home/fram-3.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/editor/home/fram-2.jpg" /></td>
+</tr>
+</tbody>
+</table>
+Click on the Photo+Frame button to combine a frame and a picture into one image. <br /><hr />
+<h2>To Edit the Photo Edge</h2>
+Click on one of buttons underneath the Frame dropdown menu. <br />The picture and the frame are now combined into one image. <br /><br /><img src="http://img.photoscape.org/v005/editor/home/round.jpg" /> <br /><br /><strong> Round </strong> : Rounds the corners on the picture <br /><img src="http://img.photoscape.org/v005/editor/home/round-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/home/round-2.jpg" align="middle" /> <br /><br /><strong> Margin </strong> : Change the size and appearance of the space between the picture and the edge of the canvas <br /><br /><img src="http://img.photoscape.org/v005/editor/home/margin-1.jpg" align="middle" /> &nbsp;&nbsp; <img src="http://img.photoscape.org/v005/editor/home/margin-2.jpg" align="middle" /> <br /><br /><strong> Frame Line </strong> : Creates a line around the inner edge of the picture <br /><img src="http://img.photoscape.org/v005/editor/home/frameline-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/home/frameline-2.jpg" align="middle" /> <br /><hr />
+<h2>To Change the Tone</h2>
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="http://img.photoscape.org/v005/editor/home/tone-1.jpg" /></td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/editor/home/bright_color-1.jpg" /> <br />Original</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/home/bright_color-2.jpg" /> <br />Sepia</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/editor/home/bright_color-3.jpg" /> <br />Grayscale</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/home/bright_color-5.jpg" /> <br />B&amp;W</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/editor/home/bright_color-4.jpg" /> <br />Negative</td>
+</tr>
+</tbody>
+</table>
+<h2>Rotate</h2>
+<a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_home" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/IkYyGwv_ugc?rel=0');">Play Video</a><br /><br /><img src="http://img.photoscape.org/v005/editor/home/home_tab-2.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/editor/home/rotate.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/editor/home/rotate-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/home/rotate-2.jpg" align="middle" /> <br /><hr />
+<h2>Resize</h2>
+<div style="float: left; padding-right: 20px;"><img src="http://img.photoscape.org/v005/editor/home/resize-2.jpg" /> </div>
+<div>Adjust the size of your picture in pixels by entering values in the Width or Height area. Alternatively, adjust the size of your picture by moving the Ratio slider left and right. <br /><br />Note: To keep the ratio between the Width and Height the same, click "Preserve aspect ratio" </div>
+<br style="clear: both;" /><br />
+<div style="float: left; padding-right: 20px;"><img src="http://img.photoscape.org/v005/editor/home/resize-1.jpg" /> </div>
+<div>Quick Resize (Popup Menu) <br /><br /><strong> Reduce the longer length </strong>: Reduces the longest edge of the picture to a smaller standard while maintaining aspect ratio. <br /><strong> Adjust the longer length </strong>: Allows you to customize the length of the longest edge while maintaining aspect ratio. <br /><strong> Adjust width </strong>: Allows you to customize the width while maintaining aspect ratio. <br /><strong> Adjust height </strong>: Allows you to customize the height while maintaining aspect ratio. </div>
+<br style="clear: both;" /><br />
+<h2 id="bright">Bright, Color</h2>
+<br /><img src="http://img.photoscape.org/v005/editor/home/bright,color.jpg" /> <br /><br /><a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_home" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/6SUwAmNels0?rel=0');">Play Video</a><br />
+<div style="float: left; padding-right: 20px;"><img src="http://img.photoscape.org/v005/editor/home/bright_color-6.jpg" /> </div>
+<div>Bright,Color (Popup Menu) </div>
+<br style="clear: both;" /><br />
+<div style="padding-left: 40px;"><a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_home" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/6vIXU_a_pb8?rel=0');">Color Conversion Video</a><br /><br /><strong>Contrast Enhancement</strong>: Alters photo by increasing the contrast between lighting and colors <br /><br /><strong>Deepen</strong>: Makes the tones in the photo appear richer <br /><br /><strong>Brighten</strong>: Makes the photo lighter <br /><br /><strong>Darken</strong>: Makes the photo darker <br /><br /><strong>Decolor</strong>: Drains colors from a photo <br />
+<table style="padding-left: 20px;">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/home/decolor-1.jpg" />
+<div>-1</div>
+</td>
+<td><img src="http://img.photoscape.org/v005/editor/home/decolor-2.jpg" />
+<div>-6</div>
+</td>
+<td><img src="http://img.photoscape.org/v005/editor/home/decolor-3.jpg" />
+<div>-10</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br /><strong id="curves">Color Curves, Saturation Curve, Luminance Curve</strong>: Corrects color balance by creating an overall shift in the shadows, mid tones, and highlights <br /><a id="curves_autoplay" class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_home" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/1F79sR4r5WU?rel=0');">Play Video</a><br />
+<div style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/color_curves-1.jpg" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/home/color_curves-2.jpg" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/home/color_curves-3.jpg" /> &nbsp; <br /><img src="http://img.photoscape.org/v005/editor/home/color_curves-4.jpg" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/home/color_curves-5.jpg" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/home/color_curves-6.jpg" /> &nbsp;</div>
+<br /><strong>White Balance</strong>: Removes unrealistic color casts, so that objects which appear white in person are rendered white in your photo <br /><a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_home" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/LN-UVDHwP7M?rel=0');">Play Video</a><br />
+<div style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/white_balance-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/home/white_balance-2.jpg" align="middle" /> </div>
+<br /><strong>Color Balance</strong>: Adjusts the intensities of the main colors your image is composed from <br />
+<div style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/color_balance-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/home/color_balance-2.jpg" align="middle" /> </div>
+<br /><strong>Remove Color Cast</strong>: Removes user-defined color casts and adjusts white balances <br />
+<div style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/remove_colorcast-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/home/remove_colorcast-2.jpg" align="middle" /> </div>
+<br /><strong>Colorize</strong>: Add color and saturation to the photo <br />
+<div style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/colorize-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/home/colorize-2.jpg" align="middle" /> </div>
+<br /><strong>Color Enhance</strong>: Increases the saturation range of the colors in the layer without altering brightness or hue <br /><br /><strong>Dilate</strong>: Weakens colors in photo (opposite of eroding) <br /><br /><strong>Erode</strong>: Strengthens colors in photo (opposite of dilating) <br /><br /><strong>Sepia</strong>: Creates an &ldquo;old-fashioned&rdquo; effect by changing your picture to a reddish brown tone <br /><br /><strong>Grayscale</strong>: Eliminates hue to create a black and white tone picture <br /><br /><strong>Reverse Black and White</strong>: Reverses the colors of the pictures <br />
+<div style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/reverse-1.jpg" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/home/reverse-2.jpg" /> &nbsp;</div>
+<br /><strong>Threshold</strong>: Changes a color picture to a black and white silhouette <br />
+<div style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/threshold-1.jpg" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/home/threshold-2.jpg" /> </div>
+</div>
+<hr />
+<h2>Sharpen</h2>
+<img src="http://img.photoscape.org/v005/editor/home/sharpen.jpg" /> <img src="http://img.photoscape.org/v005/editor/home/sharpen-7.jpg" class="pl20" /> <br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/home/sharpen-1.jpg" /> <br />Sharpen 1</td>
+<td style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/sharpen-2.jpg" /> <br />Sharpen 7</td>
+<td style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/sharpen-3.jpg" /> <br />Sharpen 13</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/home/sharpen-4.jpg" /> <br />Radius 0.1 / Amount 10%</td>
+<td style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/sharpen-5.jpg" /> <br />Radius 4.0 / Amount 250%</td>
+<td style="padding-left: 20px;"><img src="http://img.photoscape.org/v005/editor/home/sharpen-6.jpg" /> <br />Radius 8.0 / Amount 500%</td>
+</tr>
+</tbody>
+</table>
+<br /><hr />
+<h2>Bloom</h2>
+<a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_home" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/VB_Dr5IMXhc?rel=0');">Play Video</a><br />Glowing effect <br /><img src="http://img.photoscape.org/v005/editor/home/bloom.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/editor/home/bloom-1.jpg" align="middle" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/home/bloom-2.jpg" align="middle" /> <br /><hr />
+<h2>Backlighit Correction</h2>
+<a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_home" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/y-Rks3PniYQ?rel=0');">Play Video</a><br />Brightening Dark Areas of the Photo<br /><br /><img src="http://img.photoscape.org/v005/editor/home/backlight.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/editor/home/backlight-1.jpg" align="middle" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/home/backlight-2.jpg" align="middle" /> <br /><br />
+<div>If the preset is marked with a (+), the option will brighten darker areas in the photo by the specified percent. If preset is marked with a (+/-), the option will brighten dark areas and darken bright areas.</div>
+</body>
+</html>s

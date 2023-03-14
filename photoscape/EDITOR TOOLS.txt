@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Batch Editor</h1>
+The Batch Editor tool allows you to make similar changes to multiple pictures. <br /><br /><img src="http://img.photoscape.org/v005/batch/batch-1.jpg" /> <br /><hr />
+<h2>Rotate (Home Tab)</h2>
+<div style="float: left; padding-right: 20px;"><img src="http://img.photoscape.org/v005/batch/home_rotate-1.jpg" /></div>
+<div>1. Rotate 90 degrees CCW <br />2. Rotate 90 degrees CW <br />3. Flip Horizontal <br />4. Flip Vertical</div>
+<br style="clear: both;" /><hr />
+<h2>Frame to All Photos (Home Tab)</h2>
+1. Click on the dropdown menu directly beneath the tabs. <br />2. Select a frame from the menu. <br /><br /><img src="http://img.photoscape.org/v005/batch/home_frame.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/batch/home_frame-1.jpg" /> <br />Original</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/batch/home_frame-2.jpg" /> <br />Frame</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Method of Resize (Home Tab)</h2>
+<img src="http://img.photoscape.org/v005/batch/home_resize-1.jpg" />
+<h2>Interpolation Options</h2>
+<img src="http://img.photoscape.org/v005/batch/home_resize-2.jpg" /><hr />
+<h2>Apply Margin &amp; Round (Home Tab)</h2>
+Click 1 - <img src="http://img.photoscape.org/v005/batch/home_round-1.jpg" /> <br /><br />Click 2 - <img src="http://img.photoscape.org/v005/batch/home_round-2.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/batch/home_round-3.jpg" /> <br />Origianl</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/batch/home_round-4.jpg" /> <br />Round - 30</td>
+</tr>
+</tbody>
+</table>
+<h2>Filter Tab</h2>
+<table>
+<tbody>
+<tr valign="top">
+<td><img src="http://img.photoscape.org/v005/batch/filter.jpg" /></td>
+<td>
+<div style="padding-left: 20px;"><strong>Auto Level</strong>: Redistributes colors throughout the photo in hopes of color correcting photos <br /><strong>Auto Contrast</strong>: Alters photo by changing the contrast between lighting and colors <br /><strong>Sharpen</strong>: Increases the appearance of edges in a photo <br /><strong>Backlight Correction</strong>: If percent is a (+), makes darker areas in the photo brighter; if percent is a (+/-), makes bright areas darker and dark areas brighter <br /><strong>Contrast Enhance</strong>: Alters photo by increasing the contrast between lighting and colors <br /><strong>Deepen</strong>: Makes the tones in the photo appear richer <br /><strong>Brighten</strong>: Makes the photo lighter <br /><strong>Darken</strong>: Makes the photo darker <br /><strong>Bright</strong>: Increase or decrease level of light and darkness in a photo <br /><strong>Contrast</strong>: Increase or decrease level of contrast between lighting and color in a photo <br /><strong>Decolor</strong>: Drains colors from a photo <br /><strong>Bloom</strong>: Applies a softer filter to the photo, making the edges bleed into each other <br /><strong>Film Effect</strong>: Makes photo appear to be taken on different kinds of film <br /><strong>Vignetting</strong>: Adds different gradients of darkness around the edges of the photo <br /><strong>Sepia</strong>: Makes the photo black and white and appear to be developed using Sepia toner (A different color than black and white, but still monochromatic) <br /><strong>Antique Photo</strong>: Gives the appearance of an older photograph <br /><strong>Grayscale</strong>: Makes the photo black and white <br /><strong>Blur</strong>: Blurs the photo <br /><strong>Negative</strong>: Gives the photo the appearance of a film negative <br /><strong>Erode</strong>: Strengthens colors in photo (opposite of dilating) <br /><strong>Dilate</strong>: Weakens colors in photo (opposite of eroding) </div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Picture to all Pictures (Object Tab)</h2>
+<img src="http://img.photoscape.org/v005/batch/object_photo-1.jpg" /> <br /><img src="http://img.photoscape.org/v005/batch/object_photo-4.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/batch/object_photo-2.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/batch/object_photo-3.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/batch/object_photo-5.jpg" /> <br /><hr />
+<h2>Text to all Pictures (Object Tab)</h2>
+<img src="http://img.photoscape.org/v005/batch/object_text-1.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/batch/object_text-2.jpg" /> <br /><img src="http://img.photoscape.org/v005/batch/object_text-3.jpg" />
+</body>
+</html>

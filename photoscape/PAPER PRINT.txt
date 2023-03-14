@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1 id="paper">Paper Print</h1>
+<img src="http://img.photoscape.org/v005/intro/paper-1.jpg" />
+</body>
+</html>

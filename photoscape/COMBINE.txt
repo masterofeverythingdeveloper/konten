@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Combine</h1>
+The combine function of PhotoScape allows you to link images together into a larger image. <br />The individual images can be placed vertically, horizontally, or in a checkerboard style: both horizontally and vertically. <br /><br /><img src="http://img.photoscape.org/v005/combine/combine-1.jpg" />
+<h2>Picture Layout</h2>
+<table>
+<tbody>
+<tr valign="top">
+<td rowspan="2" style="padding-right: 80px;">1. Down <br /><img src="http://img.photoscape.org/v005/combine/down-2.jpg" /> <br />Aligns photos vertically <br />(one on top of the other)</td>
+<td>2. Side <br /><img src="http://img.photoscape.org/v005/combine/side-2.jpg" /> <br />Aligns photos horizontally (one to the right of the other)</td>
+</tr>
+<tr>
+<td>3. Checker <br /><img src="http://img.photoscape.org/v005/combine/checker.jpg" /> <br />Aligns photos in a table format <br />(a series of rows and columns)</td>
+</tr>
+</tbody>
+</table>
+<br /><hr />
+<h2>Canvas size</h2>
+<img src="http://img.photoscape.org/v005/combine/canvas_size-2.jpg" /> <br /><br /><img src="http://img.photoscape.org/v005/combine/canvas_size-1.jpg" /> Resize Ratio 10~300% <br /><hr />
+<h2>Adjusting the Edges and Margins of the Photos</h2>
+<table>
+<tbody>
+<tr valign="top">
+<td><img src="http://img.photoscape.org/v005/combine/margin-1.jpg" /> </td>
+<td><strong>Outer Margin</strong>: Adjusts the margin around the collection of photos <br /><strong>Intervals of Photos</strong>: Adjusts the space between the individual photos <br /><strong>Round</strong>: Rounds the edges of the individual photos <br /><strong>Margin Color</strong>: Adjusts the color of the outer margin and intervals </td>
+</tr>
+</tbody>
+</table>
+<br /><img src="http://img.photoscape.org/v005/combine/margin-2.jpg" style="margin-right: 40px;" /> <img src="http://img.photoscape.org/v005/combine/margin-3.jpg" /> <br /><hr />
+<h2>Frames</h2>
+<img src="http://img.photoscape.org/v005/combine/frame-1.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="http://img.photoscape.org/v005/combine/frame-2.jpg" /> <br />Original</td>
+<td style="padding-left: 40px;" align="center"><img src="http://img.photoscape.org/v005/combine/frame-3.jpg" /> <br />Frame</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Filename Size</h2>
+<img src="http://img.photoscape.org/v005/combine/filename-1.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/combine/filename-2.jpg" /> <br />Filename (px) 0</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/combine/filename-3.jpg" /> <br />Filename (px) 20</td>
+</tr>
+</tbody>
+</table>
+Note: A Filename (px) value of 0 will leave picture files without filenames showing. <br /><hr />
+<h2>Image Enlargement Options</h2>
+<img src="http://img.photoscape.org/v005/combine/margin-4.jpg" /> <br /><strong>Stretch</strong>: Stretches the photos to fit them into the canvas <br /><strong>Paper Full</strong>: Crops photos to fit them into the canvas <br /><strong>Image Full</strong>: Enlarges photos as much as possible while keeping inside of the frame, then fills in excess canvas area with background color <br /><strong>Image Full (No Enlargement)</strong>: Keeps photos in original state, then fills in excess canvas area with background color&nbsp;
+</body>
+</html>

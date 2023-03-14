@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Animated GIF</h1>
+The Animated GIF function of PhotoScape allows you to create an animated gif slideshow of your pictures. <br /><br /><img src="http://img.photoscape.org/v005/animated_gif/animated_gif-1.jpg" />
+<h2>Change Display Time</h2>
+Adjust the duration of time that each photo is displayed by changing the Display Time. <br />Increasing the number increases how long a photo is displayed before switching to the next one. <br /><br />Click 1 - <img src="http://img.photoscape.org/v005/animated_gif/change_time-1.jpg" /> <br /><br />Click 2 - <img src="http://img.photoscape.org/v005/animated_gif/change_time-2.jpg" style="margin-left: 15px;" /> <br /><hr />
+<h2>Change Transition Effect</h2>
+<img src="http://img.photoscape.org/v005/animated_gif/change_effect.jpg" /> <br /><br />
+<table class="sampletable">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/animated_gif/effect/no_effect.gif" />
+<div>No effect</div>
+</td>
+<td><img src="http://img.photoscape.org/v005/animated_gif/effect/slide_up.gif" />
+<div>Slide up</div>
+</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/animated_gif/effect/slide_down.gif" />
+<div>Slide down</div>
+</td>
+<td><img src="http://img.photoscape.org/v005/animated_gif/effect/slide_right.gif" />
+<div>Slide to the right</div>
+</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/animated_gif/effect/slide_left.gif" />
+<div>Slide to the left</div>
+</td>
+<td><img src="http://img.photoscape.org/v005/animated_gif/effect/convert_background.gif" />
+<div>Background color</div>
+</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/animated_gif/effect/convert_black.gif" />
+<div>Convert to black</div>
+</td>
+<td><img src="http://img.photoscape.org/v005/animated_gif/effect/convert_white.gif" />
+<div>Convert to white</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Image Enlargement Options</h2>
+<img src="http://img.photoscape.org/v005/animated_gif/image_view.jpg" /> <br />
+<table>
+<tbody>
+<tr valign="top">
+<td><img src="http://img.photoscape.org/v005/animated_gif/enlargement/stretch.gif" /></td>
+<td>Stretch <br />- Stretches the photos to fit them into the canvas</td>
+</tr>
+<tr valign="top">
+<td><img src="http://img.photoscape.org/v005/animated_gif/enlargement/paper_full.gif" /></td>
+<td>Paper Full <br />- Crops photos to fit them into the canvas</td>
+</tr>
+<tr valign="top">
+<td><img src="http://img.photoscape.org/v005/animated_gif/enlargement/image_full.gif" /></td>
+<td>Image Full <br />- Enlarges photos as much as possible while keeping inside of the frame, then fills in excess canvas area with background color</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

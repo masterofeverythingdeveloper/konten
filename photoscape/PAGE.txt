@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Page</h1>
+The Page function of PhotoScape allows you to arrange your photos into a digital picture. How the photos are arranged, how many there are and the appearance of the frame can all be edited using this tool. <br /><br /><img src="http://img.photoscape.org/v005/page/page-1.jpg" />
+<h2>Arranging Photos in Frames</h2>
+<img src="http://img.photoscape.org/v005/page/page-3.jpg" /> <br /><br />If a photo is too large to fit into its box, only part of it will be showing. To adjust what part of the photo is showing, click and drag the photo in its box until the correct section of the photo is in the frame. <br /><br /><img src="http://img.photoscape.org/v005/page/size-1.jpg" style="padding-right: 90px;" /> <img src="http://img.photoscape.org/v005/page/size-2.jpg" /> <br /><hr />
+<h2>Adjust the Size of the Margins around the Frame</h2>
+<img src="http://img.photoscape.org/v005/page/margin.jpg" /> <br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/page/margin-1.jpg" /> Margin - 0</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/page/margin-2.jpg" /> Margin - 10</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Change the Background Color and Round the Edges</h2>
+<img src="http://img.photoscape.org/v005/page/round.jpg" /> <br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/page/backgound_color-1.jpg" /> Round - 0</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/page/backgound_color-2.jpg" /> Round - 30</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/page/round-1.jpg" /></td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/page/round-2.jpg" /> Round - 100</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Effect to All Photos</h2>
+<table>
+<tbody>
+<tr valign="top">
+<td><img src="http://img.photoscape.org/v005/page/filter.jpg" /></td>
+<td>
+<div style="padding-left: 20px;"><strong>Grayscale</strong> - Makes the photos black and white <br /><strong>Sepia</strong> - Makes the photos black and white and appear to be developed using Sepia toner (a different color than black and white, but still monochromatic) <br /><strong>Reverse Black and White</strong> - Makes the photos appear black and white with the colors reversed <br /><strong>Brighten</strong> - Makes the photos lighter (the more times this is selected, the greater the effect) <br /><strong>Deepen</strong> - Makes the tones in the photos appear richer (the more times this is selected, the greater the effect) <br /><strong>Darken</strong> - Makes the photos darker (the more times this is selected, the greater the effect) <br /><strong>Vignetting #1</strong> - Adds a dark circular gradient around the edges of the frame <br /><strong>Vignetting #2</strong> - Adds a darker circular gradient around the edges of the frame </div>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table class="sampletable">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/page/1.jpg" /></td>
+<td><img src="http://img.photoscape.org/v005/page/2.jpg" /></td>
+<td><img src="http://img.photoscape.org/v005/page/3.jpg" /></td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/page/4.jpg" /></td>
+<td><img src="http://img.photoscape.org/v005/page/5.jpg" /></td>
+<td><img src="http://img.photoscape.org/v005/page/6.jpg" /></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

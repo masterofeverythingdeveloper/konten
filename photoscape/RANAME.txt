@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1 id="rename">Rename</h1>
+The rename function of PhotoScape allows you to edit the filename of your images individually or as a batch. <br /><br /><img src="http://img.photoscape.org/v005/intro/rename-1.jpg" />
+<h2>To Add images to Your Queue</h2>
+1. Click the Add button from the Rename Window. This will open a desktop explorer window. <br />2. Choose the images on your system you would like to rename and press OK. <br />Note: You can also drag and drop files into the index window instead of browsing through the explorer. <br /><br />
+<h2>To Rename Images</h2>
+1. In the File Naming window, choose different naming presets from the dropdown menu(s). <br />2. Click the Convert button. <br />Note: Rename will overwrite the filename of the original image file. <br />Note: When using date or time presets, Y stands for year, M stands for month, D stands for day, H stands for hour, M stands for minute, and S stands for seconds. The following are explanations of the date presets: <br />
+<h2>To Undo Renaming Your File</h2>
+1. Click the Rollback button. <br />Note: This will only work right after converting your image file. If you add more images to be converted, you will not be able to undo a file rename.&nbsp;
+</body>
+</html>

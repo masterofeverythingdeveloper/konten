@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<img src="http://img.photoscape.org/v005/editor/filter/filter-1.jpg" /> <br /><br />
+<h2>Film Effect</h2>
+<a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_filter" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/i27yT5zU2bw?rel=0');"></a><br />Makes photo appear to be taken on different kinds of film <br />
+<table class="table-r20">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/film_effect/film_effect-1.jpg" /> <br />Cinema</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/film_effect/film_effect-2.jpg" /> <br />Cross process</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/film_effect/film_effect-3.jpg" /> <br />Velvia</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/film_effect/film_effect-4.jpg" /> <br />Provia</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/film_effect/film_effect-5.jpg" /> <br />Portra</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/film_effect/film_effect-6.jpg" /> <br />Agfa</td>
+</tr>
+</tbody>
+</table>
+<h2>Vignetting</h2>
+<a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_filter" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/2gCoGiLTBIs?rel=0');"></a><br />Adds different gradients of darkness around the edges of the photo <br />
+<table class="table-r20">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/vignetting/original.jpg" /> <br />Original</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/vignetting/vignetting-1.jpg" /> <br />#1</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/vignetting/vignetting-2.jpg" /> <br />#2</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/vignetting/vignetting-3.jpg" /> <br />#3</td>
+</tr>
+</tbody>
+</table>
+<h2>Antique Photo</h2>
+<a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_filter" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/LM_g9lo4dcM?rel=0');"></a><br />Gives the appearance of an older photograph <br />
+<table class="table-r20">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/antique_photo/antique_photo.jpg" /> <br />Original</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/antique_photo/antique_photo-1.jpg" /> <br />01</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/antique_photo/antique_photo-2.jpg" /> <br />02</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/antique_photo/antique_photo-3.jpg" /> <br />03</td>
+</tr>
+</tbody>
+</table>
+<h2>Region (Out of Focus)</h2>
+<a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_filter" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/BGnP95cUK4c?rel=0');"></a><br />Focuses on a specific area in the photo <br />
+<table class="table-r20">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/original.jpg" /> <br />Original</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/blur.jpg" /> <br />Blur</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/sharpen.jpg" /> <br />Sharpen</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/sepia.jpg" /> <br />Sepia</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/grayscale.jpg" /> <br />Grayscale</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/negative.jpg" /> <br />Negative</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/black.jpg" /> <br />Black</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/white.jpg" /> <br />White</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/brighten.jpg" /> <br />Brighten</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/deepen.jpg" /> <br />Deepen</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/darken.jpg" /> <br />Darken</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/noise.jpg" /> <br />Noise</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/jitter.jpg" /> <br />Jitter</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/crystallize.jpg" /> <br />Crystallize</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/edge.jpg" /> <br />Edge</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/embossing.jpg" /> <br />Embossing</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/impressionistic.jpg" /> <br />Impressionistic</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/pastel.jpg" /> <br />Pastel</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/region/pencil.jpg" /> <br />Pencil</td>
+</tr>
+</tbody>
+</table>
+<h2>Linear Gradient</h2>
+<a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_filter" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/bFn9SXdVtrY?rel=0');"></a><br />Applies a gradient to from one of the edges to the center of the photo <br />
+<table class="table-r20">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/linear_gradient/linear_gradient-1.jpg" /> <br />Top</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/linear_gradient/linear_gradient-2.jpg" /> <br />Left</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/linear_gradient/linear_gradient-3.jpg" /> <br />Right</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/linear_gradient/linear_gradient-4.jpg" /> <br />Bottom</td>
+</tr>
+</tbody>
+</table>
+<h2>Graduated Tint</h2>
+Darkens the upper portion of the photo <br /><img src="http://img.photoscape.org/v005/editor/filter/graduated_tint-1.jpg" align="middle" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/graduated_tint-2.jpg" align="middle" /> <br />
+<h2 id="faketiltshift">Fake Tilt-Shift</h2>
+<br />Gives aerial photos the appearance of miniature models <br /><img src="http://img.photoscape.org/v005/editor/filter/fake_tilt_shift-1.jpg" align="middle" /> &nbsp;&nbsp;&nbsp; <img src="http://img.photoscape.org/v005/editor/filter/fake_tilt_shift-2.jpg" align="middle" />Lens FlareMakes a halo or glow around bright objects, causes a general fogging of the film, and overall decreases the contrast of the image <br /><img src="http://img.photoscape.org/v005/editor/filter/lens_flare-1.jpg" align="middle" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/lens_flare-2.jpg" align="middle" /> <br />
+<h2>Fade Style</h2>
+<br />Adds a color semi-transparent color tint to your photo <br /><img src="http://img.photoscape.org/v005/editor/filter/fade_style-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/fade_style-2.jpg" align="middle" /> <br />
+<h2>Blur</h2>
+Blurs the photo <br /><img src="http://img.photoscape.org/v005/editor/filter/blur-1.jpg" align="middle" /> &nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/blur-2.jpg" align="middle" /> <br />
+<h2>Texture</h2>
+Adds a semi-transparent texture to your photo <br />
+<table class="table-r20 table-b20">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/texture/1.jpg" /></td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/texture/2.jpg" /></td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/texture/3.jpg" /></td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/texture/4.jpg" /></td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/texture/5.jpg" /></td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/texture/6.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<h2>Noise</h2>
+Adds visual static to your photo <br /><img src="http://img.photoscape.org/v005/editor/filter/noise-1.jpg" align="middle" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/noise-2.jpg" align="middle" /> <br />
+<h2>Jitter</h2>
+Distorts the arrangement of the pixels <br /><img src="http://img.photoscape.org/v005/editor/filter/jitter-1.jpg" align="middle" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/jitter-2.jpg" align="middle" /> <br />
+<h2>Crystallize</h2>
+Recolors groups of pixels in an area <br /><img src="http://img.photoscape.org/v005/editor/filter/crystallize-1.jpg" align="middle" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/crystallize-2.jpg" align="middle" /> <br />
+<h2>Edge</h2>
+Eliminates all colors excepts for outlines and edges <br /><img src="http://img.photoscape.org/v005/editor/filter/edge-1.jpg" align="middle" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/edge-2.jpg" align="middle" /> <br />
+<h2>Emboss</h2>
+Creates your picture appearance of a 3-D image <br /><img src="http://img.photoscape.org/v005/editor/filter/embossing-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/embossing-2.jpg" align="middle" /> <br />
+<h2>Cellophane</h2>
+<br />Creates an offset, semitransparent layer of blue and green on top of the red layer of the original picture <br /><img src="http://img.photoscape.org/v005/editor/filter/cellophane-1.jpg" align="middle" /> &nbsp; ► &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/cellophane-2.jpg" align="middle" /> <br />
+<h2>Newsprint</h2>
+<br />Gives a newspaper style texture to the picture <br /><img src="http://img.photoscape.org/v005/editor/filter/newspring-1.jpg" align="middle" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/newspring-2.jpg" align="middle" /> <br />
+<h2>Pictorialization</h2>
+Provides several options for giving your photo a &ldquo;handmade&rdquo; appearance <br />
+<table class="table-r20" style="width: 98.1073%; height: 780px;">
+<tbody>
+<tr style="height: 266px;" valign="top">
+<td style="width: 24.1185%; height: 266px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/original.jpg" /> <br />Original</td>
+<td style="width: 24.1185%; height: 266px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/colored_pencil.jpg" /> <br />Colored Pencil </td>
+<td style="width: 24.1185%; height: 266px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/watercolor_pencil.jpg" /> <br />Watercolor Pencil </td>
+<td style="width: 24.1185%; height: 266px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/impressionistic.jpg" /> <br />Impressionistic <br />&nbsp;</td>
+</tr>
+<tr style="height: 266px;" valign="top">
+<td style="width: 24.1185%; height: 266px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/pastel.jpg" /> <br />Pastel </td>
+<td style="width: 24.1185%; height: 266px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/pen.jpg" /> <br />Pen</td>
+<td style="width: 24.1185%; height: 266px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/water_painting.jpg" /> <br />Water Painting</td>
+<td style="width: 24.1185%; height: 266px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/oil_painting.jpg" /> <br />Oil painting</td>
+</tr>
+<tr style="height: 248px;">
+<td style="width: 24.1185%; height: 248px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/pencil.jpg" /> <br />Pencil</td>
+<td style="width: 24.1185%; height: 248px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/cartoon.jpg" /> <br />Cartoon</td>
+<td style="width: 24.1185%; height: 248px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/color_engraving.jpg" /> <br />Color Engraving</td>
+<td style="width: 24.1185%; height: 248px;"><img src="http://img.photoscape.org/v005/editor/filter/pictorialization/moon_engraving.jpg" /> <br />Mono. Engraving</td>
+<td style="width: 0%; height: 248px;"></td>
+</tr>
+</tbody>
+</table>
+<h2>Distorts</h2>
+<br />Provides several options for warping your photo <br />
+<table class="table-r20">
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/original.jpg" /> <br />Original</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/perspective.jpg" /> <br />Perspective</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/window.jpg" /> <br />Window</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/illusion.jpg" /> <br />Illusion</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/fisheye.jpg" /> <br />Fisheye</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/motion_blur.jpg" /> <br />Motion Blur</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/zoom_blur.jpg" /> <br />Zoom Blur</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/radial_blur.jpg" /> <br />Radial Blur</td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/wave.jpg" /> <br />Wave</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/distorts/swirl.jpg" /> <br />Swirl</td>
+</tr>
+</tbody>
+</table>
+<h2>Glasstile</h2>
+Gives photo the appearance of being places under tiled glass <br /><img src="http://img.photoscape.org/v005/editor/filter/glasstile/glasstile-1.jpg" align="middle" /> &nbsp;&nbsp;&nbsp; <img src="http://img.photoscape.org/v005/editor/filter/glasstile/glasstile-2.jpg" align="middle" /> <br />
+<h2>Make a box</h2>
+Creates a box out of the photo <br /><img src="http://img.photoscape.org/v005/editor/filter/make_a_box/make_a_box-1.jpg" align="middle" /> &nbsp;&nbsp; &nbsp; <img src="http://img.photoscape.org/v005/editor/filter/make_a_box/make_a_box-2.jpg" align="middle" /> <br />
+<h2>Reflection</h2>
+<br />Reflects an duplicate image at the bottom edge of the photo <br />
+<table>
+<tbody>
+<tr valign="top">
+<td><img src="http://img.photoscape.org/v005/editor/filter/reflection-1.jpg" align="middle" /> &nbsp; ► &nbsp;</td>
+<td><img src="http://img.photoscape.org/v005/editor/filter/reflection-2.jpg" /> </td>
+</tr>
+</tbody>
+</table>
+<h2>Smart Blur (Clear Skin)</h2>
+Blurs colors to eradicate off-color pixels and add balance to photos <br />
+<h2>Noise Reduction (Clear Skin)</h2>
+</body>
+</html>

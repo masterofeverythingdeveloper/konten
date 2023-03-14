@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1 id="splitter">Splitter</h1>
+The splitter function of PhotoScape allows you to divide a photo into multiple images. <br /><br /><img src="http://img.photoscape.org/v005/intro/splitter-1.jpg" /> <br />
+<h2>To Add Images to the Splitter Queue</h2>
+1. Click the Add button from the Splitter Window. <br />2. Select the picture that you wish to split from the browser <br />3. Click OK. <br />
+<h2>To Split Photos into Separate Images</h2>
+1. Select the photo from the queue. The image will appear in the Splitter Window. <br />2. Click Split after Col, Row or Height, Width settings are satisfactory. <br />3. After selecting to save to a folder placed at the original image location or save to a designated folder, click Split. <br /><br /><img src="http://img.photoscape.org/v005/intro/splitter-2.jpg" /> <br /><br />Note: The settings in the Col, Row tab specifies the number of separated image portions to make from the image file (done by splitting the image vertically and horizontally). The Cell Size (px) box details the pixel size of each image portion. The settings in the Width, Height tab specifies the amount of pixels for each separated image portion. The Cols x Rows box details a 2-D dimension of the separated image portions. <br /><br /><img src="http://img.photoscape.org/v005/intro/splitter-3.jpg" style="display: inline-block; vertical-align: middle;" /> &nbsp; <img src="http://img.photoscape.org/v005/intro/splitter-4.jpg" style="display: inline-block; vertical-align: middle;" />
+</body>
+</html>

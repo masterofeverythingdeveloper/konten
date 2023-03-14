@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1 id="capture">Screen Capture</h1>
+<table>
+<tbody>
+<tr>
+<td style="width: 400px; padding-right: 20px;">The screen capture function of PhotoScape allows you to take a digital picture of your computer screen. Depending on what function you use, you can capture all or part of your screen and alter the image by using the Edit tool in PhotoScape.</td>
+<td><img src="http://img.photoscape.org/v005/intro/screen_capture1.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<h2>Capturing Full Screen Images</h2>
+1. Click the Capture Full Screen button from the Screen Capture Window. <br /><br />Note: Capture Full Screen will not include the PhotoScape interface window or the Screen Capture Window in the image. <br />
+<h2>Capturing a Window</h2>
+1. Click the Capture Window button on the Screen Capture Window. <br />The PhotoScape interface and the Screen Capture Window will disappear. <br /><br />2. Move your mouse around the screen to highlight the desired window.<br />The highlighted selection will be encompassed by a dark rectangle. <br /><br />3. When the desired window is outlined, click on it. <br /><br />Note: Different program windows behave differently with PhotoScape, the area you want to highlight may not be available. If the area is not available, you should consider using the Capture Region tool. <br />
+<h2>Capturing Region</h2>
+1. Click the Capture Region button on the Screen Capture Window. <br />The PhotoScape interface and the Screen Capture Window will disappear. <br /><br />2. Click once anywhere on the screen to designate the upper left-hand corner of the area you want to capture. Click again to designate the lower right-hand corner of the area you want to capture. <br /><br />Note: Different programs behave differently with PhotoScape; some of them may not allow you to use this tool. If the program you are using is incompatible, consider using the Capture Full Screen or the Capture Window tool and using the crop tool to edit out the unwanted areas. <br />
+<h2>Recapturing Your Last Image</h2>
+1. Click the Repeat Last Capture button on the Screen Capture Window. <br /><br />Note: This tool captures the current status of a specified area of your screen. If the image in that place has changed since your last capture, your image will too. <br /><br />Note: Screen Captures will be automatically sent to the PhotoScape Editor tool. You can redirect this transfer to your computer&iexcl;&macr;s clipboard by clicking the Copy to Clipboard function in the Screen Capture Window. This function will copy your screen capture as if you had copied it using right-click and copy. To retrieve an image after it has been copied to the clipboard, right-click in a desired document and then select paste. <br /><br />Note: The Cartesian coordinates and size (in pixels) of your last capture can be found in the Coordinate and Size box in the Screen Capture Window respectively.&nbsp;
+</body>
+</html>

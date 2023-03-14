@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1 id="raw">RAW Converter</h1>
+The RAW converter function of PhotoScape allows you to process a RAW photo (.CR2, .CRW, .NEF, .NRW are the most common format of these) taken by a DSLR camera into a JPG file. <br /><br /><img src="http://img.photoscape.org/v005/intro/raw-1.jpg" /> <br /><br />
+<h2>To Add a RAW file to the RAW Converter Queue</h2>
+<table>
+<tbody>
+<tr>
+<td style="width: 400px;">1. Click on Add. You may select more than one file at a time.</td>
+<td><img src="http://img.photoscape.org/v005/intro/raw-2.jpg" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>To Remove a RAW file from RAW Converter Queue</h2>
+1. Select the file you wish to remove. <br />2. Click on Delete. <br />Note: The Delete All button will remove all files in queue. <br />
+<h2>To Adjust RAW Conversion Options</h2>
+1. Select one of the options from the Conversion Options section. <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/intro/raw-3.jpg" style="padding-right: 20px;" /></td>
+<td>Half Size (Faster) - Resizes output image size by half <br /><br />Auto White Balance - Automatically adjusts the color temperature of the photo <br /><br />Camera White Balance, if possible - Adjusts the color temperature of the photo based on your camera's white balance features </td>
+</tr>
+</tbody>
+</table>
+<br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/intro/raw-4.jpg" /> <br />Before white balance adjustment</td>
+<td>▶</td>
+<td><img src="http://img.photoscape.org/v005/intro/raw-5.jpg" /> <br />After white balance adjustment</td>
+</tr>
+</tbody>
+</table>
+<h2>Previewing Images</h2>
+To Preview a Photo with Conversion Options Applied <br />1. Select file from RAW Converter Queue. <br />2. Click on the Preview button.&nbsp;
+</body>
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+The Crop function of the Editor tool of PhotoScape allows you to crop out unwanted area of photos. <br /><a class="videotextlink" href="http://help.photoscape.org/help.php?id=editor_crop" onclick="return PHOTOSCAPE.video.show(640, 480, 'http://www.youtube.com/embed/n6V34vkydHE?rel=0');"></a><br /><br /><img src="http://img.photoscape.org/v005/editor/crop/crop-1.jpg" /> <br /><br />
+<h2>To crop a picture</h2>
+Select crop region area ratio. Crop freely will allow any ratio, while presets will maintain a width to height ratio constant. <br /><br /><img src="http://img.photoscape.org/v005/editor/crop/crop_freely-1.jpg" /> <br /><br />Place cursor at any desired corner of area to be selected, click and hold the left-mouse button. <br />Drag cursor to diagonal opposite corner desired and release mouse button, a box will be drawn around the selected area. <br />Click on Crop or save the cropped area to finish. <br /><img src="http://img.photoscape.org/v005/editor/crop/1.jpg" align="middle" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/crop/2.jpg" align="middle" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/crop/3.jpg" align="middle" /> <br /><br />Note: The Crop Roundly checkbox creates an oval share crop region within the rectangular selection area. <br /><br /><img src="http://img.photoscape.org/v005/editor/crop/crop_round.jpg" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/crop/crop_round-1.jpg" /> &nbsp; <img src="http://img.photoscape.org/v005/editor/crop/crop_round-2.jpg" />
+</body>
+</html>

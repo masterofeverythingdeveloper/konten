@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1><span style="background: #000; color: #fff; padding-right: 12px;">Print </span></h1>
+The print function of PhotoScape allows you to take control of how pictures appear when they are printed. <br /><br /><img src="http://img.photoscape.org/v005/print/print-1.jpg" /> <br /><hr />
+<h2>Printing and Printing Options</h2>
+Check the various options for printing in the right tool bar. Some of these options are explained below <br /><br />
+<table>
+<tbody>
+<tr valign="top">
+<td>* Portrait Shot Print <br /><br /><img src="http://img.photoscape.org/v005/print/portrait_shot_print.jpg" /></td>
+<td style="padding-left: 80px;">* Thumbnail Print <br /><br /><img src="http://img.photoscape.org/v005/print/thumbnail_print.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<h2>Photo Size</h2>
+<img src="http://img.photoscape.org/v005/print/photo_size.jpg" /> <br /><hr />
+<h2>Photo Direction</h2>
+<img src="http://img.photoscape.org/v005/print/photo_direction.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/landscape.jpg" /> <br />Landscape</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/portrait.jpg" /> <br />Portrait</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Filename Height</h2>
+Filename Height : Places the text of the picture file name on the picture <br /><br /><img src="http://img.photoscape.org/v005/print/filename_height.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/filename_height-1.jpg" /> <br />Off</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/filename_height-2.jpg" /> <br />32 pt</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Intervals</h2>
+Intervals (mm) : Specifies the amount of empty space between each picture <br /><br /><img src="http://img.photoscape.org/v005/print/intervals.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/intervals-1.jpg" /> <br />3mm</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/intervals-2.jpg" /> <br />13mm</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Stretch, Paper Full, Image Full, DPI</h2>
+<div style="float: left; padding-left: 10px; padding-right: 20px;"><img src="http://img.photoscape.org/v005/print/p-1.jpg" /> </div>
+<div><strong>Stretch</strong> : Enlarges the picture by stretching (distorting) it to fit the paper <br /><strong>DPI</strong> : Acts as a zoom function, a high number of dots per inch will be the least zoomed in and a low number will be the most zoomed in <br /><br />Note: The Paper Full option does not print the part of the photo that exceeds the size of the printed material.</div>
+<br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/s-stretch.jpg" /> <br />Stretch <br /><br /></td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/s-paperfull.jpg" /> <br />Paper Full <br /><br /></td>
+</tr>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/s-imagefull.jpg" /> <br />Image Full</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/s-dpi.jpg" /> <br />DPI (150)</td>
+</tr>
+</tbody>
+</table>
+<br /><hr />
+<h2>Gamma</h2>
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="http://img.photoscape.org/v005/print/gamma-1.jpg" /> <br /><img src="http://img.photoscape.org/v005/print/gamma-1-1.jpg" /></td>
+<td style="padding-left: 20px;" align="center"><img src="http://img.photoscape.org/v005/print/gamma-2.jpg" /> <br /><img src="http://img.photoscape.org/v005/print/gamma-2-1.jpg" /></td>
+<td style="padding-left: 20px;" align="center"><img src="http://img.photoscape.org/v005/print/gamma-3.jpg" /> <br /><img src="http://img.photoscape.org/v005/print/gamma-3-1.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Draw Outline</h2>
+<img src="http://img.photoscape.org/v005/print/auto_rotate-1-1.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/draw_outline-1.jpg" /> <br />Unchecked</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/draw_outline-2.jpg" /> <br />Checked (Draw Outline)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Auto-Rotate</h2>
+<img src="http://img.photoscape.org/v005/print/auto_rotate-2-1.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/auto_rotate-1.jpg" /> <br />Unchecked</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/auto_rotate-2.jpg" /> <br />Checked (Auto-Rotate by 90 degrees)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Grayscale, Sepia</h2>
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/gray-reset.jpg" /> <br />Original</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/gray-1.jpg" /> <br />Grayscale</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/gray-sepia.jpg" /> <br />Sepia</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Right Click - Popup Menu</h2>
+<img src="http://img.photoscape.org/v005/print/gray-2.jpg" /> <br /><br />
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/gray-3.jpg" /> <br />Original</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/gray-4.jpg" /> <br />Grayscale</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Rows per page, Columns per page</h2>
+<table>
+<tbody>
+<tr>
+<td><img src="http://img.photoscape.org/v005/print/rows.jpg" /> <br />Rows-4</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/columns.jpg" /> <br />Columns-4</td>
+<td style="padding-left: 40px;"><img src="http://img.photoscape.org/v005/print/rows_columns.jpg" /> <br />Rows-2, Columns-2</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
