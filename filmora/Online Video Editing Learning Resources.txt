@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2 id="video-editing-learning-resources">Part 3: Online Video Editing Learning Resources</h2>
+<p>Regardless of how skilled you are as a video editor, there are always new tricks you can learn. Most information about the video editing process can be found on the Internet, so if you would like to improve your command of the video editing techniques, you can visit these online learning resources and upgrade your skills.</p>
+<h3>1. Online video courses for Video Editing</h3>
+<h4 class="heading"><span>1. </span> <a href="https://www.lynda.com/Video-Editing-training-tutorials/82-0.html" target="_blank" class="text-teal" rel="nofollow noopener" ga360location="content_1_buttonLink_36">Lynda.com</a></h4>
+<p>Lynda.com is one of the Internet's most famous websites dedicated to learning. The platform hosts tutorials and courses for Final Cut Pro, Adobe Premiere Pro, Adobe After Effects, and a number of other less powerful video editing software products. In order to gain access to over 10.000 eLearning courses, you will have to set up an account and pay the monthly fee for the service.</p>
+<h4 class="heading"><span>2. </span> <a href="https://www.udemy.com/" target="_blank" class="text-teal" rel="nofollow noopener" ga360location="content_1_buttonLink_37">Udemy</a></h4>
+<p>Udemy grants you access to thousands of tutorials that cover anything from IT and software to video editing. Finding courses that show you how to use professional video editing software shouldn't be too hard since the platform offers lessons to beginners and skilled video editors.</p>
+<h4 class="heading"><span>3. </span> <a href="https://insidetheedit.com/" target="_blank" class="text-teal" rel="nofollow  
+noopener" ga360location="content_1_buttonLink_38">InsideTheEdit</a></h4>
+<p>If you want to learn from the video editing industry's leading experts then this online resource is the best choice for you, because the knowledge it offers goes beyond simple explanations about how to properly use video editing tools. InsideTheEdit is not free and you must pay a monthly fee in order to gain access to everything the platform has to offer.</p>
+<h4 class="heading"><span>4. </span> <a href="https://www.rippletraining.com/product-category/all-tutorials/" target="_blank" class="text-teal" rel="nofollow noopener" ga360location="content_1_buttonLink_39">RippleTraining</a></h4>
+<p>Creating an account on RippleTraing is free, but attending courses or accessing tutorials must be paid for. You can find valuable information about video editing software like Motion, Adobe Premiere Pro as well as audio editing software that might help you produce videos with impeccable soundtracks.</p>
+<h4 class="heading"><span>5. </span> <a href="https://larryjordan.com/" target="_blank" class="text-teal" rel="nofollow  
+noopener" ga360location="content_1_buttonLink_40">LarryJordan</a></h4>
+<p>This platform offers learning materials for all Adobe's products designed for video editing as well as for other professional video editing suites. Creating an account and becoming a member is mandatory, which means that you won't be able to start learning new things until you pay a monthly subscription.</p>
+<h4 class="heading"><span>6. </span> <a href="http://www.premieregal.com/" target="_blank" class="text-teal" rel="nofollow noopener" ga360location="content_1_buttonLink_41">Premiere Gal Media</a></h4>
+<p>Premiere Gal Media is a production company that creates YouTube video editing tutorials, motion graphics and entire courses that cover different aspects of the video editing process. However, only the YouTube tutorials can be accessed for free while all other services the company offers must be paid.</p>
+<h3>2. Online Video Editing Communities</h3>
+<p>Talking to people who share your passion for video editing may help you discover new things or to perfect the skills you already have. Here are a few of the most popular online video editing communities that might be useful to aspiring video editors.</p>
+<h4 class="heading"><span>1. </span> <a href="https://community.spiceworks.com/fun/video-editing" target="_blank" class="text-teal" rel="nofollow  
+noopener" ga360location="content_1_buttonLink_42">Spiceworks</a></h4>
+<p>Finding solutions to the problems you encounter during the video editing process is easy on Spiceworks because the platform allows you to post new topics and ask any questions that prevent you from finishing your project. Anyone can use this forum for free, and as your level of knowledge about video editing grows over time you can also become a member and help inexperienced video editors overcome technical and creative problems.</p>
+<h4 class="heading"><span>2. </span> <a href="https://www.creativecow.net/" target="_blank" class="text-teal" rel="nofollow  
+noopener" ga360location="content_1_buttonLink_43">CreativeCow</a></h4>
+<p>CreativeCow hosts hundreds of forums so you can post questions and participate in discussions in those that match your interests. The Tutorials and Features menu allows you to research any topic related to video editing, for free, which makes it a great learning tool for video editors who don't want to spend money on eLearning courses.</p>
+<h4 class="heading"><span>3. </span> <a href="https://www.videomaker.com/forum" target="_blank" class="text-teal" rel="nofollow  
+noopener" ga360location="content_1_buttonLink_44">Videomaker</a></h4>
+<p>This is a good old-fashioned forum where you can find topics related to film, video editing, video cameras, and camcorders or subjects related to structuring videos or writing for the screen. The Videomaker platform is free to use, and it should be used as an extra source of information since you won't be able to find step by step tutorials here.</p>
+<p><strong>Summary</strong></p>
+<p>Video editing is a craft that takes years to master, but after only a few short months you can learn enough about the process to start editing videos on your own. Becoming a skilled video editor requires determination and an endless will to learn new things and discover new ways of assembling video clips into narratives that grab the viewer's attention. Wondershare Filmora is the best video editing software on Mac and PC for all novice and semi-professional video editors because it provides tools and features that enable you to create videos of all genres</p>
+</body>
+</html>

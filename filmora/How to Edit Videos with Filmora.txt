@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2 id="how-to-edit-videos">Part 2: How to Edit Videos with Filmora</h2>
+<p>You never know what you are going to need in the video editing room, which is the reason why you have to be well prepared for all the challenges you will have to face during the video editing process. The post-production can take days, sometimes even months, so arm yourself with patience, and remember you are not in a race, allow yourself to work slower.</p>
+<p>Below is a simple tutorial about How to Make Your First Video with Filmora, check it out and download the free trail version of Filmora to follow.</p>
+<div class="videoBox" align="center"></div>
+<p align="center"><a href="https://download.wondershare.com/filmora-mac_full718.dmg" class="various3" rel="nofollow" ga360location="content_1_buttonLink_23" ga360type="prd download" ga360proids="718" ga360pronames="filmoramacfull">&nbsp;</a></p>
+<p><b>A few notes before you start editing</b></p>
+<p>Preparation for the video editing process starts long before you launch the software, so here are a few tips that might assist you in making the post-production process more efficient.</p>
+<ul class="list-prefix list-disc">
+<li>Take several shots of the same scene, while you are on the set because you will have more options in the editing room.</li>
+<li>Know every second of the footage you are working with, so you can easily pick the best shots.</li>
+<li>Use visual effects in moderation and for a good reason.</li>
+<li>Learn how to step back and see the project from the fresh perspective.</li>
+<li>Keep your materials organized.</li>
+</ul>
+<p><strong>The Step by Step Guide to Video Editing</strong></p>
+<p>The basic video editing techniques are the same in all video editing suites. In this guide, we are going to show you how to edit videos in Filmora, but you can apply the skills you will learn here in other video editing programs. If you don't have Wondershare Filmora installed on your computer, you click the button below to download the trial version of the software .</p>
+<p align="center"></p>
+<h4 class="heading"><span>1. </span> Launch Filmora and select the aspect ratio [Optional]</h4>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/filmora9-start-screen.jpg" alt="How to Edit Videos in Filmora9  
+- Start Screen" width="650" /></p>
+<p>Double-click on Filmora's desktop icon, whenever you are ready to start working on a new video. The software's welcome screen will appear on the screen asking you to create a new project or open project . Besides that, you can choose the aspect ratio here to save time in editing.</p>
+<h4 class="heading"><span>2. </span>Create a new project and import the footage</h4>
+<p>Click <b> New Project</b> in the software's welcome screen, and wait for the editor to load. Once you gain access to Fillmora's video editor, you should proceed to register the product by clicking on the Register button.</p>
+<p>Head over to the File menu and click on the <b> Project Settings </b>option, and select the aspect ratio the final cut your video will have. You will be able to choose between several different options, including the standard 16:9 or 4:3 aspect ratios, but also less common 9:16 aspect ratio for vertically oriented videos as well as the 1:1 aspect ratio for square-shaped videos. You can also custom the aspect ratio per your need.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/filmora9-project-settings.jpg" alt="How to Edit Videos in  
+Filmora9 - Project settings" width="650" /></p>
+<p>Filmora, as well as all other video editing software we mentioned in this guide support nearly all types of video files, from videos captured with Smartphones and webcams to footage the was recorded with professional video making equipment.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/import-from-instant-cutter-filmora9.jpg" alt="How to Edit  
+Videos in Filmora9 - use Instant cutter tool" width="650" /></p>
+<p>In the upper left corner of the video editor you'll be able to see the Import button, click on it and select the Import Media Files option and then navigate to the location on your hard drive where the footage you want to edit is stored. Select the video, audio or photo files you want to use in your project, and click on the Import button.</p>
+<p>In the Import menu, you will see<b> Import with Instant Cutter Tool </b> option as well. The Instant Cutter Tool is designed to make trimming 4K and all other large video files as fast and easy as possible. And Filmora features the ability to edit videos shot by action cameras in a quick way. You can use the lens correction tools or the Fish Eye Distortion effect to enhance your videos with ease.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/filmora9-instant-cutter-tool.jpg" alt="Edit Interface in  
+Instant Cutter Tool" width="650" /></p>
+<h4 class="heading"><span>3. </span>Organize the material you are using in your project</h4>
+<p>The files you import into the editor will be stored in Filmora's Media tab, below the Import button. Working with a lot of different files in a single project is much harder if you have to look for the video clips you want to add to the timeline. To avoid mess and confusion, you can use the My Album option that enables you to create folders and to sort out your files.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/how-to-edit-videos-manage-footage.jpg" alt="Filmora9 video  
+manage" width="650" /></p>
+<p>Click on Add a New Folder icon, located at the bottom of the My Project tab in the upper right corner of the editor's screen, to create and name a new folder. You can organize the footage alphabetically or in any other way that increases your efficiency and reduces the amount of time you have to spend browsing through files.</p>
+<h4 class="heading"><span>4. </span>Place the video and audio files on the timeline to remove the redundant parts</h4>
+<p>Raw footage often contains mistakes or parts that simply don't belong in your video, so if you would like to cut or trim your videos, simply drag them from the Media tab, and drop them on the timeline. You can add as many video clips as you want, but each new file you add will be placed after the previous one, and in order to rearrange them, you have to drag the files to the desired position on the timeline.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/guide/cut-a-section.gif" alt="" width="480" /></p>
+<p>Press Play or hit the Spacebar to start previewing the video clips you've added to the timeline or use the playhead to jump to a certain point in the video. You should place the playhead in the exact position where the part of the video you'd like to cut starts and then perform the same action at the other end.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/guide/trim-sides.gif" alt="" width="480" /></p>
+<p>Filmora enables you to trim your videos by simply dragging the end of a video clip left or right. If you still find trimming and cutting videos confusing, here is a video tutorial that will help you master these simple tools quickly.</p>
+<h4 class="heading"><span>5. </span>Apply visual effects to the footage</h4>
+<p>Now that you removed all the unwanted parts from your video clips, you proceed to detach the audio and video files, add music, insert transitions between the clips or use some of many visual effects Filmora offers.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/how-to-edit-videos-apply-effects.jpg" alt="" width="650" /></p>
+<p>Click on the Text /Credit icon if you want to add opening titles, end credits or subtitles to a video. The software offers a lot of different text templates you can use for a wide range of purposes. Drag and drop the template you selected to the desired location on the timeline, and proceed to insert the appropriate text in the software's preview window.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/text-editing.jpg" alt="" width="650" /></p>
+<p>Learn more details about how to add Title/Text Effects to Video</p>
+<p>The Transitions icon, that grants you access to hundreds of options is located next to the Text/Credit icon in the editor's toolbar. Follow this video tutorial to learn more about video transitions and how to use them in Filmora</p>
+<h4 class="heading"><span>6. </span>Go through the color correction process</h4>
+<p>The Effects icon offers over several hundred filters and overlays effects you can use in your projects, in order to make the colors in the video look more vivid. Click on the icon and select the filter you'd like to use, and then drag and drop it wherever you want on the timeline. The duration of the filter can be adjusted by simply moving either end of the filter.</p>
+<p>Besides filters, Wondershare Filmora also offers advanced color correction tools, which allow you to fine-tune the color values in your videos. The Advanced Color Tuning option enables you to use color correction presets or 3D LUTs to add more vibrancy to the colors in your videos. Mastering the color correction process requires time and dedication, since learning to find the right amount of reds, blues, and greens in every shot you include in a video is as difficult as it sounds.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/how-to-edit-videos-3d-luts.jpg" alt="" width="650" /></p>
+<h4 class="heading"><span>7. </span>Export and Share</h4>
+<p>When you are absolutely sure that there is nothing more you'd like to add or remove from your project, you should click on the Export button. In the Output window, you can easily select the video file format in the Format menu, and optimize the video for Smartphones, iPads or gaming consoles such PS4 or Xbox One.</p>
+<p>Click on the Format tab and select the file format that best suits the project you're working on then proceed to give a title to the video and select the folder on your hard drive where the video will be exported. Clicking on the Settings button will enable you to select the resolution of the video, change the frame rate or pick an encoder.</p>
+<p align="center"><img src="https://images.wondershare.com/filmora/article-images/how-to-edit-video-export.jpg" alt="" height="350" /></p>
+<p>Filmora users who don't want to save a video file to their hard drives can export their videos to Vimeo or YouTube. This method of exporting videos allows you to save time on waiting to upload the video online since the rendering and uploading processes happen simultaneously. You will need a YouTube channel or a Facebook account in order to successfully share your videos on these social media networks.</p>
+</body>
+</html>
