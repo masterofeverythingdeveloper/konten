@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Introduction</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/introduction/" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<p>This is a tutorial targeting people who first use PC version of MediBang Paint or those who draw pictures for the first time in digital.</p>
+<p>If you proceed to the end of this tutorial, you will be able to use all the basic functions of MediBang Paint.</p>
+<p>In this tutorial, we will not use any functions that require login, so even those who do not register can proceed to the end.</p>
+<p>Also, there is no need for a &ldquo;graphics tablet&rdquo;.</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>Throughout the entire tutorial, not only do you read and learn the contents, but also move your hands and try to operate according to the tutorial.</p>
+</div>
+<p>Estimated time to proceed to the end of this tutorial is about 90 minutes.</p>
+<p>Let&rsquo;s quickly proceed to the next page from the <a href="https://medibangpaint.com/en/tutorial/pc/install"> Install MediBang Paint </a> link.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>After registering as a user, you will be able to do the following.</p>
+<dl>
+<dt>Works can be stored in the cloud</dt>
+<dd>Works saved in the cloud can be edited with MediBang Paint version of mobile terminal (Android / iPhone / iPad) version.</dd>
+<dt>Cloud text will be available</dt>
+<dd>Pay fonts provided by <a href="https://fontworks.co.jp/" target="blank" rel="noopener">FONTWORKS</a> can now be used. Available fonts are <a href="https://medibangpaint.com/use/2017/12/cloudtext/" target="blank" rel="noopener">here</a></dd>
+<dt>Cloud materials will be available</dt>
+<dd>You will be able to download abundant materials such as brushes and tones and use them.</dd>
+<dt>You will be able to produce comics and work with the team</dt>
+<dd>Each page of manga can be managed as a project, and it becomes possible to create one work easily by multiple people sharing it.</dd>
+<dt>You will be able to post your work</dt>
+<dd>You will be able to post your work to <a href="https://medibang.com/creators" class="blank">&ldquo;medibang.com&rdquo;</a>.</dd>
+</dl>
+<p>To register for MediBang please go from the <a href="https://medibang.com/auth/user/entry/">registration form</a></p>
+</div>
+</div>
+</body>
+</html>

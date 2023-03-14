@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s change the resolution</h1>
+</div>
+<div class="postEyecatch"></div>
+<div class="postEditor">
+<p>Changing the resolution allows you to enlarge or reduce the entire picture on the canvas.<br />It is also possible to change only the dpi value without changing the size of the picture at all.</p>
+<p>To change the resolution, use &ldquo;Edit&rdquo; -&gt; &ldquo;Image Size&rdquo; in the menu.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/change-resolution/img1.png" alt="Image Size window" />
+<figcaption>Fig. Image Size window</figcaption>
+</figure>
+<h2>(A)</h2>
+<p>You can directly specify the size of the image. By pressing the &ldquo;(px)&rdquo; &ldquo;(cm)&rdquo; &ldquo;(inch)&rdquo; button at the top, you can switch the unit to be edited.</p>
+<p>When &ldquo;Constrain Proportions&rdquo; in (E) is checked, the ratio of width and height is fixed. If you want to change the width and height separately, please uncheck &ldquo;Constrain Proportions&rdquo;.</p>
+<h2>(B)</h2>
+<p>Press the &ldquo;Apply&rdquo; button to apply the pull down value to the numerical value of (A) area. When &ldquo;Apply&rdquo; is pressed in the state of this figure, the value of area (A) becomes 200% (doubled).</p>
+<h2>(C)</h2>
+<p>If &ldquo;Comic guide&rdquo; is displayed, set the image size to &ldquo;Comic guide&rdquo;.</p>
+<h2>(D)</h2>
+<p>You can change the value of dpi.</p>
+<p>To &ldquo;Fixed print size&rdquo;</p>
+<dl>
+<dt>When checked</dt>
+<dd>When the dpi value is changed, the value of (px) unit changes and the value of (cm) and (inch) unit does not change.</dd>
+<dt>When unchecked</dt>
+<dd>When the dpi value is changed, the value of (px) unit does not change, the value of (cm) and (inch) unit changes.</dd>
+</dl>
+<h2>(E)</h2>
+<p>If checked here, you can change the size of the image keeping the aspect ratio of the canvas.</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>The image may be stretched unless you keep the aspect ratio of the canvas.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/change-resolution/img2.png" alt="Constrain Proportions" />
+<figcaption>Fig. Constrain Proportions</figcaption>
+</figure>
+<p>(A): Original picture / (B): Picture with width set to 50% by retaining proportion / (C): Picture with width set to 50% without retaining ratio</p>
+</div>
+<h2>(F)</h2>
+<p>When you press the &ldquo;Reset&rdquo; button, the numeric value of the window returns to the state when the window was opened. Let&rsquo;s press this button if you do not understand the original size.</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Learn the basic tools</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/other-tools/#undo" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<h2 id="structure">Learn the basic screen composition</h2>
+<p>It is a screen configuration in a state that does not customize anything by activating MediBang Paint.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/img1.png" alt="Screen configuration (initial state)" />
+<figcaption>Fig. Screen configuration (initial state)</figcaption>
+</figure>
+<p>If you want to return the window to the initial state, such as erasing the window by mistake, you can return to this state at any time by &ldquo;Window&rdquo; &rarr; &ldquo;Initialize&rdquo; of the menu.</p>
+<p>Next, we will explain each window.</p>
+<h3>(1)Color window</h3>
+<p>It is a window for making brush color.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/color.png" alt="Color window" />
+<figcaption>Fig. Color window</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="trigger0"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(a)</dt>
+<dd>Represents the foreground and background color of the brush. Click on the foreground and background color parts. The foreground color and background color are switched.<br />Normal brushes are drawn with foreground color. The background color is used for &ldquo;edge brush&rdquo; and so on.</dd>
+<dt>(b)</dt>
+<dd>Click here to change the color of the brush to transparent color.(<a href="https://medibangpaint.com/en/tutorial/pc/brush/#transparent">Let&rsquo;s use transparent colors</a>)</dd>
+<dt>(c)</dt>
+<dd>The foreground color RGB values are displayed. Click here&hellip;</dd>
+<dt>(d)</dt>
+<dd>The color selection window provided by the Operating System is displayed. The color you select here will be applied to the foreground color of the brush.</dd>
+<dt>(e)</dt>
+<dd>The color of the place you clicked will be the foreground color. Let&rsquo;s switch between hue circle and hue bar according to your preference.(<a href="https://medibangpaint.com/en/tutorial/pc/brush/#color-picker">Let&rsquo;s switch between hue bar and hue circle</a>)</dd>
+</dl>
+</div>
+</div>
+<p>The foreground color and background color of the brush are as shown below.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/fg_bg.png" alt="foreground color and background color" />
+<figcaption>Fig. foreground color and background color</figcaption>
+</figure>
+<p></p>
+<div class="showMore"><br /><label class="showMoreButton" for="trigger1"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(f)</dt>
+<dd>Foreground color</dd>
+<dt>(g)</dt>
+<dd>background color</dd>
+</dl>
+</div>
+</div>
+<h3>(2)Brush Preview window</h3>
+<p>This window displays the shape of the currently selected brush.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/brush_preview.png" alt="Brush Preview window" />
+<figcaption>Fig. Brush Preview window</figcaption>
+</figure>
+<p>When the canvas is opened, the thickness of the brush is displayed as a numerical value in the upper left corner.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Click &ldquo;Brush Preview&rdquo; to reset the brush size to the default value.<br />See <a href="https://medibangpaint.com/en/tutorial/pc/reset-brush-size/" target="blank" rel="noopener noreferrer">Reset brush size</a> for details.</p>
+</div>
+<h3>(3)Brush Control window</h3>
+<p>Window to change brush size and opacity.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/brush_control.png" alt="Brush Control window" />
+<figcaption>Fig. Brush Control window</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="trigger2"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(a)</dt>
+<dd>You can change the brush size.</dd>
+<dt>(b)</dt>
+<dd>You can change the opacity of the brush.</dd>
+<dt>(c)</dt>
+<dd>You can change brush-specific parameters.（Images are from the G pen）</dd>
+</dl>
+</div>
+</div>
+<p>If you select a brush with brush-specific parameters, you can also change that parameter.</p>
+<p>The brush size changed in the brush control window will return to the original value (default size) when restarting the application. If you want to change the default size, please change from the brush edit window which will be described later.</p>
+<h3>(4)Brush window</h3>
+<p>This is the window to select the brush.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/brush.png" alt="Brush window" />
+<figcaption>Fig. Brush window</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="trigger3"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(a)</dt>
+<dd>Open the window to download the cloud brush.</dd>
+<dt>(b)</dt>
+<dd>Add a new brush.</dd>
+<dt>(c)</dt>
+<dd>Add a bitmap brush.</dd>
+<dt>(d)</dt>
+<dd>Add a script type brush.</dd>
+<dt>(e)</dt>
+<dd>Add a folder.</dd>
+<dt>(f)</dt>
+<dd>Duplicate the selected brush.</dd>
+<dt>(g)</dt>
+<dd>Delete the brush.</dd>
+</dl>
+</div>
+</div>
+<p>Click the gear icon to the right of the brush name to open the brush edit window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/brush_edit.png" alt="Brush Edit Window" />
+<figcaption>Fig. Brush Edit Window</figcaption>
+</figure>
+<p>In the brush edit window you can change the default size of the brush.<br />For details, see <a href="https://medibangpaint.com/en/tutorial/pc/change-default-brush-size/" target="blank" rel="noopener noreferrer">the chapter on changing the default size of the brush</a>.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>You can add brushes directly by dragging and dropping image files and brush scripts into the &ldquo;Brush Window&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/brush_dnd.png" alt="Drag and drop images onto 'Brush window'" />
+<figcaption>Fig. Drag and drop images onto 'Brush window'</figcaption>
+</figure>
+</div>
+<h3 id="navi-window">(5)Navigator window</h3>
+<p>In the &ldquo;Navigator window&rdquo;, the full image of the currently open canvas is displayed.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/navi1.png" alt="Navigator window" />
+<figcaption>Fig. Navigator window</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="trigger4"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(a)</dt>
+<dd>Makes the canvas pixel equal (100% display).</dd>
+<dt>(b)</dt>
+<dd>The canvas is enlarged and displayed in one step.</dd>
+<dt>(c)</dt>
+<dd>The entire canvas is displayed at the magnification that is displayed.</dd>
+<dt>(d)</dt>
+<dd>Shrinks the canvas by one step.</dd>
+<dt>(e)</dt>
+<dd>Rotate the canvas counter-clockwise 30 &deg;.</dd>
+<dt>(f)</dt>
+<dd>Reset the canvas rotation and set it to 0 &deg;.</dd>
+<dt>(g)</dt>
+<dd>Rotate the canvas clockwise by 30 &deg;.</dd>
+<dt>(h)</dt>
+<dd>Flip the canvas display left and right.</dd>
+</dl>
+</div>
+</div>
+<p>Even if you operate images such as enlargement or reduction in the Navigator window, the original picture is not affected.</p>
+<p>When the canvas is enlarged, when the original picture can not be displayed on the main window completely, the place currently displayed is indicated by a red frame.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/navi2.png" alt="Canvas" />
+<figcaption>Fig. Canvas</figcaption>
+</figure>
+<p>By moving this red frame you can also move the area displayed in the main window.</p>
+<h3>(6)Layer window</h3>
+<p>&ldquo;Layer window&rdquo; is a window for manipulating layers.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/layer.png" alt="Layer window" />
+<figcaption>Fig. Layer window</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="trigger5"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(a)</dt>
+<dd>It is a thumbnail of the layer.</dd>
+<dt>(b)</dt>
+<dd>Add a color layer (a layer that can be drawn in full color).</dd>
+<dt>(c)</dt>
+<dd>Add 8 bit layer (layer which can only be drawn in white, gray or black).</dd>
+<dt>(d)</dt>
+<dd>Add 1 bit layer (layer which can only be drawn in white or black).</dd>
+<dt>(e)</dt>
+<dd>Add a halftone layer (a layer where the drawn part becomes a tone).</dd>
+<dt>(f)</dt>
+<dd>Add a layer folder.</dd>
+<dt>(g)</dt>
+<dd>Duplicate the layer.</dd>
+<dt>(h)</dt>
+<dd>Merge the layers below.</dd>
+<dt>(i)</dt>
+<dd>Delete the layer.</dd>
+</dl>
+</div>
+</div>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>If you drag and drop an image file in the layer window, you can add an image as a new layer to the currently open canvas.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/layer_dnd.png" alt="You can add images as layers by drag &amp; drop" />
+<figcaption>Fig. You can add images as layers by drag &amp; drop</figcaption>
+</figure>
+</div>
+<h3>(7)Brush size window</h3>
+<p>If you register the brush size you often use in the &ldquo;Brush size&rdquo; window, it is convenient to change the brush size easily.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/brush_size.png" alt="Brush Size window" />
+<figcaption>Fig. Brush Size window</figcaption>
+</figure>
+<p>When you right click on the brush size window, the &ldquo;Edit Brush Size&rdquo; menu is displayed, clicking it will display the brush size edit window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/brush_size_edit.png" alt="Edit Brush Size Window" />
+<figcaption>Fig. Edit Brush Size Window</figcaption>
+</figure>
+<p>In the &ldquo;Edit Brush Size&rdquo; window, you can register your favorite brush size with a line break separator. If you want to return to the initial state, please press &ldquo;Initialize Brush Size&rdquo; button.</p>
+<h2 id="undo">Let&rsquo;s use Undo / Redo</h2>
+<p>When doing the wrong operation, it is &ldquo;Undo&rdquo; that can cancel the previous operation, and &ldquo;Redo&rdquo; to cancel the previous &ldquo;Undo&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/undo_redo.png" alt="Undo and Redo" />
+<figcaption>Fig. Undo and Redo</figcaption>
+</figure>
+<p>Most operations can be canceled with Undo, so please use it.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>You can Undo by holding down the Ctrl key and pressing the Z key on the keyboard. (In case of Mac version, press Command key while pressing Z key)</p>
+<p>We recommend you to keep in mind that this is a common operation not only for MediBang paint but also for most Windows / Mac applications.</p>
+</div>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>MediBang Paint has no fixed upper limit on the number of Undo and you can restore your work as far as your PC&rsquo;s memory permits. When memory for Undo runs short, it disappears from the oldest Undo information.</p>
+</div>
+<h2 id="rotate">Learn the various rotation methods</h2>
+<p>MediBang Paint has three kinds of rotation and left / right reversal. Let&rsquo;s learn the difference.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/rotate_1.png" alt="Original picture" />
+<figcaption>Fig. Original picture</figcaption>
+</figure>
+<p>Based on this picture, I will explain how each rotation works.</p>
+<h3>Rotate and flip only the display</h3>
+<p>It can be executed by &ldquo;View&rdquo; &rarr; &ldquo;Rotate Left&rdquo; / &ldquo;Flip&rdquo; / &ldquo;Rotate Right&rdquo; of the menu. (It is the same even if you operate in the <a href="https://medibangpaint.com/en/tutorial/pc/other-tools/#navi-window">&ldquo;Navigator&rdquo; window</a>.)</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/rotate_navi.png" alt="Horizontal reversed display only." />
+<figcaption>Fig. Horizontal reversed display only.</figcaption>
+</figure>
+<p>Only the display of the canvas flips horizontally and the display of the navigator and layer remains intact.</p>
+<p>In this operation, since only the display is rotated and reversed, the data saved in the canvas is saved in the original state.</p>
+<h3>Rotate and flip the canvas</h3>
+<p>It can be executed by &ldquo;Edit&rdquo; &rarr; &ldquo;Rotate　Left&rdquo; / &ldquo;Flip Horizontally&rdquo; / &ldquo;Rotate Right&rdquo; of the menu.<br />The entire canvas (all layers) will rotate and flip.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/rotate_canvas.png" alt="All the layers were flipped horizontally." />
+<figcaption>Fig. All the layers were flipped horizontally.</figcaption>
+</figure>
+<p>In this operation, not only the display but also the saved data of the canvas are saved in a rotated state.</p>
+<h3>Rotate and flip layers</h3>
+<p>It can be executed by the menu in &ldquo;Layer&rdquo; &rarr; &ldquo;Rotate&rdquo; of the menu.<br />Only the selected layer rotates / flips.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/rotate_layer.png" alt="Horizontally inverted only the selected layer." />
+<figcaption>Fig. Horizontally inverted only the selected layer.</figcaption>
+</figure>
+<p>In this operation, not only the display but also the saved data of the canvas are saved in a rotated state.</p>
+<h2 id="ruler">Let&rsquo;s use a &ldquo;Snap tool&rdquo;</h2>
+<p>A &ldquo;Snap tool&rdquo; is displayed at the top of the window when selecting a tool that can use a &ldquo;Snap tool&rdquo; such as a brush tool.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/ruler1.png" alt="Snap toolbar" />
+<figcaption>Fig. Snap toolbar</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="showMore-ruler"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(a)</dt>
+<dd>Set the ruler to OFF (not shown). The state of the ruler is retained.</dd>
+<dt>(b)</dt>
+<dd>It is a ruler that can draw parallel lines at any angle. The angle of the ruler can be changed by pressing &ldquo;reset button (i)&rdquo;. You can change the angle in units of 15 &deg; if you press &ldquo;Ctrl (Command on Mac)&rdquo; to change the angle.</dd>
+<dt>(c)</dt>
+<dd>It is a ruler that can draw vertical and horizontal lines.</dd>
+<dt>(d)</dt>
+<dd>It is a vanishing point ruler. First, select any four points to determine the vanishing point. To reset the vanishing point, please press &ldquo;reset button (i)&rdquo;.
+<p></p>
+<p></p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/snap_d.png" alt="Example of using vanishing point ruler" />
+<figcaption>Fig. Example of using vanishing point ruler</figcaption>
+</figure>
+</dd>
+<dt>(e)</dt>
+<dd>It is a ruler that draws a concentration line. If you want to change the center of the concentration line, please press &ldquo;Reset button (i)&rdquo;.</dd>
+<dt>(f)</dt>
+<dd>It is a ruler that draws concentric circles. If you want to change the center of the concentric circle, please press &ldquo;reset button (i)&rdquo;.</dd>
+<dt>(g)</dt>
+<dd>It is a curve ruler. If you click along the point you want to draw a curve, you can create a ruler that matches the curve. Double click to confirm the ruler. If you want to change the shape of the ruler, please press &ldquo;reset button (i)&rdquo;.</dd>
+<dt>(h)</dt>
+<dd>It is a ruler that draws an ellipse. When you drag the canvas, an ellipse ruler is made.</dd>
+<dt>(i)</dt>
+<dd>Reset the state of the ruler.</dd>
+</dl>
+</div>
+</div>
+<h3>Save Snap</h3>
+<p>The snap can be saved. The snap data is saved in mdp file, and it can store up to 10 pieces per mdp file.</p>
+<p>To save snap, use &ldquo;Snap&rdquo; &rarr; &ldquo;Save Snap&rdquo; in the menu.<br />You can call up the saved snap from the &ldquo;Snap&rdquo; menu.</p>
+<p>（※There is no function to change or delete the name of the ruler saved at Ver 20.1.）</p>
+<h2>Left toolbar</h2>
+<p>I will explain the toolbar on the left side of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/vtoolbar.png" alt="Toolbar on the left" />
+<figcaption>Fig. Toolbar on the left</figcaption>
+</figure>
+<h3 id="move">(a)Move tool</h3>
+<p>Using the &ldquo;Move tool&rdquo; (the button in (a)) you can freely move the picture drawn on the selected layer.</p>
+<p>Movement is done by dragging on the canvas.</p>
+<div class="tips">Tips
+<p></p>
+<p>You can move it horizontally and vertically by holding down the Shift key and using &ldquo;Move Tool&rdquo;.</p>
+</div>
+<h3 id="fill">(b)Fill tool</h3>
+<p>Using &ldquo;Fill tool&rdquo; (button (b)), you can easily fill in rectangular, elliptical, polygonal shape.</p>
+<p>When you select the Fill tool, &ldquo;Special tool bar&rdquo; of &ldquo;Fill tool&rdquo; is displayed at the top of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/fill_bar.png" alt="Fill tool dedicated toolbar" />
+<figcaption>Fig. Fill tool dedicated toolbar</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="showMore-fill-bar"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(A)</dt>
+<dd>Select the shape of the fill.</dd>
+<dt>(B)</dt>
+<dd>Set whether antialiasing is applied when filling.</dd>
+<dt>(C)</dt>
+<dd>Rectangle / Polygon Set whether to round the fill corner. In case of rounding, also set the degree.</dd>
+<dt>(D)</dt>
+<dd>When it is a rectangle / ellipse, it specifies whether to fill a diagonal line and fill it from the center.
+<p></p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/fill_base.png" alt="Compare selection from center with rectangle" />
+<figcaption>Fig. Compare selection from center with rectangle</figcaption>
+</figure>
+<p>When checking the selection from the center on the right (when drawing like a red arrow)</p>
+</dd>
+<dt>(E)</dt>
+<dd>When it is a rectangle / ellipse, it specifies whether the aspect ratio is 1 and it fills. If checked, concentric circles are filled with squares.</dd>
+<dt>(F)</dt>
+<dd>Specify the opacity of the fill.</dd>
+</dl>
+</div>
+</div>
+<h3 id="gradation">(c)Gradation tool</h3>
+<p>Using &ldquo;Gradation Tool&rdquo; (button (c)) makes it easy to create gradations.</p>
+<p>When &ldquo;Gradation tool&rdquo; is selected, &ldquo;Special tool bar&rdquo; is displayed at the top of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/grad_bar.png" alt="Gradation Tool Toolbar" />
+<figcaption>Fig. Gradation Tool Toolbar</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="showMore-grad-bar"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(A)</dt>
+<dd>Select the shape of the gradation from &ldquo;linear&rdquo; or &ldquo;circle&rdquo;.</dd>
+<dt>(B)</dt>
+<dd>Select the gradation type from &ldquo;Foreground to Background&rdquo; or &ldquo;Foreground&rdquo;.
+<p></p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/grad_option.png" alt="Difference in gradation type" />
+<figcaption>Fig. Difference in gradation type</figcaption>
+</figure>
+<p>The left is &ldquo;foreground to background&rdquo; right is &ldquo;foreground&rdquo;. If you select the foreground, it will gradate from the foreground to the transparent color.</p>
+</dd>
+</dl>
+</div>
+</div>
+<p>The width and direction of the gradation are determined by the stroke in the canvas.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/grad.png" alt="Example of gradient direction and width" />
+<figcaption>Fig. Example of gradient direction and width</figcaption>
+</figure>
+<h3 id="shape-brush">(d)Shape brush tool</h3>
+<p>Using the &ldquo;Shape Brush Tool&rdquo; (button (d)), you can easily write shapes.<br />Unlike the Fill Tool, you can draw shapes with the current brush.</p>
+<p>For details, please click <a href="https://medibangpaint.com/use/2016/09/shape_brush_tool/" target="blank" rel="noopener noreferrer">here</a>.</p>
+<h3 id="ejector">(e)Eyedropper tool</h3>
+<p>Using &ldquo;Eyedropper Tool&rdquo; (button (e)), you can choose any color from the canvas you are drawing and turn it into the foreground color.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Hold Alt (Option for Mac) and click the canvas to switch to the eyedropper tool.</p>
+</div>
+<p>For details <a href="https://medibangpaint.com/use/2015/11/proselectcolor/#ejector" target="blank" rel="noopener noreferrer">click here </a>.</p>
+<h3 id="hand">(f)Hand tool</h3>
+<p>Using the &ldquo;Hand tool&rdquo; (button (f)) you can move the display position of the canvas.</p>
+<p>For details <a href="https://medibangpaint.com/use/2015/11/move-canvas/" target="blank" rel="noopener noreferrer">click here</a>.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Hold down the space key and drag the canvas to perform the same operation as the palm tool.</p>
+</div>
+<h2 id="palette">Let&rsquo;s use the palette</h2>
+<p>The &ldquo;Palette&rdquo; window is a window which is hidden in the initial state.</p>
+<p>To use the palette, please display the palette window with &ldquo;Window&rdquo; &rarr; &ldquo;Palette&rdquo; of the menu.</p>
+<p>For details <a href="https://medibangpaint.com/use/2015/11/pallet/" target="blank" rel="noopener noreferrer">click here</a>.</p>
+<h2 id="reference-window">Let&rsquo;s use the reference window</h2>
+<p>&ldquo;Reference window&rdquo; is a window which is hidden in the initial state.</p>
+<p>To use the &ldquo;Reference window&rdquo;, please display the &ldquo;Reference window&rdquo; with &ldquo;Window&rdquo; &rarr; &ldquo;Reference&rdquo; in the menu.</p>
+</div>
+</body>
+</html>

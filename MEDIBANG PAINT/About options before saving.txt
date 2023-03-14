@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>About options before saving</h1>
+</div>
+<div class="postEditor">
+<p></p>
+<p>When saving a file other than &ldquo;MDP format&rdquo; when saving the canvas, &ldquo;Save setting&rdquo; window may be opened before saving.</p>
+<p>This section explains save settings for each image format.</p>
+<h2>PNG format</h2>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/save-option/png.png" alt="Save setting of PNG format" />
+<figcaption>Fig. Save setting of PNG format</figcaption>
+</figure>
+<dl>
+<dt>Transparent PNG</dt>
+<dd>Save it with the transparent (translucent) part on the canvas held.</dd>
+<dt>24-bit PNG</dt>
+<dd>Save the transparent (translucent) part of the canvas without holding it. The file size is a little smaller than the transparent PNG.</dd>
+<dt>Grayscale PNG</dt>
+<dd>The canvas is represented only by white, gray and black and is saved.</dd>
+</dl>
+<h2>JPEG format</h2>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/save-option/jpeg.png" alt="Save setting of JPEG format" />
+<figcaption>Fig. Save setting of JPEG format</figcaption>
+</figure>
+<dl>
+<dt>Quality</dt>
+<dd>The larger the number is, the better the image quality will be saved, but the file size will be correspondingly larger.</dd>
+</dl>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>JPEG format is &ldquo;lossy compression&rdquo;. You can not return the degraded image quality later.</p>
+</div>
+<h2>TIFF format</h2>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/save-option/tiff.png" alt="Save setting of TIFF format" />
+<figcaption>Fig. Save setting of TIFF format</figcaption>
+</figure>
+<p>Select &ldquo;Compress&rdquo; to reduce the file size.</p>
+<h2>WebP format</h2>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/save-option/webp.png" alt="Save setting of WebP format" />
+<figcaption>Fig. Save setting of WebP format</figcaption>
+</figure>
+<dl>
+<dt>Quality</dt>
+<dd>The larger the number is, the better the image quality will be saved, but the file size will be correspondingly larger.</dd>
+<dt>Lossless compression</dt>
+<dd>When checked, it is losslessly compressed and saved.</dd>
+<dd>When checked, save it with the transparent (translucent) part on the canvas held.</dd>
+</dl>
+</div>
+</body>
+</html>

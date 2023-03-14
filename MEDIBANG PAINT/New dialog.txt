@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>New dialog</h1>
+</div>
+<div class="postEditor">
+<p></p>
+<h2>New dialog (standard tab)</h2>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/new-dialog/img1.png" alt="Standard tab" />
+<figcaption>Fig. Standard tab</figcaption>
+</figure>
+<dl>
+<dt>Width</dt>
+<dd>Specify the width of the canvas. It can be specified in units of [px] [cm] [inch].</dd>
+<dt>Height</dt>
+<dd>Specify the height of the canvas. It can be specified in units of [px] [cm] [inch].</dd>
+<dt>Paper Size</dt>
+<dd>You can select the paper size from the pulldown. The size selected here will be reflected in the width and height.</dd>
+<dt>Resolution</dt>
+<dd>Specify the resolution of the image. You can specify from 1 to 2400 dpi.</dd>
+<dt>Background Color</dt>
+<dd>Specify the background color of the canvas. If you want to specify a color, set the pull down to &ldquo;color specification&rdquo; and specify the color. The background color of the canvas can be changed at any time by &ldquo;Display&rdquo; &rarr; &ldquo;Background Color&rdquo; of the menu.</dd>
+<dt>Initial Layer</dt>
+<dd>You can select the first layer type at the time of canvas creation.</dd>
+<dt>History</dt>
+<dd>The history of canvas size made in the past remains.</dd>
+<dt>Delete History</dt>
+<dd>Delete canvas size history.</dd>
+<dt>RGB Profile</dt>
+<dd>Specify the RGB profile to be used with the color management function. For details, refer to <a href="https://medibangpaint.com/use/2018/05/color-management/" target="blank" rel="noopener">&ldquo;How to use color management settings&rdquo;</a>.</dd>
+<dt>CMYK Profile</dt>
+<dd>Specify the CMYK profile to be used with the color management function.</dd>
+</dl>
+<h2>New dialog (&ldquo;Comic Guide&rdquo; tab)</h2>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/new-dialog/img2.png" alt="Comic Guide tab" />
+<figcaption>Fig. Comic Guide tab</figcaption>
+</figure>
+<dl>
+<dt>Template</dt>
+<dd>Select the standard size of the original from the pulldown.</dd>
+<dt>Manuscript Size</dt>
+<dd>Specify the size of the canvas. In the case of &ldquo;Do not add a margins outside the bleed line&rdquo;, the size of &ldquo;outer frame + paint added * 2&rdquo; automatically becomes the canvas size.</dd>
+<dt>Resolution</dt>
+<dd>Specify the resolution of the image. You can specify from 1 to 2400 dpi.</dd>
+<dt>Background Color</dt>
+<dd>Choose the background color from transparent or white.</dd>
+<dt>Finish Line(Bookbinding): Width</dt>
+<dd>Specify the width of the frame of &ldquo;Comic Guide&rdquo;</dd>
+<dt>Finish Line(Bookbinding): Height</dt>
+<dd>Specify the height of the frame of &ldquo;Comic Guide&rdquo;</dd>
+<dt>Safe Line: Width</dt>
+<dd>Specify the width of the inner frame of &ldquo;Comic Guide&rdquo;</dd>
+<dt>Safe Line: Height</dt>
+<dd>Specify the height of the inner frame of &ldquo;Comic Guide&rdquo;</dd>
+<dt>Bleed</dt>
+<dd>Specify the width of the bleed</dd>
+<dt>Frame Width</dt>
+<dd>Specify the default line width of &ldquo;Panel Material&rdquo;.</dd>
+<dt>Spread / Cover Page</dt>
+<dd>If you check here, the &ldquo;Comic Guide&rdquo; will be made in the spread state, the canvas size will be the same size as it was.</dd>
+<dt>Spine Width</dt>
+<dd>If you check &ldquo;Spread / Cover Page&rdquo;, you will be able to specify the spine width. The value specified here is reflected in the canvas size.</dd>
+</dl>
+</div>
+</body>
+</html>

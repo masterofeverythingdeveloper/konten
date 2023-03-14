@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s save the work</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/save/" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<p>You need to save the canvas you are working on when you exit MediBang Paint, for example when you interrupt work. Please note that if you exit MediBang Paint without saving, all the information you are working will be lost.</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>MediBang Paint or personal computer may end abnormally during work. Even in that case, the picture you are working will disappear.<br />MediBang Paint can save your work at your own time, so keep in mind to save frequently during work.</p>
+</div>
+<p>Before starting this tutorial, actually open the canvas and draw a suitable picture. If unsaved canvas is already open please proceed as it is.</p>
+<h2>How to save the canvas</h2>
+<p>To save the canvas you are working on, with the canvas you want to save displayed, click &ldquo;File&rdquo; &rarr; &ldquo;Save&rdquo; in the menu.</p>
+<p>At this time, if the canvas you are working on has never been saved, you will see a dialog box for specifying the location and file name of the file.<br />This is called new preservation.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/save/img1.png" alt="Save image dialog (Windows)" />
+<figcaption>Fig. Save image dialog (Windows)</figcaption>
+</figure>
+<p>You can select the location where you want to save the file, enter the name of the file you want to save in (1), and save it with (3) save button.<br />We will explain <a href="https://medibangpaint.com/en/tutorial/pc/save/#file-types">about the file type</a> of (2) later, so please leave it in the initial state as &ldquo;Medibang Paint Pro (*. Mdp)&rdquo; now.</p>
+<p>Here, save the file on the desktop with the name of &ldquo;tutorial&rdquo;.</p>
+<p>When saving is completed, please confirm that &ldquo;tutorial.mdp&rdquo; is saved on the desktop.<br />After confirmation, add the appropriate picture to the canvas and click &ldquo;File&rdquo; &rarr; &ldquo;Save&rdquo; again.</p>
+<p>Next time, the file was saved without opening the dialog for specifying the file name. This is called <a href="https://medibangpaint.com/en/tutorial/pc/save/#overwrite">overwrite save</a>.</p>
+<h2 id="save_as">How to save as</h2>
+<p>If you want to save a new working canvas while keeping past files, use the Save As function.</p>
+<p>With &ldquo;tutorial.mdp&rdquo; open, click &ldquo;File&rdquo;-&gt;&rdquo;Save As&rdquo; on the menu.<br />A dialog box for specifying the file save location and file name is displayed as in &ldquo;New Save&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/save/img3.png" alt="Dialog displayed when Save As (Windows)" />
+<figcaption>Fig. Dialog displayed when Save As (Windows)</figcaption>
+</figure>
+<p>In this case, please save the file on the desktop with the name &ldquo;SaveAs&rdquo;.<br />When saving is completed, please confirm that &ldquo;SaveAs.mdp&rdquo; is saved on the desktop.</p>
+<h3 id="file-types">About file type</h3>
+<p>MediBang Paint allows you to save images in various formats when saving images. To change the format of the image when saving, select the appropriate image format in &ldquo;File type&rdquo; in the &ldquo;Save Image&rdquo; dialog, and then save the file.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/save/img4.png" alt="Choose" />
+<figcaption>Fig. Choose</figcaption>
+</figure>
+<p></p>
+<p>The file format supported by MediBang Paint is as follows.</p>
+<dl class="tutorial">
+<dt>MediBang Paint Pro (*.mdp)</dt>
+<dd>It is a special form of Mediban paint. Although it can hold text information and layer information and the image does not deteriorate, in this form, it can not contribute to SNS such as Facebook or Instagram.</dd>
+<dt>PNG (*.png)</dt>
+<dd>The file size will be small. It can also be saved as an image with the background transparent. Layers are not saved. It is a format suitable for posting to SNS such as Facebook or Instagram.</dd>
+<dt>JPEG (*.jpg)</dt>
+<dd>The file size will be small. Although you can change the compression ratio (image quality), the image deteriorates and degraded images can not be restored. Layers are not preserved.</dd>
+<dt>Bitmap (*.bmp)</dt>
+<dd>It is an image format standard supported by Windows. Since it is uncompressed, the data capacity is large, but it can be saved repeatedly without deterioration. Layers are not preserved.</dd>
+<dt>PSD (*.psd)</dt>
+<dd>It is a saving format of &ldquo;Photoshop&rdquo;. Please use it when you recommend PSD such as trafficking to a printing office. It can also be used for exchanging data with other PSD compatible paint tools.<br />Layers are saved, but features specific to Medibane paint are not retained.</dd>
+<dt>TIFF (*.tif)</dt>
+<dd>This format can be compressed without degrading the image. However, since there are various variations in this image format, there is a slight problem in compatibility.</dd>
+<dt>WebP (*.webp)</dt>
+<dd>This format is a still image format, the file size will be smaller than conventional JPEG and PNG, but there are few applications supported.</dd>
+</dl>
+<p>I think that it is better to use &ldquo;MediBang Paint Pro (*. Mdp)&rdquo; format for normal storage and &ldquo;PNG (*. Png)&rdquo; only when posting to SNS while you do not understand the image format so well I will.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>If you save a file in a format other than MDP format, the Save setting window may be opened before saving. Please choose the appropriate setting and save.</p>
+<p>Please check <a href="https://medibangpaint.com/en/tutorial/pc/save-option/" target="blank" rel="noopener">about the options before saving</a> for details about the settings before saving.</p>
+</div>
+<h2 id="overwrite">About Overwrite Save</h2>
+<p>If you click on &ldquo;File&rdquo; &rarr; &ldquo;Save&rdquo; with the canvas opened in the past opened, a dialog for selecting the file name will not be displayed and it will be overwritten and saved in the original file.</p>
+<p>When overwriting and saving, the old picture will be updated to the currently working canvas, so be sure to use &ldquo;<a href="https://medibangpaint.com/en/tutorial/pc/save/#save_as">Save As</a>&rdquo; if you want to keep the old picture.</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>You can check by the name of the tab above the canvas whether the currently open canvas has saved in the past.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/save/img2.png" alt="How to distinguish canvases that have saved in the past" />
+<figcaption>Fig. How to distinguish canvases that have saved in the past</figcaption>
+</figure>
+<p>If it is &ldquo;Untitled&rdquo;, it is a canvas that has never been saved in the past. &ndash; (4)<br />If the saved file name is displayed, it is a canvas saved in the past. &ndash; (5)</p>
+</div>
+</div>
+</body>
+</html>

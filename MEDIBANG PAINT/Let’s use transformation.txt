@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s use transformation</h1>
+</div>
+<div class="postEyecatch"></div>
+<div class="postEditor">
+<p>In MediBang Paint, you can transform the drawing you draw later.</p>
+<h2>Expansion/Reduction/Rotation</h2>
+<p>Expansion / reduction / rotation of the most basic transform is done from &ldquo;Select&rdquo; &rarr; &ldquo;Transform&rdquo; of the menu.</p>
+<p>During transformation, a transformation toolbar is displayed at the bottom of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/transform_bar.png" alt="Tool bar for transformation" />
+<figcaption>Fig. Tool bar for transformation</figcaption>
+</figure>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>You can choose transform processing from the pull-down list at the far right of the transformation tool bar.<br />There are three kinds of deformation processing, the image after deformation becomes beautiful as going down.</p>
+<ul>
+<li>Nearest Neighbor (Jaggies)</li>
+<li>Bilinear (Smooth)</li>
+<li>Bicubic (Sharp)</li>
+</ul>
+<p>Choose according to your taste.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/transform_option.png" alt="Selection of transformation processing" />
+<figcaption>Fig. Selection of transformation processing</figcaption>
+</figure>
+</div>
+<h3>let&rsquo;s try it</h3>
+<p>First of all, download the sample and open it.</p>
+<div class="dl-button"><a class="btn" href="https://medibangpaint.com/static/images/tutorial/pc/use-transform/transform_sample1.mdp"></a></div>
+<p>Next, select the &ldquo;line(face)&rdquo; layer and execute &ldquo;Select&rdquo; &rarr; &ldquo;Transform&rdquo; of the menu.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/transform_tryit_1_1.png" alt="When Transform was executed" />
+<figcaption>Fig. When Transform was executed</figcaption>
+</figure>
+<p>&ldquo;Transform&rdquo; is done by dragging &ldquo;handle (1)&rdquo; displayed around the image. To rotate, drag the area where the cursor on the outside of the steering wheel changes to (2).</p>
+<p>Let&rsquo;s try to enlarge the cat&rsquo;s face, rotate it, and so on. When you like the deformation that you like, please press the &ldquo;OK&rdquo; button on the &ldquo;Transform image&rdquo; toolbar.</p>
+<p>If you do not like Transformation and want to return to the state before Transformation, please press &ldquo;Cancel&rdquo;.</p>
+<h2>Free Transform</h2>
+<p>Next, I will explain &ldquo;Free Transform&rdquo;. Executing &ldquo;Select&rdquo; &rarr; &ldquo;Transform&rdquo; of the menu and checking &ldquo;Free Transform&rdquo; of the transformation tool bar makes &ldquo;Free Transform&rdquo; possible.</p>
+<p>I think that &ldquo;Free Transform&rdquo; is easier to understand by actually manipulating it, so let&rsquo;s download the sample and operate it.</p>
+<h3>let&rsquo;s try it</h3>
+<p>First of all, download the sample and open it.</p>
+<div class="dl-button"></div>
+<p>Next, select &ldquo;cat&rdquo; layer and execute &ldquo;Select&rdquo; &rarr; &ldquo;Transform&rdquo; of the menu.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/transform_tryit_2_1.png" alt="Place of 'Free Transform'" />
+<figcaption>Fig. Place of 'Free Transform'</figcaption>
+</figure>
+<p>Let&rsquo;s check the &ldquo;Free Transform&rdquo; and let&rsquo;s fit the image of the cat into the display.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/transform_tryit_2_2.png" alt="Flow of transform" />
+<figcaption>Fig. Flow of transform</figcaption>
+</figure>
+<p>Let&rsquo;s change the check of &ldquo;Perspective&rdquo; and check the difference.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/transform_tryit_2_3.png" alt="Perspective (A)unchecked / (B)checked" />
+<figcaption>Fig. Perspective (A)unchecked / (B)checked</figcaption>
+</figure>
+<p>Since there is a depth in the display in this sample, it seems natural to freely deform with &ldquo;Perspective&rdquo; checked.</p>
+<p>When you can deform well, please push the &ldquo;OK&rdquo; button on the &ldquo;Transform Image&rdquo; toolbar.</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>In accordance with the picture being drawn, let&rsquo;s properly use the &ldquo;Perspective&rdquo; check appropriately.</p>
+<p>Please switch on/off check of &ldquo;Perspective&rdquo; during deformation, please use one with less discomfort.</p>
+</div>
+<h2>Mesh Transform</h2>
+<p>Using &ldquo;Mesh Transform&rdquo;, you can distort a part of the screen.</p>
+<p>For details&nbsp;</p>
+<h3>let&rsquo;s try it</h3>
+<p>First of all, download the sample and open it.</p>
+<div class="dl-button"><a class="btn" href="https://medibangpaint.com/static/images/tutorial/pc/use-transform/mesh_transform_sample.mdp"></a></div>
+<p>Let&rsquo;s transform the sample &ldquo;cat tea&rdquo; layer mesh and put it on the picture of &ldquo;can&rdquo; layer.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/mesh_transform1.png" alt="Sample opened" />
+<figcaption>Fig. Sample opened</figcaption>
+</figure>
+<p>Select the &ldquo;cat tea&rdquo; layer and move it from the &ldquo;Select&rdquo; of the menu to &ldquo;Mesh Transform&rdquo; and move it on the can.</p>
+<p>Later, let&rsquo;s deform it according to the shape of the can. (Check it &ldquo;Vertical Link&rdquo; to make it easier.)</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>If you can not see the can draft and it is difficult to deform, temporarily try to reduce the opacity of the &ldquo;cat tea&rdquo; layer, or move the &ldquo;can&rdquo; layer above the &ldquo;cat tea&rdquo; layer.</p>
+</div>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/mesh_transform2.png" alt="Mesh Transform flow" />
+<figcaption>Fig. Mesh Transform flow</figcaption>
+</figure>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>In the sample, we are daringly putting the &ldquo;cat tea&rdquo; layer on the &ldquo;can&rdquo; layer, but unless there is special circumstance, it is better to have the &ldquo;can&rdquo; layer (line drawing) on the &ldquo;cat tea&rdquo; layer (paint) It will be better.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-transform/mesh_transform3.png" alt="(A)Line drawing is above / (B)Line drawing down" />
+<figcaption>Fig. (A)Line drawing is above / (B)Line drawing down</figcaption>
+</figure>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Network panel</h1>
+</div>
+<div class="postEyecatch"></div>
+<div class="postEditor">
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/network-dialog/img1.png" alt="Network Panel" />
+<figcaption>Fig. Network Panel</figcaption>
+</figure>
+<dl>
+<dt>(1)</dt>
+<dd>It is a shortcut to useful functions. From here, you can create a canvas or post to MediBang&rsquo;s website.</dd>
+<dt>(2)</dt>
+<dd>It is an area that displays articles randomly from <a href="https://medibangpaint.com/pc/use/?search-sort=new">How to use MediBang Paint</a>. The &ldquo;How to use&rdquo; button opens a list of usage courses.</dd>
+<dt>(3)</dt>
+<dd>We will randomly display information on contests held in MediBang. The Contest List that is being held will be opened with the &ldquo;More&rdquo; button.</dd>
+</dl>
+</div>
+</body>
+</html>

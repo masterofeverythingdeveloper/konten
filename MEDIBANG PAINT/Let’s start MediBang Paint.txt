@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s start MediBang Paint</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/launch/" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<p>Here, I will explain how to start MediBang Paint.</p>
+<h2>How to launch MediBang Paint</h2>
+<h3>For Windows</h3>
+<p>When MediBang paint is installed on your computer, a shortcut of MediBang Paint is created on the desktop.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/launch/img1.png" alt="Shortcut icon" />
+<figcaption>Fig. Shortcut icon</figcaption>
+</figure>
+<p></p>
+<p>To launch MediBang Paint, double-click its shortcut.</p>
+<h3>For Mac</h3>
+<p>When MediBang paint is installed on your computer, MediBang paint icon will be added to &ldquo;Launchpad&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/launch/img2.png" alt="Open Launchpad" />
+<figcaption>Fig. Open Launchpad</figcaption>
+</figure>
+<br />&darr;<br />
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/launch/img3.png" alt="MediBang Paint icon" />
+<figcaption>Fig. MediBang Paint icon</figcaption>
+</figure>
+<br />To launch MediBang Paint, click on its icon.
+<p></p>
+<h2>Screen when starting up</h2>
+<p>When such a screen is displayed it is successfully launched.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/launch/img4.png" alt="It" />
+<figcaption>Fig. It</figcaption>
+</figure>
+<p>MediBang Paint will display advertisement at startup.<br />In this case, please close the advertisement window displayed by pushing the [OK] button.</p>
+<h2>How to finish MediBang Paint</h2>
+<p>I will also explain how to terminate it at startup. The method of terminating the application is the same as the standard method of each operating system.</p>
+<h3>For Windows</h3>
+<p>Please click the [x] button in the upper right of the window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/launch/img5.png" alt="Close button" />
+<figcaption>Fig. Close button</figcaption>
+</figure>
+<p></p>
+<h3>For Mac</h3>
+<p>Please click the red [x] button in the upper left of the window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/launch/img6.png" alt="Close button" />
+<figcaption>Fig. Close button</figcaption>
+</figure>
+<p></p>
+<p>Let&rsquo;s make works from the next tutorial.</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>This is a general operation procedure. Depending on your computer and operating system version, the operation may be different, but in that case please launch the application according to your personal computer.<br />The operation systems used in this tutorial are &ldquo;Windows 10&rdquo; and &ldquo;macOS High Sierra (10.13.6)&rdquo;.</p>
+</div>
+</div>
+</body>
+</html>

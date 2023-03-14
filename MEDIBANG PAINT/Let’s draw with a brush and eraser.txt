@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s draw with a brush and eraser</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/brush/" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<p>Finally, let&rsquo;s draw a picture on the canvas.</p>
+<h2>How to use the brush</h2>
+<p>Launch MediBang Paint and open the appropriate canvas. If the canvas is already open, you can use that canvas.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img1.png" alt="Painting a suitable picture" />
+<figcaption>Fig. Painting a suitable picture</figcaption>
+</figure>
+<p>With &ldquo;Brush tool (1)&rdquo; selected, select the appropriate brush and draw a picture on the canvas.</p>
+<p>Brushes can be selected from &ldquo;Brush window (2)&rdquo;. You can also change the brush size and opacity with &ldquo;Brush control (3)&rdquo;. Please try out various brushes.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>If you fail to draw a line or you want to redraw a line &hellip;</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img10.png" alt="Undo/Redo" />
+<figcaption>Fig. Undo/Redo</figcaption>
+</figure>
+<p>Please press the &ldquo;Undo (1)&rdquo; button at the top of the window without panic.</p>
+<p>You can return the state of the canvas to the previous state. (If you have returned too much, you can advance the returned procedure by pressing &ldquo;Redo (2)&rdquo; button)</p>
+<p>Since this function is a convenient function unique to digital, let&rsquo;s use it well.</p>
+<p>Please try &ldquo;Undo&rdquo; and &ldquo;Redo&rdquo; several times. (Details of the function is explained <a href="https://medibangpaint.com/en/tutorial/pc/other-tools/#undo">here</a>)</p>
+</div>
+<h2>How to change the color of the brush</h2>
+<p>Even if you draw with only black, it&rsquo;s not fun, so let&rsquo;s change the color of the brush this time.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img2.png" alt="Changing colors and drawing a lot" />
+<figcaption>Fig. Changing colors and drawing a lot</figcaption>
+</figure>
+<p></p>
+<p>The color of the brush can be changed from &ldquo;hue bar (4)&rdquo;. Let&rsquo;s draw more and more pictures while actually changing the color of the brush.</p>
+<h2>How to use an eraser</h2>
+<p>I will explain how to use the eraser when the canvas is full.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img3.png" alt="I erased it with an eraser and drew again" />
+<figcaption>Fig. I erased it with an eraser and drew again</figcaption>
+</figure>
+<p></p>
+<p>In the &ldquo;brush window&rdquo; there is a brush called &ldquo;eraser&rdquo; so please select it. There are two types of &ldquo;eraser&rdquo;: normal &ldquo;eraser&rdquo; and &ldquo;eraser (soft)&rdquo;.<br />Let&rsquo;s try each difference. Like &ldquo;Brush&rdquo; &ldquo;Eraser&rdquo; you can change brush size and opacity from &ldquo;Brush control&rdquo;.</p>
+<p>Of course, after erasing with an eraser, you can also draw new paintings.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>You can also erase everything in the layer at once by using &ldquo;Layer&rdquo; -&gt; &ldquo;Clear&rdquo; in the menu or the &ldquo;Delete&rdquo; key on the keyboard.</p>
+</div>
+<p>So far, basic operations to draw pictures are now available.</p>
+<h2>Other features</h2>
+<p>Although I can draw a picture without knowing, I will explain the setting of a little useful brush if I know it.</p>
+<h3 id="transparent">How to use transparent color</h3>
+<p>With the brush tool, you can draw the color of the ink transparent. With this function you can use the brush instead of an eraser.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img4.png" alt="Use transparent color to erase" />
+<figcaption>Fig. Use transparent color to erase</figcaption>
+</figure>
+<p>Transparent color can be selected with button (1). Because it can erase with the shape of the brush, you can erase it can not be expressed with an ordinary eraser.</p>
+<p>Please try drawing with transparent color in fact.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>If you hold down the [z] key on the keyboard and draw, you can draw in transparent color while pressing the [z] key.</p>
+</div>
+<h3>How to switch anti-aliasing</h3>
+<p>Anti-aliasing (anti-aliasing) is a function that makes jagged edges of images less noticeable. Please check the anti-aliasing item if there are symptoms such as &ldquo;The brush line has become jagged!&rdquo; &ldquo;The line got dirty!&rdquo; (<a href="https://medibangpaint.com/en/tutorial/pc/anti-aliasing/" target="blank" rel="noopener">Click here</a> for details on anti-aliasing)<br />）</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img5.png" alt="Switching anti-aliasing is here" />
+<figcaption>Fig. Switching anti-aliasing is here</figcaption>
+</figure>
+<p></p>
+<p>Antialiasing can be confirmed and set in (1) place with the brush tool selected. (It is [ON] when the cross is marked)</p>
+<p>When you actually draw anti-aliasing [ON] / [OFF] and draw it, it looks like this.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img6.png" alt="Line difference due to anti-aliasing presence / absence" />
+<figcaption>Fig. Line difference due to anti-aliasing presence / absence</figcaption>
+</figure>
+<p></p>
+<p>Please switch anti-aliasing and check the line difference.</p>
+<h3>How to use &ldquo;Shake Correction&rdquo;</h3>
+<p>Shake correction is a function to correct line disturbance caused by camera shake during drawing.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img7.png" alt="Changing Shake correction is here" />
+<figcaption>Fig. Changing Shake correction is here</figcaption>
+</figure>
+<p>With the brush tool selected, you can check and set the Shake correction in the place (1). The larger the number, the stronger the degree of correction, but the slower the drawing speed.</p>
+<p>Please switch the value of the camera shake correction and check the difference of the lines.</p>
+<h3 id="color-picker">Let&rsquo;s switch between &ldquo;hue bar&rdquo; and &ldquo;hue circle&rdquo;</h3>
+<p>&ldquo;Hue bar&rdquo; can be switched from &ldquo;color&rdquo; of menu to &ldquo;hue bar&rdquo; and &ldquo;hue circle&rdquo;. Please switch according to your preference.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img8.png" alt="How to change hue bars and hue circles" />
+<figcaption>Fig. How to change hue bars and hue circles</figcaption>
+</figure>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/brush/img9.png" alt="(1): hue bar / (2): hue circle" />
+<figcaption>Fig. (1): hue bar / (2): hue circle</figcaption>
+</figure>
+<p>Let&rsquo;s change the &ldquo;hue bar&rdquo; and &ldquo;hue circle&rdquo; to see the difference.</p>
+</div>
+</body>
+</html>

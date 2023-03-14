@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2 id="rotate">Learn the various rotation methods</h2>
+<p>MediBang Paint has three kinds of rotation and left / right reversal. Let&rsquo;s learn the difference.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/rotate_1.png" alt="Original picture" />
+<figcaption>Fig. Original picture</figcaption>
+</figure>
+<p>Based on this picture, I will explain how each rotation works.</p>
+<h3>Rotate and flip only the display</h3>
+<p>It can be executed by &ldquo;View&rdquo; &rarr; &ldquo;Rotate Left&rdquo; / &ldquo;Flip&rdquo; / &ldquo;Rotate Right&rdquo; of the menu. (It is the same even if you operate in the <a href="https://medibangpaint.com/en/tutorial/pc/other-tools/#navi-window">&ldquo;Navigator&rdquo; window</a>.)</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/rotate_navi.png" alt="Horizontal reversed display only." />
+<figcaption>Fig. Horizontal reversed display only.</figcaption>
+</figure>
+<p>Only the display of the canvas flips horizontally and the display of the navigator and layer remains intact.</p>
+<p>In this operation, since only the display is rotated and reversed, the data saved in the canvas is saved in the original state.</p>
+<h3>Rotate and flip the canvas</h3>
+<p>It can be executed by &ldquo;Edit&rdquo; &rarr; &ldquo;Rotate　Left&rdquo; / &ldquo;Flip Horizontally&rdquo; / &ldquo;Rotate Right&rdquo; of the menu.<br />The entire canvas (all layers) will rotate and flip.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/rotate_canvas.png" alt="All the layers were flipped horizontally." />
+<figcaption>Fig. All the layers were flipped horizontally.</figcaption>
+</figure>
+<p>In this operation, not only the display but also the saved data of the canvas are saved in a rotated state.</p>
+<h3>Rotate and flip layers</h3>
+<p>It can be executed by the menu in &ldquo;Layer&rdquo; &rarr; &ldquo;Rotate&rdquo; of the menu.<br />Only the selected layer rotates / flips.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/rotate_layer.png" alt="Horizontally inverted only the selected layer." />
+<figcaption>Fig. Horizontally inverted only the selected layer.</figcaption>
+</figure>
+<p>In this operation, not only the display but also the saved data of the canvas are saved in a rotated state.</p>
+<h2 id="ruler">Let&rsquo;s use a &ldquo;Snap tool&rdquo;</h2>
+<p>A &ldquo;Snap tool&rdquo; is displayed at the top of the window when selecting a tool that can use a &ldquo;Snap tool&rdquo; such as a brush tool.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/ruler1.png" alt="Snap toolbar" />
+<figcaption>Fig. Snap toolbar</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="showMore-ruler"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(a)</dt>
+<dd>Set the ruler to OFF (not shown). The state of the ruler is retained.</dd>
+<dt>(b)</dt>
+<dd>It is a ruler that can draw parallel lines at any angle. The angle of the ruler can be changed by pressing &ldquo;reset button (i)&rdquo;. You can change the angle in units of 15 &deg; if you press &ldquo;Ctrl (Command on Mac)&rdquo; to change the angle.</dd>
+<dt>(c)</dt>
+<dd>It is a ruler that can draw vertical and horizontal lines.</dd>
+<dt>(d)</dt>
+<dd>It is a vanishing point ruler. First, select any four points to determine the vanishing point. To reset the vanishing point, please press &ldquo;reset button (i)&rdquo;.
+<p></p>
+<p></p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/snap_d.png" alt="Example of using vanishing point ruler" />
+<figcaption>Fig. Example of using vanishing point ruler</figcaption>
+</figure>
+</dd>
+<dt>(e)</dt>
+<dd>It is a ruler that draws a concentration line. If you want to change the center of the concentration line, please press &ldquo;Reset button (i)&rdquo;.</dd>
+<dt>(f)</dt>
+<dd>It is a ruler that draws concentric circles. If you want to change the center of the concentric circle, please press &ldquo;reset button (i)&rdquo;.</dd>
+<dt>(g)</dt>
+<dd>It is a curve ruler. If you click along the point you want to draw a curve, you can create a ruler that matches the curve. Double click to confirm the ruler. If you want to change the shape of the ruler, please press &ldquo;reset button (i)&rdquo;.</dd>
+<dt>(h)</dt>
+<dd>It is a ruler that draws an ellipse. When you drag the canvas, an ellipse ruler is made.</dd>
+<dt>(i)</dt>
+<dd>Reset the state of the ruler.</dd>
+</dl>
+</div>
+</div>
+<h3>Save Snap</h3>
+<p>The snap can be saved. The snap data is saved in mdp file, and it can store up to 10 pieces per mdp file.</p>
+<p>To save snap, use &ldquo;Snap&rdquo; &rarr; &ldquo;Save Snap&rdquo; in the menu.<br />You can call up the saved snap from the &ldquo;Snap&rdquo; menu.</p>
+<p>（※There is no function to change or delete the name of the ruler saved at Ver 20.1.）</p>
+<h2>Left toolbar</h2>
+<p>I will explain the toolbar on the left side of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/vtoolbar.png" alt="Toolbar on the left" />
+<figcaption>Fig. Toolbar on the left</figcaption>
+</figure>
+<h3 id="move">(a)Move tool</h3>
+<p>Using the &ldquo;Move tool&rdquo; (the button in (a)) you can freely move the picture drawn on the selected layer.</p>
+<p>Movement is done by dragging on the canvas.</p>
+<div class="tips">Tips
+<p></p>
+<p>You can move it horizontally and vertically by holding down the Shift key and using &ldquo;Move Tool&rdquo;.</p>
+</div>
+<h3 id="fill">(b)Fill tool</h3>
+<p>Using &ldquo;Fill tool&rdquo; (button (b)), you can easily fill in rectangular, elliptical, polygonal shape.</p>
+<p>When you select the Fill tool, &ldquo;Special tool bar&rdquo; of &ldquo;Fill tool&rdquo; is displayed at the top of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/fill_bar.png" alt="Fill tool dedicated toolbar" />
+<figcaption>Fig. Fill tool dedicated toolbar</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="showMore-fill-bar"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(A)</dt>
+<dd>Select the shape of the fill.</dd>
+<dt>(B)</dt>
+<dd>Set whether antialiasing is applied when filling.</dd>
+<dt>(C)</dt>
+<dd>Rectangle / Polygon Set whether to round the fill corner. In case of rounding, also set the degree.</dd>
+<dt>(D)</dt>
+<dd>When it is a rectangle / ellipse, it specifies whether to fill a diagonal line and fill it from the center.
+<p></p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/fill_base.png" alt="Compare selection from center with rectangle" />
+<figcaption>Fig. Compare selection from center with rectangle</figcaption>
+</figure>
+<p>When checking the selection from the center on the right (when drawing like a red arrow)</p>
+</dd>
+<dt>(E)</dt>
+<dd>When it is a rectangle / ellipse, it specifies whether the aspect ratio is 1 and it fills. If checked, concentric circles are filled with squares.</dd>
+<dt>(F)</dt>
+<dd>Specify the opacity of the fill.</dd>
+</dl>
+</div>
+</div>
+<h3 id="gradation">(c)Gradation tool</h3>
+<p>Using &ldquo;Gradation Tool&rdquo; (button (c)) makes it easy to create gradations.</p>
+<p>When &ldquo;Gradation tool&rdquo; is selected, &ldquo;Special tool bar&rdquo; is displayed at the top of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/grad_bar.png" alt="Gradation Tool Toolbar" />
+<figcaption>Fig. Gradation Tool Toolbar</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="showMore-grad-bar"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(A)</dt>
+<dd>Select the shape of the gradation from &ldquo;linear&rdquo; or &ldquo;circle&rdquo;.</dd>
+<dt>(B)</dt>
+<dd>Select the gradation type from &ldquo;Foreground to Background&rdquo; or &ldquo;Foreground&rdquo;.
+<p></p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/grad_option.png" alt="Difference in gradation type" />
+<figcaption>Fig. Difference in gradation type</figcaption>
+</figure>
+<p>The left is &ldquo;foreground to background&rdquo; right is &ldquo;foreground&rdquo;. If you select the foreground, it will gradate from the foreground to the transparent color.</p>
+</dd>
+</dl>
+</div>
+</div>
+<p>The width and direction of the gradation are determined by the stroke in the canvas.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/other-tools/grad.png" alt="Example of gradient direction and width" />
+<figcaption>Fig. Example of gradient direction and width</figcaption>
+</figure>
+<h3 id="shape-brush">(d)Shape brush tool</h3>
+<p>Using the &ldquo;Shape Brush Tool&rdquo; (button (d)), you can easily write shapes.<br />Unlike the Fill Tool, you can draw shapes with the current brush.</p>
+<p>For details, please click <a href="https://medibangpaint.com/use/2016/09/shape_brush_tool/" target="blank" rel="noopener noreferrer">here</a>.</p>
+<h3 id="ejector">(e)Eyedropper tool</h3>
+<p>Using &ldquo;Eyedropper Tool&rdquo; (button (e)), you can choose any color from the canvas you are drawing and turn it into the foreground color.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Hold Alt (Option for Mac) and click the canvas to switch to the eyedropper tool.</p>
+</div>
+<p>For details <a href="https://medibangpaint.com/use/2015/11/proselectcolor/#ejector" target="blank" rel="noopener noreferrer">click here </a>.</p>
+<h3 id="hand">(f)Hand tool</h3>
+<p>Using the &ldquo;Hand tool&rdquo; (button (f)) you can move the display position of the canvas.</p>
+<p>For details <a href="https://medibangpaint.com/use/2015/11/move-canvas/" target="blank" rel="noopener noreferrer">click here</a>.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Hold down the space key and drag the canvas to perform the same operation as the palm tool.</p>
+</div>
+<h2 id="palette">Let&rsquo;s use the palette</h2>
+<p>The &ldquo;Palette&rdquo; window is a window which is hidden in the initial state.</p>
+<p>To use the palette, please display the palette window with &ldquo;Window&rdquo; &rarr; &ldquo;Palette&rdquo; of the menu.</p>
+<p>For details <a href="https://medibangpaint.com/use/2015/11/pallet/" target="blank" rel="noopener noreferrer">click here</a>.</p>
+<h2 id="reference-window">Let&rsquo;s use the reference window</h2>
+<p>&ldquo;Reference window&rdquo; is a window which is hidden in the initial state.</p>
+<p>To use the &ldquo;Reference window&rdquo;, please display the &ldquo;Reference window&rdquo; with &ldquo;Window&rdquo; &rarr; &ldquo;Reference&rdquo; in the menu.</p>
+</body>
+</html>

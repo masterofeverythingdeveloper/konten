@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>About anti-aliasing</h1>
+</div>
+<div class="postEditor">
+<p></p>
+<p>Digital images are represented by collections of small points called pixels. Therefore, you can not express finer than pixels.</p>
+<p>Here, when drawing a circle filled with black on a small canvas of 20 * 20 pixels, it becomes as follows.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/anti-aliasing/img1.png" alt="Image of the circle that was jagged" />
+<figcaption>Fig. Image of the circle that was jagged</figcaption>
+</figure>
+<p>In this way, trying to represent a circle with only one color black, the circumference of the circle becomes jagged.</p>
+<p>So let&rsquo;s make this pixel &ldquo;gray&rdquo; because this pixel is &ldquo;half covered&rdquo; &hellip; this pixel is &ldquo;covered by 1/4&rdquo; so it is light gray, and so on &hellip; What would be the case when drawing colors with the pixel colors adjusted according to the area?</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/anti-aliasing/img3.png" alt="How do you change the color depth according to how much it covers?" />
+<figcaption>Fig. How do you change the color depth according to how much it covers?</figcaption>
+</figure>
+<p>In this way, you can draw a much cleaner circle than the previous black one color.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/anti-aliasing/img4.png" alt="Small circle anti-aliased" />
+<figcaption>Fig. Small circle anti-aliased</figcaption>
+</figure>
+<p>This process is called anti-aliasing.</p>
+</div>
+</body>
+</html>

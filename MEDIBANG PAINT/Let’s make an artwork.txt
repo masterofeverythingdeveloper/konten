@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s make an artwork</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/new-canvas/" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<p>Just by starting MediBang Paint, you can not draw new paintings. You need to make a canvas to start drawing new.</p>
+<p>Here we will explain the procedure to open a new canvas and prepare to actually create a work.</p>
+<p>Please start MediBang Paint and close advertisement window first.<br />Closing the ad window opens a new window in front of the main window.</p>
+<p>This window is called &ldquo;Network panel&rdquo; (1).</p>
+<h2>About the network panel</h2>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/new-canvas/img1.png" alt="Network panel" />
+<figcaption>Fig. Network panel</figcaption>
+</figure>
+<p>&ldquo;Network panel&rdquo; is a panel that collects useful functions for starting work with MediBang Paint. Launch MediBang Paint and close the ad, it opens automatically on top of the application window.</p>
+<p>&ldquo;Network panel&rdquo; can be opened many times from the button of (2).</p>
+<p>Try closing &ldquo;Network Panel&rdquo; and reopening the Network Panel here.</p>
+<p>Now that you understand how to open &ldquo;Network Panel&rdquo;, let&rsquo;s make a new canvas. (You can check the detailed explanation of the network panel from <a href="https://medibangpaint.com/en/tutorial/pc/network-dialog/">here</a>.)</p>
+<h2>How to make a new canvas</h2>
+<p>Let&rsquo;s make a new canvas.</p>
+<p>Open &ldquo;Network Panel&rdquo; and click on &ldquo;Illustration&rdquo; button on &ldquo;Network Panel&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/new-canvas/img2.png" alt="Illustration button" />
+<figcaption>Fig. Illustration button</figcaption>
+</figure>
+<p></p>
+<p>The &ldquo;Create New Image&rdquo; dialog opens.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/new-canvas/img3.png" alt="Create New Image dialog" />
+<figcaption>Fig. Create New Image dialog</figcaption>
+</figure>
+<p></p>
+<p>Let&rsquo;s make canvas of &ldquo;A5&rdquo; size this time.<br />Select &ldquo;A5 (148 * 210 mm)&rdquo; from the &ldquo;Paper Size&rdquo; pull-down.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/new-canvas/img4.png" alt="Select template A5" />
+<figcaption>Fig. Select template A5</figcaption>
+</figure>
+<p></p>
+<p>If you select &ldquo;A5&rdquo; from the template, the width and height are automatically set to &ldquo;14.8 cm&rdquo; and &ldquo;21.0 cm&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/new-canvas/img5.png" alt="After choosing a template" />
+<figcaption>Fig. After choosing a template</figcaption>
+</figure>
+<p></p>
+<p>Now you are ready to make &ldquo;A5&rdquo; size canvas. Please press &ldquo;OK&rdquo; button as it is.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/new-canvas/img6.png" alt="The canvas opened" />
+<figcaption>Fig. The canvas opened</figcaption>
+</figure>
+<p></p>
+<p>When the new canvas opens like this, preparation for drawing works is complete.</p>
+<p>In the next tutorial, let&rsquo;s actually paint on the canvas with a brush and an eraser.（A detailed explanation of the newly created screen can be confirmed from .）</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>In addition to choosing the canvas size from the template, you can also specify the desired value with manual input.<br />The upper limit of size is up to 20,000px both width and height.</p>
+</div>
+</div>
+</body>
+</html>

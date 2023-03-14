@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s draw manga</h1>
+</div>
+<div class="postEyecatch"></div>
+<div class="postEditor">
+<p>I will explain the basics of drawing cartoons using MediBang Paint.</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>Although I will not explain in this tutorial, MediBang Paint has a service called &ldquo;cloud project&rdquo; to draw comics in earnest. (To use the cloud project, user registration to MediBang is necessary.)</p>
+</div>
+<h2 id="use-comic-guide">Let&rsquo;s use &ldquo;Comic guide&rdquo;</h2>
+<p>&ldquo;Comic guide&rdquo; is a guide line when printing manga. When opening a new canvas as &ldquo;manga manuscript&rdquo;, &ldquo;Comic guide&rdquo; will be displayed automatically.</p>
+<p>To open the canvas as &ldquo;manga manuscript&rdquo;, open the &ldquo;New Image&rdquo; dialog with &ldquo;File&rdquo; &rarr; &ldquo;New&rdquo; in the menu and create a canvas from the &ldquo;Comic (1)&rdquo; tab.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img1.png" alt="Comic tab" />
+<figcaption>Fig. Comic tab</figcaption>
+</figure>
+<p>Let&rsquo;s create a canvas by selecting &ldquo;Doujinshi (A5 finished): 350 dpi&rdquo; as a template on the &ldquo;Comic&rdquo; tab.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img2.png" alt="When opening the canvas with 'Comic'" />
+<figcaption>Fig. When opening the canvas with 'Comic'</figcaption>
+</figure>
+<p>A canvas of &ldquo;Comic&rdquo; was opened. This light blue color guideline is &ldquo;Comic guide&rdquo;. (Please see <a href="https://medibangpaint.com/use/2015/12/setting-draft/" target="blank" rel="noopener">here</a> for the meaning of the lines of the guideline.)</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>When checking &ldquo;Spread / Cover page&rdquo; at the time of new creation, the spread canvas will open.</p>
+</div>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>&ldquo;Comic guide&rdquo; can be displayed / hidden at any time by &ldquo;View&rdquo; &rarr; &ldquo;Show Comic Guide Lines&rdquo; of the menu. You can also change the setting by &ldquo;View&rdquo; &rarr; &ldquo;Comic Guide Lines Settings&rdquo;.</p>
+</div>
+<h2 id="use-koma-tool">Let&rsquo;s try a Panel Divide</h2>
+<p>I will explain &ldquo;Panel Divide&rdquo; which is indispensable process for drawing cartoons. You can easily &ldquo;Panel Divide&rdquo; with MediBang Paint.</p>
+<h3>Panel Divide</h3>
+<p>First, add &ldquo;Panel Material&rdquo; to the canvas with &ldquo;Layer&rdquo; &rarr; &ldquo;Add Panel Material&rdquo; in the menu.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img3.png" alt="Panel properties" />
+<figcaption>Fig. Panel properties</figcaption>
+</figure>
+<p>The &ldquo;Comic Panel Property&rdquo; dialog is displayed and you can set the &ldquo;Panel Material&rdquo; to be added. Please press OK as it is here.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img4.png" alt="Where 'Panel Material' was added" />
+<figcaption>Fig. Where 'Panel Material' was added</figcaption>
+</figure>
+<p>&ldquo;Panel Material&rdquo; is added according to the inner frame of &ldquo;Comic guide&rdquo; and the cursor changes to the shape of the cutter (A). (&ldquo;Divide Tool&rdquo; is selected.)</p>
+<p>With this &ldquo;Divide Tool&rdquo; selected, you can &ldquo;Panel Divide&rdquo; by cutting &ldquo;Panel Material&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img5.png" alt="Where you cut the panel" />
+<figcaption>Fig. Where you cut the panel</figcaption>
+</figure>
+<p>Let&rsquo;s cut the panel next to it like a red line.</p>
+<p>When cutting a piece, please cut it so as to divide the piece. When the panel can not be divided properly like the blue line, the panel will not break. In the (1) toolbar, you can also set the vertical and horizontal spacing when splitting a panel.</p>
+<p>If you want to divide panel diagonally, please hold down Shift key and break panel.</p>
+<p>Let&rsquo;s divide the panel appropriately. When I accidentally devide a piece, It&rsquo;s expected &ldquo;Undo&rdquo;.</p>
+<h3>Transforming Panels</h3>
+<p>To Transform / Move some Panels, use the &ldquo;Operation Tool&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img6.png" alt="Select Operation Tool" />
+<figcaption>Fig. Select Operation Tool</figcaption>
+</figure>
+<div class="showMore"><br /><label class="showMoreButton" for="showMore-op-tool"></label>
+<p></p>
+<div class="showMoreItem">
+<dl>
+<dt>(a)・(b)</dt>
+<dd>This function can not be used with &ldquo;Panel Divide&rdquo;.</dd>
+<dt>(c)</dt>
+<dd>This button changes the overlapping order of &ldquo;Panel&rdquo;. If more than one &ldquo;Panel&rdquo; is overlapped, rearrange this &ldquo;Panel&rdquo; so that it is displayed one above.</dd>
+<dt>(d)</dt>
+<dd>This button changes the overlapping order of &ldquo;Panel&rdquo;. If more than one &ldquo;Panel&rdquo; overlaps, rearrange this &ldquo;Panel&rdquo; so that it is displayed one below.</dd>
+<dt>(e)</dt>
+<dd>It is a button to delete &ldquo;Panel&rdquo;.</dd>
+<dt>(f)</dt>
+<dd>It is a button to change the property of &ldquo;Panel&rdquo;. When pressed, a dialog for changing the line width and color of &ldquo;Panel&rdquo; opens.</dd>
+</dl>
+</div>
+</div>
+<p>Select &ldquo;Operation Tool (2)&rdquo;, click &ldquo;Panel&rdquo; you want to operate, &ldquo;Toolbar (3)&rdquo; will be displayed under &ldquo;Panel&rdquo;. Operation of &ldquo;Panel&rdquo; is done by grasping &ldquo;handle (4)&rdquo; around &ldquo;Panel&rdquo;.</p>
+<p>If you want to erase part of &ldquo;Panel&rdquo; please</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>If you want to divide &ldquo;Panel&rdquo; evenly, let&rsquo;s use &ldquo;Layer&rdquo; -&gt; &ldquo;Material&rdquo; -&gt; &ldquo;Divide&rdquo; in the menu. Since this function equally divides the currently active &ldquo;Panel&rdquo;, execute with the &ldquo;Panel&rdquo; you want to split with the operation tool selected.</p>
+<p>If you use it successfully, you can also &ldquo;Panel Divide&rdquo; for &ldquo;4-frame cartoon&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img7.png" alt="Panel divide for 4-frame cartoon" />
+<figcaption>Fig. Panel divide for 4-frame cartoon</figcaption>
+</figure>
+</div>
+<h2 id="use-material">Let&rsquo;s use &ldquo;material&rdquo;</h2>
+<p>In MediBang Paint, you can easily paste materials such as tone on your manga.</p>
+<p>Please refer to for basic usage of the material.</p>
+<h3>Let&rsquo;s try it</h3>
+<p>First, add a new layer for pasting the material. Next, let&rsquo;s select the appropriate frame with &ldquo;MagicWand Tool&rdquo; and open the &ldquo;Material Dialog&rdquo; by pressing the &ldquo;Open Material Dialog&rdquo; button.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img8.png" alt="Where Material Dialog is opened" />
+<figcaption>Fig. Where Material Dialog is opened</figcaption>
+</figure>
+<p>When &ldquo;Material Dialog&rdquo; opens, drag and drop the tiles and tones you want to use onto the canvas.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img9.png" alt="Material setting bar" />
+<figcaption>Fig. Material setting bar</figcaption>
+</figure>
+<p>A bar is displayed at the bottom of the main window where you can set the angle and magnification of the material. If you set an appropriate value here and press the &ldquo;OK&rdquo; button, pasting of the material is confirmed. If you paste it correctly, if you release the selection, the material is stuck in the &ldquo;Panel&rdquo; neatly.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img10.png" alt="Where the tiles are pasted" />
+<figcaption>Fig. Where the tiles are pasted</figcaption>
+</figure>
+<p>In this way, by pasting the material after creating the selection range, you can paste the material only to the place you want to paste.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>When sharpening the tone it is convenient to use transparent color.</p>
+<p></p>
+</div>
+<h2 id="use-text-tool">Let&rsquo;s copy with the &ldquo;Text Tool&rdquo;</h2>
+<p>By using &ldquo;Text Tool&rdquo;, you can easily enter characters.</p>
+<p>For the basic usage of &ldquo;Text Tool&rdquo; please refer to</p>
+<h3>Let&rsquo;s try it</h3>
+<p>Select &ldquo;Text Tool&rdquo; from the toolbar on the left of the main window and click where you want to place the letters on the canvas. The &ldquo;Edit Text&rdquo; dialog is displayed.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img11.png" alt="When 'Edit Text' dialog is displayed" />
+<figcaption>Fig. When 'Edit Text' dialog is displayed</figcaption>
+</figure>
+<p>After entering the characters you want displayed on the canvas and pressing the OK button, the layer of text is added and the characters are displayed on the canvas.</p>
+<p>This character can be moved when &ldquo;Text Tool&rdquo; or &ldquo;Move Tool&rdquo; is selected.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img12.png" alt="Where text was entered" />
+<figcaption>Fig. Where text was entered</figcaption>
+</figure>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>If you want to write text vertically using Windows fonts entered in the computer, using fonts with &ldquo;@&rdquo; at the beginning of the font name will be written vertically.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/create-comics/img13.png" alt="The font at the beginning is @" />
+<figcaption>Fig. The font at the beginning is</figcaption>
+</figure>
+</div>
+</div>
+</body>
+</html>

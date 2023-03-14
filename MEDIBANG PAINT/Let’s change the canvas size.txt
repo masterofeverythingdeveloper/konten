@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s change the canvas size</h1>
+</div>
+<div class="postEyecatch"></div>
+<div class="postEditor">
+<p>I will explain how to change only the canvas size without changing the size of the painting I drew.</p>
+<p>To change the canvas size, do it from the menu &ldquo;Edit&rdquo; -&gt; &ldquo;Canvas Size&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/change-canvas-size/img1.png" alt="Canvas Size window" />
+<figcaption>Fig. Canvas Size window</figcaption>
+</figure>
+<h2>(A)</h2>
+<p>This is the place to display the preview.</p>
+<h2>(B)</h2>
+<p>Select the reference point of the original image when enlarging the canvas.</p>
+<h2>(C)</h2>
+<p>When shrinking the canvas, specify whether you want to leave the portion of the outside of the reduced canvas.</p>
+<p>When unchecked, the part that got out of the range of the canvas when shrinking remains without being erased.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Leaving outside the canvas range, after changing the canvas size, a picture outside the canvas range will appear when moving the picture with the moving tool.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/change-canvas-size/img2.png" alt="Difference when moving to the lower right after changing the canvas size" />
+<figcaption>Fig. Difference when moving to the lower right after changing the canvas size</figcaption>
+</figure>
+<p>(1) deleted outside the canvas range, (2) left outside the canvas range</p>
+</div>
+<h2>(D)</h2>
+<p>You can directly specify the size of the canvas. By pressing the &ldquo;(px)&rdquo; &ldquo;(cm)&rdquo; &ldquo;(inch)&rdquo; button at the top, you can switch the unit to be edited.</p>
+<h2>(E)</h2>
+<p>If &ldquo;Comic guide&rdquo; is displayed, set the size of the canvas to &ldquo;Comic guide&rdquo;</p>
+</div>
+</body>
+</html>

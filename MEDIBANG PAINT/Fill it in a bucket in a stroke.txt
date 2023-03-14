@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Fill it in a bucket in a stroke</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/use-bucket/" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<p>I will explain the digital unique features and bucket tool.</p>
+<p>With the bucket tool, you can paint a color in a blank area around the line.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-bucket/bucket.png" alt="Bucket tool" />
+<figcaption>Fig. Bucket tool</figcaption>
+</figure>
+<p>&ldquo;Bucket Tool&rdquo; is located in the toolbar on the left side of the main window ((1) tool).</p>
+<p>First of all, please download and open the sample for this tutorial.</p>
+<div class="dl-button"><a class="btn" href="https://medibangpaint.com/static/images/en/tutorial/pc/use-bucket/bucket_sample.mdp">Download sample</a></div>
+<p>Next, click &ldquo;Bucket Tool (1)&rdquo; button and switch to &ldquo;Bucket Tool&rdquo;.<br />&ldquo;Toolbar&rdquo; for &ldquo;bucket tool&rdquo; is displayed at the top of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-bucket/bucket_bar.png" alt="Toolbar for bucket" />
+<figcaption>Fig. Toolbar for bucket</figcaption>
+</figure>
+<p>Let&rsquo;s explain each function of the toolbar.</p>
+<h2>About Reference</h2>
+<p>It is the object to reference when deciding the area to be painted with a bucket. You can select either &ldquo;Layer&rdquo; or &ldquo;Canvas&rdquo;.</p>
+<p>If you set the reference to &ldquo;Layer&rdquo;, fill the area surrounded by lines against the active layer. If you set the reference to &ldquo;Canvas&rdquo;, fill the part surrounded by the line against the canvas.</p>
+<h3>let&rsquo;s try it</h3>
+<p>Please select the &ldquo;not drawn&rdquo; layer of the sample, set the reference to &ldquo;Canvas&rdquo; and click inside the red circle. The inside of the red circle is painted with the foreground color of the brush.</p>
+<p>Next, please undo once and cancel the fill.</p>
+<p>Next time, select the &ldquo;not drawn&rdquo; layer, set the reference to &ldquo;Layer&rdquo; and click in the red circle. The entire canvas is painted.</p>
+<p>In this way, you can adjust the area to be filled with a bucket by switching the &ldquo;Reference&rdquo;.</p>
+<h2>About Tolerance value</h2>
+<p>If you set the &ldquo;Tolerance&rdquo; value, you can apply color in a bucket at a time even in slightly different colors.</p>
+<h3>let&rsquo;s try it</h3>
+<p>Let&rsquo;s paint the inside of the yellow-green circle by selecting the &ldquo;not drawn&rdquo; layer of the sample, making the reference &ldquo;Canvas&rdquo; and changing the tolerance.<br />(Every time you fill, please undo, erase the yellow green circle with a layer clear or eraser and fill it in new.)</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-bucket/threshold.png" alt="Difference in painting by tolerance" />
+<figcaption>Fig. Difference in painting by tolerance</figcaption>
+</figure>
+<p>When the allowable value is 1, the filling of the bucket stops when the color changes even a little, so if you paint a line with blur like an airbrush, a large white area will remain around the line However, if you set the allowable value appropriately, you can paint cleanly with lines like airbrush.</p>
+<h2>About anti-aliasing</h2>
+<p>When checked, anti-aliasing of filled border becomes effective.</p>
+<h3>let&rsquo;s try it</h3>
+<p>Switch anti-aliasing checks and fill in the &ldquo;inner circle&rdquo; of the sample &ldquo;black double circle&rdquo; to check the difference. Let&rsquo;s enlarge the canvas display when it is difficult to understand the difference as it is.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-bucket/aa.png" alt="AntiAliasing difference" />
+<figcaption>Fig. AntiAliasing difference</figcaption>
+</figure>
+<h2>About extension</h2>
+<p>If line drawing is anti-aliased, there may be a gap between line drawing and bucket painting. You can use &ldquo;Expansion&rdquo; to fill that gap.</p>
+<h3>let&rsquo;s try it</h3>
+<p>Let&rsquo;s change the value of the extension and fill in the &ldquo;outer circle&rdquo; of the sample &ldquo;black double circle&rdquo; to see the difference.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-bucket/expansion.png" alt="Difference according to extension value" />
+<figcaption>Fig. Difference according to extension value</figcaption>
+</figure>
+<h2>About Close Gap</h2>
+<p>If you use the &ldquo;Close Gap&rdquo; function, you can paint even a slightly interrupted line drawing without sticking out. If you check &ldquo;Close Gap&rdquo; you will be able to choose level in 5 steps. &ldquo;Close Gap&rdquo; will be invalid if unchecked.</p>
+<h3>let&rsquo;s try it</h3>
+<p>Let&rsquo;s paint in the blue circle of the sample with a bucket while changing the level of the gap closure.</p>
+<p>When the level is 1 or 2, it will protrude out of the circle, but if you increase the level above 3, you will be able to fill in only the circle.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-bucket/closed_gap.png" alt="Difference due to the strength of the gap closure" />
+<figcaption>Fig. Difference due to the strength of the gap closure</figcaption>
+</figure>
+</div>
+</body>
+</html>

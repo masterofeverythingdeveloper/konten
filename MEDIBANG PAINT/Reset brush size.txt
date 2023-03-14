@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Reset brush size</h1>
+</div>
+<div class="postEditor">
+<p></p>
+<p>When changing the brush size from the brush control, you can restore the default brush size by clicking the brush preview window.</p>
+<p>This function is useful when you want to temporarily change the brush size.</p>
+<h3>Let&rsquo;s try it</h3>
+<p>Please select the appropriate brush and click &ldquo;Brush preview window (2)&rdquo; once.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/reset-brush-size/img1.png" alt="Reset brush size" />
+<figcaption>Fig. Reset brush size</figcaption>
+</figure>
+<p>First, let&rsquo;s change the brush size from &ldquo;Brush control (1)&rdquo;.</p>
+<p>When you change the brush size, the brush size of the brush window changes to red letters, and the &ldquo;*&rdquo; mark is added to the upper left of the brush preview.</p>
+<p>Next, click &ldquo;Brush Preview (2)&rdquo;. The brush size returns to its original value.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>This original number is called the default size of the brush.</p>
+<p>To change the default size of the brush, you need to change the brush size from the brush edit window. (For details, see <a href="https://medibangpaint.com/en/tutorial/pc/change-default-brush-size/">How to change the default brush size</a>.)</p>
+</div>
+</div>
+</body>
+</html>

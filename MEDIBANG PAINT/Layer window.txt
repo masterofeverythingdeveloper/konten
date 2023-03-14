@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Layer window</h1>
+</div>
+<div class="postEditor">
+<p></p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer-window/img1.png" alt="Layer window" />
+<figcaption>Fig. Layer window</figcaption>
+</figure>
+<dl>
+<dt>(1)</dt>
+<dd>Add a color layer.</dd>
+<dt>(2)</dt>
+<dd>Add &ldquo;8 bit layer&rdquo;. &ldquo;8 bit layer&rdquo; is a special layer that can draw only white, gray or black.</dd>
+<dt>(3)</dt>
+<dd>Add &ldquo;1 bit layer&rdquo;. &ldquo;1 bit layer&rdquo; is a special layer that can draw only white or black. (Naturally, anti-aliasing does not work)</dd>
+<dt>(4)</dt>
+<dd>Add &ldquo;Halftone Layer&rdquo;.<a href="https://medibangpaint.com/use/2016/08/halftone_layer/" target="blank" rel="noopener">&ldquo;Halftone Layer&rdquo;</a> is a special layer where painted color looks like a tone.
+<p></p>
+</dd>
+<dt>(5)</dt>
+<dd>Add &ldquo;Layer Folder&rdquo;. Layers can be grouped in folders.</dd>
+<dt>(6)</dt>
+<dd>Duplicate the selected layer.</dd>
+<dt>(7)</dt>
+<dd>Merge the selected layer below.</dd>
+<dt>(8)</dt>
+<dd>Delete the currently selected layer.</dd>
+</dl>
+</div>
+</body>
+</html>

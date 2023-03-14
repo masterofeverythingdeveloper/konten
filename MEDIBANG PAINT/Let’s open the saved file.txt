@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s open the saved file</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/open-mdp-file/" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<p>Let&rsquo;s open the saved mdp file here. If you have never saved the file, please create the file in the <a href="https://medibangpaint.com/en/tutorial/pc/open-mdp-file/save">previous tutorial</a> first.</p>
+<p>Opening the saved canvas will allow you to resume the task you were interrupting.</p>
+<h2>How to open a file by double clicking</h2>
+<p>Please finish MediBang paint first.</p>
+<p>Double-click the &ldquo;tutorial.mdp&rdquo; file created in the previous tutorial from the state where MediBang paint is finished.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/open-mdp-file/img1.png" alt="MDP file saved on the desktop" />
+<figcaption>Fig. MDP file saved on the desktop</figcaption>
+</figure>
+<p>MediBang paint starts and &ldquo;tutorial.mdp&rdquo; opens.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/open-mdp-file/img2.png" alt="Where 'tutorial.mdp' opens" />
+<figcaption>Fig. Where 'tutorial.mdp' opens</figcaption>
+</figure>
+<p></p>
+<h2>How to open from menu</h2>
+<p>Next, with MediBang Paint launched, click &ldquo;File&rdquo; -&gt; &ldquo;Open&rdquo; on the menu.</p>
+<p>A dialog will be displayed</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/open-mdp-file/img3.png" alt="Open image dialog" />
+<figcaption>Fig. Open image dialog</figcaption>
+</figure>
+<p></p>
+<p>In this &ldquo;Open Image&rdquo; dialog, select &ldquo;File Location&rdquo; (1) and click &ldquo;saveas.mdp&rdquo; in (2). &ldquo;saveas.mdp&rdquo; is automatically entered in (3). Please press the &ldquo;Open&rdquo; button in (4) in this state.</p>
+<p>&ldquo;saveas.mdp&rdquo; opens in the existing window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/open-mdp-file/img4.png" alt="Where 'saveas.mdp' opens" />
+<figcaption>Fig. Where 'saveas.mdp' opens</figcaption>
+</figure>
+<p></p>
+<p>When you open multiple files, tabs are displayed at the top of the canvas. You can also edit multiple pictures while changing this.</p>
+</div>
+</body>
+</html>

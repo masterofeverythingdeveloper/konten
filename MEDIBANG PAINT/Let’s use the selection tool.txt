@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s use the selection tool</h1>
+</div>
+<div class="postEyecatch"></div>
+<div class="postEditor">
+<p>Using &ldquo;Select Tool&rdquo;, you can select part of the picture. At this time, the selected area is called &ldquo;selection range&rdquo;.</p>
+<p>Using the &ldquo;Bucket Tool&rdquo; or &ldquo;Transform Tool&rdquo; after creating the &ldquo;selection range&rdquo;, you can paint and transform only the picture in the &ldquo;selection range&rdquo;.</p>
+<p>There are several ways to specify &ldquo;selection range&rdquo; in MediBang Paint, so we explain each.</p>
+<h2>Select Tool</h2>
+<p>You can select the range as &ldquo;Rectangle&rdquo; &ldquo;Ellipse&rdquo; &ldquo;Polygon&rdquo; shape.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img1.png" alt="Select Tool" />
+<figcaption>Fig. Select Tool</figcaption>
+</figure>
+<p>When you click the &ldquo;Selection tool&rdquo; button on the toolbar on the left side of the main window, you can select the selection method from &ldquo;Rectangle&rdquo; &ldquo;Ellipse&rdquo; &ldquo;Polygon&rdquo;.</p>
+<p>Setting to round the corner, selection from the center, fixing the aspect ratio is the same usage as &ldquo;Fill tool&rdquo;.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>To cancel the selection range, you can select &ldquo;Select&rdquo; &rarr; &ldquo;Deselect&rdquo; in the menu or &ldquo;Deselect&rdquo; button on the tool bar at the top of the main window.</p>
+</div>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>With the selected range created, if you execute &ldquo;Edit&rdquo; &rarr; &ldquo;Crop&rdquo; in the menu, the canvas is cropped to the size of the selection range.</p>
+</div>
+<h2>Lasso Tool</h2>
+<p>If you use &ldquo;Lasso Tool&rdquo;, you can create a selection by freehand.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img2.png" alt="Lasso Tool" />
+<figcaption>Fig. Lasso Tool</figcaption>
+</figure>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>If you already have a selection range, you can add a selection by holding down the Shift key and creating a selection range. Hold down the Ctrl key and cut the selection.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img6.png" alt="When selecting the selection range of (2) while pressing Shift for the selection range of (1)" />
+<figcaption>Fig. When selecting the selection range of (2) while pressing Shift for the selection range of (1)</figcaption>
+</figure>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img7.png" alt="When selecting the selection range of (2) while holding down Ctrl for the selection range of (1)" />
+<figcaption>Fig. When selecting the selection range of (2) while holding down Ctrl for the selection range of (1)</figcaption>
+</figure>
+</div>
+<h2>MagicWand Tool</h2>
+<p>Using &ldquo;MagicWand Tool&rdquo;, you can create a selection automatically along the part surrounded by a line and color form.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img3.png" alt="MagicWand Tool" />
+<figcaption>Fig. MagicWand Tool</figcaption>
+</figure>
+<p>When &ldquo;MagicWand Tool&rdquo; is selected, the toolbar for &ldquo;MagicWand Tool&rdquo; is displayed at the top of the main window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img4.png" alt="'MagicWand Tool' toolbar" />
+<figcaption>Fig. 'MagicWand Tool' toolbar</figcaption>
+</figure>
+<p>How to use this toolbar is the same as the &ldquo;<a href="https://medibangpaint.com/en/tutorial/pc/use-bucket/">Bucket Tool</a>&rdquo; toolbar.</p>
+<h2>SelectPen Tool</h2>
+<p>&ldquo;SelectPen Tool&rdquo; allows you to specify the selection range by hand drawn.</p>
+<p>&ldquo;SelectPen Tool&rdquo; is convenient when you want to select details that are difficult to specify with &ldquo;Shape&rdquo;, &ldquo;Lasso&rdquo;, &ldquo;MagicWand&rdquo;, etc. since the painted place is the selection range intact.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img5.png" alt="SelectPen Tool" />
+<figcaption>Fig. SelectPen Tool</figcaption>
+</figure>
+<h2>Automatically create selection range based on drawing content</h2>
+<p>By using &ldquo;Select&rdquo; &rarr; &ldquo;Create selection from Layer / Opacity&rdquo; or &ldquo;Create selection from Layer / Brightness&rdquo;, you can create a selection based on the picture drawn on the layer .</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img5.5.png" alt="" where="" />
+<figcaption>Fig. "Where</figcaption>
+</figure>
+<h2>Modify selection</h2>
+<p>You can erase the selection by using &ldquo;SelectEraser Tool&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img8.png" alt="SelectEraser Tool" />
+<figcaption>Fig. SelectEraser Tool</figcaption>
+</figure>
+<p>It can be erased with the sense of drawing a line, so it is convenient when you repair small parts.</p>
+<h2>Expanding selection and contraction</h2>
+<p>It is also possible to expand / contract the specified selection range.<br />With the range selected, please select &ldquo;Select&rdquo; -&gt; &ldquo;Expand&rdquo; or &ldquo;Contract&rdquo; of the menu.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img9.png" alt="Expanding selection and contraction" />
+<figcaption>Fig. Expanding selection and contraction</figcaption>
+</figure>
+<p>Since both dialogs are displayed, please input the number of pixels to be expanded / contracted and click &ldquo;OK&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img10.png" alt="Expansion and contraction setting dialog" />
+<figcaption>Fig. Expansion and contraction setting dialog</figcaption>
+</figure>
+<h2>Invert and unselect selection</h2>
+<p>To invert the selection range and the selection range, select &ldquo;Select&rdquo; &rarr; &ldquo;Inverse&rdquo; in the menu with the selection range specified.</p>
+<p>Also, if you want to cancel the selection range, please select &ldquo;Deselect&rdquo; above.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img11.png" alt="Invert and deselect selection" />
+<figcaption>Fig. Invert and deselect selection</figcaption>
+</figure>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>By unchecking &ldquo;Select&rdquo; &rarr; &ldquo;Highlight Outside&rdquo; in the menu, you can erase the color (purple) around the selection area.</p>
+</div>
+<h2>Let&rsquo;s try it</h2>
+<p>Let&rsquo;s actually use the selected range.</p>
+<p>Please download the sample first and open it.</p>
+<br />
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img12.png" alt="Where opened" />
+<figcaption>Fig. Where opened</figcaption>
+</figure>
+<p>From here, I will clip the medi-chan to heart-shaped.</p>
+<p>Select the &ldquo;Heart&rdquo; layer and let&rsquo;s select inside the heart with &ldquo;MagicWand Tool&rdquo;. Please refer to &ldquo;MagicWand tool&rdquo; to &ldquo;Layer&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img13.png" alt="Heart shaped selection range was made." />
+<figcaption>Fig. Heart shaped selection range was made.</figcaption>
+</figure>
+<p>When you invert the selection by &ldquo;Select&rdquo; &rarr; &ldquo;Inverse&rdquo; in the menu, the outside of the heart is selected.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img14.png" alt="Inverted and outside of the heart was selected" />
+<figcaption>Fig. Inverted and outside of the heart was selected</figcaption>
+</figure>
+<p>In this state, you can select &ldquo;medi-chan&rdquo; layer, and from menu &ldquo;layer&rdquo; &rarr; &ldquo;clear&rdquo; you can erase only the outside of the heart. (If you perform an operation such as clearing a layer while creating a selection range, it will be reflected only within the selected range.)</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img15.png" alt="The state of extinguishing the outside of the heart" />
+<figcaption>Fig. The state of extinguishing the outside of the heart</figcaption>
+</figure>
+<div class="point"><span class="box-title">Point</span>
+<p></p>
+<p>Even when you change the layer to be selected, the selection range remains unchanged, so you can use the selection made using &ldquo;MagicWand&rdquo; on another layer.</p>
+</div>
+<p>Finally, if you cancel the selection range and delete the &ldquo;heart&rdquo; layer, it is the finished &ldquo;medi-chan&rdquo; image clipped out in the shape of a heart.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/use-select-tool/img16.png" alt="Heart shaped Medi-chan" />
+<figcaption>Fig. Heart shaped Medi-chan</figcaption>
+</figure>
+</div>
+</body>
+</html>

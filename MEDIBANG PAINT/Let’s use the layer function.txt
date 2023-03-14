@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>Let&rsquo;s use the layer function</h1>
+</div>
+<div class="postEyecatch"><img src="https://medibangpaint.com/en/tutorial/pc/layer/" class="postEyecatch__img" /></div>
+<div class="postEditor">
+<p>Here, we will explain the unique &ldquo;layer&rdquo; function of digital. Layers will allow you to change the color of the line drawing later and change the expression of the face later.</p>
+<h2>What is a layer?</h2>
+<p>It is a function that you can draw a picture for each part or step, like overlapping transparent films.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img1.png" alt="Image of layer" />
+<figcaption>Fig. Image of layer</figcaption>
+</figure>
+<p>For example, if you divide &ldquo;line drawing layer&rdquo; and &ldquo;color painting layer&rdquo; &hellip;</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img2.png" alt="You can select 'color painting layer' and erase it with an eraser like a red arrow" />
+<figcaption>Fig. You can select 'color painting layer' and erase it with an eraser like a red arrow</figcaption>
+</figure>
+<p>Even if you fail to paint the color, you can erase only the painted part without erasing the line drawing like this.</p>
+<h2>How to use layers</h2>
+<p>Layers are manipulated from the menu &ldquo;Layer&rdquo; or &ldquo;Layer window (1)&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img3.png" alt="Layer window location" />
+<figcaption>Fig. Layer window location</figcaption>
+</figure>
+<p>Let&rsquo;s actually use the layer. Please download the original &ldquo;sample.mdp&rdquo; before using the layer and open it.</p>
+<div class="dl-button"><a class="btn" href="https://medibangpaint.com/static/images/en/tutorial/pc/layer/sample.mdp">Download sample.mdp</a></div>
+<h2>How to clear the layer</h2>
+<p>First, clear the &ldquo;coloring&rdquo; layer.</p>
+<p>Since &ldquo;sample.mdp&rdquo; has 4 layers, click the &ldquo;coloring&rdquo; layer in the layer window. The &ldquo;coloring&rdquo; layer is selected.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img4.png" alt="When 'coloring' layer is selected" />
+<figcaption>Fig. When 'coloring' layer is selected</figcaption>
+</figure>
+<p>Please properly erase the color using an eraser.</p>
+<p>If you say &ldquo;it is too much to erase and it is troublesome to erase with an eraser!&rdquo;, You can clear the whole layer at once.If you press &ldquo;Layer&rdquo; -&gt; &ldquo;Clear&rdquo; on the menu or &ldquo;Delete&rdquo; key on the keyboard, all the contents of the currently selected layer will disappear.</p>
+<p>If you erroneously erase a picture of another layer or draw a wrong line, you can use the <a href="https://medibangpaint.com/en/tutorial/pc/other-tools/#undo">Undo</a> function to restore it.</p>
+<h2>Let&rsquo;s paint the &ldquo;coloring&rdquo; layer</h2>
+<p>If you can delete all &ldquo;coloring&rdquo; layers, let&rsquo;s paint the cat&rsquo;s image to your favorite color. Even if it protrudes from the line for a while, it can be deleted later, so it&rsquo;s okay! Please correct until you feel better.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img5.png" alt="I tried painting the cat with yellow" />
+<figcaption>Fig. I tried painting the cat with yellow</figcaption>
+</figure>
+<p>Although it protrudes a lot, it does not affect the line drawing on the top at all.</p>
+<h2>How to rearrange layers</h2>
+<p>To rearrange the layers, drag and drop the layer you want to move to the destination.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img6.png" alt="Before and after the layer movement" />
+<figcaption>Fig. Before and after the layer movement</figcaption>
+</figure>
+<p>While dragging &amp; dropping, the destination of the moving layer becomes blue as shown in (1).</p>
+<p>As you can see, move the &ldquo;coloring&rdquo; layer above the &ldquo;line (face)&rdquo; layer.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img7.png" alt="Kitten whose face disappeared" />
+<figcaption>Fig. Kitten whose face disappeared</figcaption>
+</figure>
+<p>The face of the kittens has disappeared (The face data is still left just because it disappeared). Lineworks around the buttocks are also hidden. In this way layers overlap from bottom to top, so in places that are not transparent the lower layer will not be visible.</p>
+<p>Please sort the layers several times to see what happens.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Undo can also reorder the layers. Most other operations can be redone with Undo, so if you fail, immediately Undo! Is fine.</p>
+</div>
+<h2>How to change opacity</h2>
+<p>First I explained that the layer is like a transparent film. In MediBangPaint (or in most paint software) you can change the opacity level by layer.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img8.png" alt="Layer opacity" />
+<figcaption>Fig. Layer opacity</figcaption>
+</figure>
+<p>To change the opacity, do it from &ldquo;Opacity (1)&rdquo; in &ldquo;Layer window&rdquo;. When the opacity is 100% it is in completely opaque state, and opacity of 1% is almost transparent.</p>
+<p>Please change the opacity of the color paint layer and check the change.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img9.png" alt="Layer opacity difference" />
+<figcaption>Fig. Layer opacity difference</figcaption>
+</figure>
+<p>In this way, the higher the opacity of the layer, the harder it is to see the picture below.</p>
+<div class="point"><span class="box-title">POINT</span>
+<p></p>
+<p>For example, it may be better to lower the opacity of the draft layer to make it easier to draw a line drawing on another layer.</p>
+</div>
+<h2>How to add, delete and duplicate layers</h2>
+<p>Layers can be added and deleted freely. Adding and deleting layers are done from the button at the bottom of &ldquo;Layer window&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img10.png" alt="Layer window button" />
+<figcaption>Fig. Layer window button</figcaption>
+</figure>
+<p>(1) Add layer / (2) Delete layer / (3) Duplicate layer.<br />Deleting / duplicating a layer is the currently selected layer.</p>
+<p>Other buttons are OK even if you do not know at this time. Details can be confirmed from <a href="https://medibangpaint.com/en/tutorial/pc/layer-window" target="blank" rel="noopener">here</a>.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Layers can change their names freely.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img11.png" alt="How to change the layer name" />
+<figcaption>Fig. How to change the layer name</figcaption>
+</figure>
+<p>Changing the name on the layer window Clicking the gear icon of &ldquo;Layer (1)&rdquo; opens the &ldquo;Layer Property(2)&rdquo; dialogue, change the &ldquo;Name (3)&rdquo; there and press &ldquo;OK&rdquo;.</p>
+<p>We encourage you to name the layer as much as possible so that you do not have to know when layers increase.</p>
+</div>
+<h2>How to switch display / non-display</h2>
+<p>Layers can also be temporarily hidden. The &ldquo;tail&rdquo; layer of sample.mdp is a hidden layer.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img12.png" alt="Hidden layer" />
+<figcaption>Fig. Hidden layer</figcaption>
+</figure>
+<p>To switch between display and non-display, please click the left part of the thumbnail of the layer. &ldquo;●&rdquo; is attached to indicate the layer being displayed.</p>
+<p>Please set the &ldquo;tail&rdquo; layer to display state.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img13.png" alt="Kitten waving a tail" />
+<figcaption>Fig. Kitten waving a tail</figcaption>
+</figure>
+<p>It became a picture waving the tail.</p>
+<h2>Other useful functions</h2>
+<p>We will introduce more useful functions in using layers.</p>
+<h3>Lock</h3>
+<p>The content of the locked layer can not be edited. By locking the layers of &ldquo;drafts&rdquo; and &ldquo;line drawings&rdquo;, you can prevent mistakes that you make a mistake, &ldquo;I accidentally inking in the draft layer!&rdquo;, &ldquo;I mistakenly painted the color of the line drawing!&rdquo; .</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img14.png" alt="Layer lock" />
+<figcaption>Fig. Layer lock</figcaption>
+</figure>
+<p>To lock a layer With the layer you want to lock selected, check &ldquo;Lock (1)&rdquo; in &ldquo;Layer window&rdquo;. &ldquo;Lock icon (2)&rdquo; is attached to the left side of the thumbnail of the locked layer.</p>
+<p>Also, if you try to draw something on the locked layer, the cursor becomes a prohibited mark.</p>
+<p>If you say &ldquo;I do not really understand but it can not be drawn suddenly!&rdquo; Please also check the layer lock setting.</p>
+<div class="tips"><span class="box-title">Tips</span>
+<p></p>
+<p>Besides, in the following cases, the cursor will change to a prohibited mark and you will not be able to write to the layer. Please put it in one corner of the head.</p>
+<ul>
+<li>When a hidden layer is selected</li>
+<li>When <a href="https://medibangpaint.com/en/tutorial/pc/layer/">&ldquo;Text Layer&rdquo;</a> is selected</li>
+<li>When <a href="https://medibangpaint.com/en/tutorial/pc/layer/">&ldquo;Layer Folder&rdquo;</a> is selected</li>
+<li>When &ldquo;1 bit layer&rdquo; is selected while blurring or fingertip brush is selected</li>
+</ul>
+<p></p>
+</div>
+<h3>How to protect transparency</h3>
+<p>Layers with transparency protected will not be editable except where the color is attached. This can be used to change the color of the line drawing.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img15.png" alt="protect transparency" />
+<figcaption>Fig. protect transparency</figcaption>
+</figure>
+<p>To protect transparency, check the &ldquo;Protect Alpha (1)&rdquo; in the layer window with the layer you want to protect transparency selected. If you attempt to write to a layer with transparency protected, the cursor will change as shown in (2).</p>
+<p>Perform as shown in the figure below on how to change the color of the line drawing.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img16.png" alt="Try changing the color of the line drawing" />
+<figcaption>Fig. Try changing the color of the line drawing</figcaption>
+</figure>
+<p>If (1) is the original line drawing layer, if you protect the transparency of that layer and stroke it according to the red arrow with a yellow brush, the part of the line drawing becomes an image like (2).</p>
+<p>Let&rsquo;s change the color of the line drawing of &ldquo;tail&rdquo; of &ldquo;sample.mdp&rdquo; to red.</p>
+<h3>How to use the draft layer</h3>
+<p>The draft layer is a layer that is not displayed when saving to Other than mdp format or when &ldquo;<a href="https://medibangpaint.com/use/2016/04/rasterize/" target="blank" rel="noopener">Rasterize</a>&ldquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img17.png" alt="Setting the draft layer" />
+<figcaption>Fig. Setting the draft layer</figcaption>
+</figure>
+<p>The setting of the draft layer is done from the dialog of &ldquo;Layer Property&rdquo;.</p>
+<p>First, click the gear icon (1) at the right end of the layer you want to draft layer. The &ldquo;Layer Property&rdquo; dialog opens. If you check &ldquo;Draft layer (2)&rdquo; in the Layer Attributes dialog and click OK, that layer becomes a draft layer.</p>
+<p>The layer that became the draft layer will be marked with &ldquo;red x mark (3)&rdquo; on the layer window.</p>
+<h3>How to &ldquo;Duplicate&rdquo; and &ldquo;Merge&rdquo;</h3>
+<p>Layers can be &ldquo;Duplicate&rdquo; and &ldquo;Merge&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/layer/img18.png" alt="Duplicate" />
+<figcaption>Fig. Duplicate</figcaption>
+</figure>
+<p>Duplicate and merge layers from the button at the bottom of &ldquo;Layer window&rdquo;.</p>
+<p>Click &ldquo;Duplicate Layer (1)&rdquo; to duplicate the active layer and add it as a new layer.</p>
+<p>&ldquo;Merge Layer(2)&rdquo; will integrate the active layer into the lower layer. Let&rsquo;s integrate &ldquo;line (face)&rdquo; of sample.mdp into &ldquo;line (other than face)&rdquo;.</p>
+<h3>About blending</h3>
+<p></p>
+</div>
+</body>
+</html>

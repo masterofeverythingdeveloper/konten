@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="heading__lg headingUnderline">
+<h1>How to change the default brush size</h1>
+</div>
+<div class="postEditor">
+<p></p>
+<p>Each brush in MediBang Paint has a default size of the default size.<br />To change the size of this criterion, you need to change the brush size from the brush edit window.</p>
+<div class="point"><span class="box-title">POINT</span>When you start up MediBang Paint again, all brush size will be reset to default size.
+<p></p>
+<p>If you are in trouble with &ldquo;How many times you change the brush size, you will get back when you restart the application!&rdquo; Please change the default size of the brush.</p>
+</div>
+<h3>Let&rsquo;s try it</h3>
+<p>Select the &ldquo;pen&rdquo; brush and change the brush size from &ldquo;Brush Control (1)&rdquo; to &ldquo;20&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/change-default-brush-size/img1.png" alt="Brush size turned red letters" />
+<figcaption>Fig. Brush size turned red letters</figcaption>
+</figure>
+<p>The brush size of the brush window &ldquo;pen&rdquo; brush size becomes red letters with &ldquo;*&rdquo; mark on the upper left of the brush preview.<br />This state indicates that the size of the &ldquo;pen&rdquo; brush has been changed from the default value.</p>
+<p>Let&rsquo;s try clicking &ldquo;brush preview window (2)&rdquo; once.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/change-default-brush-size/img2.png" alt="Brush size returned to 10" />
+<figcaption>Fig. Brush size returned to 10</figcaption>
+</figure>
+<p>Brush size has been reset to &ldquo;10&rdquo;. (Since the default value of the &ldquo;pen&rdquo; brush is &ldquo;10&rdquo;)</p>
+<p>Next, let&rsquo;s change the default size. Click the gear icon of the &ldquo;pen&rdquo; brush and open the &ldquo;Brush Edit&rdquo; window.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/change-default-brush-size/img3.png" alt="Brush Edit window" />
+<figcaption>Fig. Brush Edit window</figcaption>
+</figure>
+<p></p>
+<p>Please change the brush size to &ldquo;50px&rdquo; in this window and press the &ldquo;OK&rdquo; button. The default size of &ldquo;pen&rdquo; has been changed to &ldquo;50&rdquo;.</p>
+<figure class="tutorial-figure"><img src="https://medibangpaint.com/static/images/en/tutorial/pc/change-default-brush-size/img4.png" alt="The default size has become 50" />
+<figcaption>Fig. The default size has become 50</figcaption>
+</figure>
+<p>In this state, let&rsquo;s change the size of the &ldquo;pen&rdquo; brush appropriately, click the brush preview, restart MediBang Paint, and let&rsquo;s see if the brush size returns to &ldquo;50&rdquo;.</p>
+</div>
+</body>
+</html>
