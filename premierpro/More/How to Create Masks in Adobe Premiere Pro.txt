@@ -1,0 +1,51 @@
+<h1>How to Create Masks in Adobe Premiere Pro</h1>
+<h2>Do you need to create an image mask&nbsp;for&nbsp;color grades, special effects, or&nbsp;other applications? You can do so directly in Adobe Premiere Pro.</h2>
+<p><a href="http://www.adobe.com/products/premiere.html" rel=" noopener" target="_blank"><strong>Adobe Premiere Pro</strong></a> allows you to create image masks directly within the program, saving you time when editing video projects that need certain parts of the image replaced.</p>
+<p>The following step-by-step tutorial will show you how simple it really is. Towards the end of this article, we&rsquo;ll go over a few other scenarios that might need you to create masks and how to tackle it all.</p>
+<p>Let&rsquo;s get started!</p>
+<hr>
+<h3>1. Choose Your Workspace</h3>
+<figure><a href="https://pbblogassets.s3.amazonaws.com/uploads/2022/03/24195526/Workstation-Masks.jpg" target="_blank"><img width="755" height="427" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/03/24195526/Workstation-Masks.jpg" alt="How to choose your workspace in Premiere Pro"></a></figure>
+<p>Once your timeline with the shots that need masking is open, go to <strong>Window</strong> and select <strong>Workspaces</strong>, then choose <strong>Editing</strong>.</p>
+<p>Once you&rsquo;ve done that, you should be able to choose the Effect Controls tab in the upper left-hand window, if it isn&rsquo;t already open.</p>
+<hr>
+<h3>2. Remove Clip Underneath</h3>
+<figure><a href="https://pbblogassets.s3.amazonaws.com/uploads/2022/03/24195740/Clips-on-Timeline.jpg" target="_blank"><img width="755" height="354" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/03/24195740/Clips-on-Timeline.jpg" alt="Screenshot of how to remove clips on a timeline"></a></figure>
+<p>Creating a mask on a clip is similar to cutting a hole in it, making anything beneath it visible. If you make sure nothing is visible beneath your clip, there will be&nbsp;less room for error as you begin to learn the various functions of an image mask.</p>
+<hr>
+<h3>&nbsp;3. Highlight Your Clip</h3>
+<p>You should now be able to see the shot you&rsquo;re working on within the <strong>Program Monitor</strong>. By highlighting the clip, you ensure&nbsp;that your work affects only this clip and nothing else.</p>
+<hr>
+<h3>4. Create an Opacity Mask</h3>
+<figure><a href="https://pbblogassets.s3.amazonaws.com/uploads/2022/03/24200034/Pen-Tool-in-Action.jpg" target="_blank"><img width="755" height="466" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/03/24200034/Pen-Tool-in-Action.jpg" alt="How to create a custom Opacity mask with the pen tool in Premiere Pro"></a></figure>
+<p>Once you open the <strong>Opacity</strong> twirl-down controls, you&rsquo;ll see three icons directly beneath the Opacity heading: an ellipse, a four-point polygon mask, and a pen tool. These are the three options for creating a custom mask.</p>
+<p>For now, click the <strong>pen tool</strong>. In this example, I&rsquo;m masking out the reflection in the mirror, so I put a point at each corner of the mirror.</p>
+<p>Once you click the first point you created to close the shape, you&rsquo;ll see the mask surrounded by space.</p>
+<hr>
+<h3>5. Invert the Mask</h3>
+<p><strong>C</strong>lick the check box a few rows down labeled <strong>Inverted</strong>, which makes the&nbsp;mask&rsquo;s interior black,&nbsp;allowing you to see the original footage surrounding it.</p>
+<p>You can manipulate aspects, such as the amount of the feathered edge, the&nbsp;mask size, and the initial placement of the mask, in this step to&nbsp;customize how&nbsp;your mask blends into the shot.</p>
+<p>You can highlight <strong>Mask (1)</strong> to show the mask you created in case you&rsquo;re not currently seeing the blue outline of your mask.</p>
+<hr>
+<h3>6. Place Your Second Clip Underneath</h3>
+<figure><a href="https://pbblogassets.s3.amazonaws.com/uploads/2022/03/30095005/Move-Clip-Underneath-1.jpg" target="_blank"><img width="755" height="324" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/03/30095005/Move-Clip-Underneath-1.jpg" alt="Screenshot of how to move the clip underneath"></a></figure>
+<p>Place the clip with the footage you want to appear inside your mask on <strong>Video Track 1</strong>, directly beneath your masked clip. You should now be able to see the footage in the area that you&nbsp;cut out in the previous steps.</p>
+<p>You can adjust the alignment of the footage on Video Track 1 by highlighting the clip and manipulating its position with the <strong>x</strong> and <strong>y</strong> coordinates in the <strong>Motion</strong> tab in <strong>Effects Controls</strong>.</p>
+<hr>
+<h3>Creating Screen Replacements</h3>
+<p>One of the most common examples of using masks and situations where you&rsquo;ll need this knowledge on deck is screen replacements for corporate clients.</p>
+<p>Last week, a client (a corporate client) asked me to remove a screen in the back corner of a shot because it featured proprietary information that they couldn&rsquo;t leave to be seen.</p>
+<p>Here are some helpful tips:</p>
+<ul>
+    <li>Download a green image (.jpg) from the internet, and open it in your native photo app on your phone. Make it cover the entire phone screen, and use that when shooting the footage. This will allow you to move objects over the screen without disrupting the screen replacement.</li>
+    <li>Keeping all four corners of your device visible will be crucial for tracking the image perfectly when you get to the motion tracking portion of this tutorial.</li>
+</ul>
+<p>We&rsquo;ve explored all the fun you can have with masking in past tutorials and articles. For example, one nifty little trick that the team at Shutterstock Tutorials made was using masks to hide lights to help out your production value in times of budget limitations.</p>
+<p>It&rsquo;s a wonderful look at how you can use masks to create whatever type of image you want by removing and adding images, and manipulating the existing images.</p>
+<p>One general rule of thumb I like to follow, or think about, is that masks work by layering clips on top of each other, then choosing what&rsquo;s removed and added to that first initial <strong>Master plate</strong> (clip).</p>
+<hr>
+<h3>Other Uses for Masks</h3>
+<p>In Premiere Pro, you don&rsquo;t have to create masks only within the Opacity effect controls. Although that&rsquo;s an effective and widespread use of masking, more practical uses of a mask involve effect controls&mdash;such as <a href="https://www.premiumbeat.com/blog/using-luts-lumetri-color-premiere-pro/" rel="noreferrer noopener" target="_blank">Lumetri Color</a>&mdash;to apply color to a specific image region.</p>
+<p>Masks can also help control a color qualifier in a secondary <a href="https://www.premiumbeat.com/blog/free-premiere-pro-lumetri-looks/" rel="noreferrer noopener" target="_blank">color-grading process</a> to isolate your sampling accurately.</p>
+<p>You can also use masks to create a video where the same actor appears twice (or more) within the same frame. The next step is to apply animation to the image masks you make by tracking objects within the image.</p>
+<p>After this, the magic of special effects takes shape&mdash;all inside Premiere Pro.</p>

@@ -1,0 +1,80 @@
+<h1>6 Quick Tips to Improve Your Audio in Premiere Pro</h1>
+<h2>Let&rsquo;s learn some basic audio tips, tricks, and advice that will instantly improve your video edits in Premiere Pro.</h2>
+<p>Let&rsquo;s cover some&nbsp;<a href="https://www.premiumbeat.com/royalty-free-sfx?utm_source=premiumbeat&utm_medium=blog&utm_content=6-Quick-Tips-to-Improve-Your-Audio-in-Premiere-Pro&utm_campaign=10-2022-blog" target="_blank">audio tips</a> and tricks that I use on nearly every video I edit in Premiere Pro. These tips may not be the flashiest, but they&rsquo;re tips that will make your editing experience better and improve your videos!</p>
+<hr>
+<h3>1. How to Remove &ldquo;Pops&rdquo; at the End of an Audio Clip</h3>
+<p>Have you ever heard a weird &ldquo;pop&rdquo; sound at the end of an audio clip you&rsquo;re working with? This happens in my edits all the time. I&rsquo;ll be editing some audio, and there will be an odd &ldquo;pop&rdquo; sound at the end of the clip.</p>
+<p>The apparent fix seems like it would be just to trim back the audio clip. But, weirdly enough, sometimes these &ldquo;pops&rdquo; are a result of how Premiere Pro is reading the end of the audio clip.</p>
+<figure><img width="755" height="240" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08214053/Improve-Your-Audio-in-Premiere-Pro-Trimming-Audio-Clip.jpg" alt="Screenshot of how to trim audio clip">
+    <figcaption><em>Trimming back audio clips doesn&rsquo;t permanently remove &ldquo;pop&rdquo; sounds at the end of the clip.</em></figcaption>
+</figure>
+<p>The simple fix is just to fade the audio out at the end quickly.&nbsp;<strong>Zoom-in</strong> on the end of your audio clip, hold&nbsp;<strong>Ctrl</strong> and&nbsp;<strong>click</strong> to create two keyframes on the&nbsp;<strong>Volume Level</strong> (hold CMD on Mac).</p>
+<p>Then drag the second keyframe to the bottom. That will eliminate any stubborn pops at the end of your audio clips.</p>
+<figure><img width="755" height="240" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08214221/Improve-Your-Audio-in-Premiere-Pro-Fixing-Audio-Pops.jpg" alt="Screenshot of how to fix audio pop sounds">
+    <figcaption><em>Quickly fade out audio using&nbsp;<strong>keyframes</strong> to remove annoying &ldquo;pop&rdquo; sounds.</em></figcaption>
+</figure>
+<hr>
+<h3>2. How to Cut an Audio Clip More Precisely</h3>
+<p>Have you ever tried to cut an audio clip or sound effect right on a beat, but Premiere Pro will only let you cut a little before or after the beat? This is because the Current Time Indicator (the Playhead) only lets you cut a clip on a video frame by default.</p>
+<figure><img src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08214540/Improve-Your-Audio-in-Premiere-Pro-Cut-on-a-Video-Frame.jpg" alt="Screenshot of how to cut on a video frame" width="755" height="240">
+    <figcaption><em>Have you ever run into a situation where Premiere Pro won&rsquo;t let you cut an audio clip right on a beat?</em></figcaption>
+</figure>
+<p>However, the solution to this problem is simple. Just&nbsp;<strong>right-click</strong> on the&nbsp;<strong>Time Ruler</strong> section of your&nbsp;<strong>Sequence</strong> and select&nbsp;<strong>Show Audio Time Units</strong>.</p>
+<p>You can&nbsp;<strong>zoom in</strong> closer to your audio clips (using the&nbsp;<strong>+</strong> key at the top of the keyboard) and make more precise cuts.</p>
+<figure><img width="755" height="240" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08215013/Improve-Your-Audio-in-Premiere-Pro-Show-Audio-Time-Units.jpg" alt="Screenshot of how to select Show Audio Time Units">
+    <figcaption><em><strong>Right-click</strong> on the&nbsp;<strong>Time Ruler</strong> and select&nbsp;<strong>Show Audio Time Units</strong>.</em></figcaption>
+</figure>
+<p>This is because audio has a much higher&nbsp;<strong>sample rate</strong>, whereas video has a&nbsp;<strong>frame rate</strong>. After you make your audio edit, I recommend&nbsp;<strong>turning Show Audio Time Units back off</strong> since, in most cases, you&rsquo;ll want to be editing by video frames.</p>
+<figure><img width="755" height="240" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08215324/Improve-Your-Audio-in-Premiere-Pro-Audio-Cut.jpg" alt="Screenshot of making an audio cut">
+    <figcaption><em>Now, you&rsquo;ll be able to make a precise cut anywhere on your audio clip.</em></figcaption>
+</figure>
+<hr>
+<h3>3. Add Bass to Improve Low-Quality Mics</h3>
+<p>Adding bass to audio in Premiere Pro is an excellent way to improve the sound of lower-quality microphones.&nbsp;<a href="https://www.premiumbeat.com/blog/best-lavalier-microphones-for-video-production/" rel="noreferrer noopener" target="_blank">Lavalier mics</a> typically don&rsquo;t capture a lot of bass compared to other microphones, such as shotgun mics.</p>
+<figure><img width="755" height="450" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08215525/Improve-Your-Audio-in-Premiere-Pro-Bass-Effect.jpg" alt="Screenshot of bass effect options">
+    <figcaption><em>Use the&nbsp;<strong>Bass</strong> effect to improve mics that sound &ldquo;shallow.&rdquo;</em></figcaption>
+</figure>
+<p>If you&rsquo;re working with recorded audio that sounds a bit shallow, add the <strong>Bass</strong> effect to your audio and increase the <strong>Boost</strong> setting. A Boost value between 3 and 8 works best in most cases. This is also a nice way you can match audio that&rsquo;s been recorded from two different microphones.</p>
+<h3>4. Change Stereo Audio to Mono (or Mono to Stereo)</h3>
+<p>If you need to adjust the channels of an audio clip,&nbsp;<strong>right-click</strong> on it in your&nbsp;<strong>sequence</strong>, then select&nbsp;<strong>Audio Channels</strong>. This will allow you to select which audio channels you want manually.</p>
+<p>This is helpful if you want to make a stereo clip mono by setting both channels to the same audio source. Or, vice versa.</p>
+<figure><img width="755" height="450" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08215736/Improve-Your-Audio-in-Premiere-Pro-Audio-Channels.jpg" alt="Screenshot of how to select audio channels">
+    <figcaption><em><strong>Right-click</strong> on your audio clip and select&nbsp;<strong>Audio Channels</strong>.</em></figcaption>
+</figure>
+<p>It also allows you to fix many other issues you might encounter. For example, if one of your audio channels is showing up blank or if a stereo clip has the audio channels&nbsp;<strong>swapped</strong>.</p>
+<p>You can fix all of those issues this way.</p>
+<figure><img width="755" height="450" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08222013/Improve-Your-Audio-in-Premiere-Pro-Audio-Channel-Settings.jpg" alt="Screenshot of audio channel settings">
+    <figcaption><em>Easily swap or turn off specific audio channels.</em></figcaption>
+</figure>
+<hr>
+<h3>5. Adjust Audio Balance</h3>
+<p>Sometimes, you may need to adjust the balance of your audio, like if you want a sound effect to be heard more on the right-side speaker. Or, you may want to have a sound &ldquo;pan&rdquo; across, from one side to the other, like if a car is passing by.</p>
+<p>To adjust the audio balance of a clip,&nbsp;<strong>right-click</strong> on it in your&nbsp;<strong>sequence</strong>, then navigate to&nbsp;<strong>Show Clip Keyframes</strong> &gt;&nbsp;<strong>Panner</strong> &gt;&nbsp;<strong>Balance</strong>.</p>
+<figure><img width="755" height="450" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08231432/Improve-Your-Audio-in-Premiere-Pro-Audio-Balance.jpg" alt="Screenshot of how to adjust audio balance">
+    <figcaption><em><strong>Right-click</strong> on it in your&nbsp;<strong>sequence</strong>, then navigate to&nbsp;<strong>Show Clip Keyframes</strong> &gt;&nbsp;<strong>Panner</strong> &gt;&nbsp;<strong>Balance</strong>.</em></figcaption>
+</figure>
+<p>Now, the clip&nbsp;<strong>keyframe line</strong> will adjust the&nbsp;<strong>audio balance</strong> instead of the volume. So, if you move the keyframe line upwards, it&rsquo;ll shift the audio to the left speaker. If you move it downwards, it&rsquo;ll shift the audio to the right speaker.</p>
+<p>You can also keyframe the audio balance on the clip if you want a sound to pan from one side to another.</p>
+<figure><img width="755" height="240" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08231759/Improve-Your-Audio-in-Premiere-Pro-Keyframe-Audio-Balance.jpg" alt="Screenshot of keyframing the audio balance">
+    <figcaption><em><strong>Keyframe</strong> the Audio Balance.</em></figcaption>
+</figure>
+<hr>
+<h3>6. Noise Reduction (Removing Room Tone)</h3>
+<p>The fastest way to apply noise reduction to your audio in Premiere Pro is to send the audio clip to&nbsp;<strong>Adobe Audition via Dynamic Link</strong>. This process is much more straightforward than it sounds, and it works nicely for things like narrations.</p>
+<p>First,&nbsp;<strong>right-click</strong> on your audio in your&nbsp;<strong>sequence</strong>, then select&nbsp;<strong>Edit Clip in Adobe Audition</strong>. (This will then&nbsp;<strong>Render and Replace</strong> your audio clip, so you don&rsquo;t have to worry about saving over the original audio.)</p>
+<figure><img width="755" height="240" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08232331/Improve-Your-Audio-in-Premiere-Pro-Edit-Clip-in-Adobe-Audition.jpg" alt="Screenshot of selecting Edit Clip in Adobe Audition">
+    <figcaption><em><strong>Right-click</strong> your audio and select&nbsp;<strong>Edit Clip in Adobe Audition</strong>.</em></figcaption>
+</figure>
+<p>Once your clip has finished rendering,&nbsp;<strong>Adobe Audition</strong> will launch, and you&rsquo;ll see your audio. Zoom into your audio and find an area of the audio with no sound, just the&nbsp;<a href="https://www.shutterstock.com/blog/household-sound-effects-room-tones" rel=" noopener" target="_blank">room tone</a>. Ideally, you can find an area that is a&nbsp;<strong>few seconds long</strong>.</p>
+<p>Once you&rsquo;ve found an area with no sound, put an&nbsp;<strong>in-point</strong> at the beginning of the blank audio by using the shortcut &ldquo;<strong>i</strong>.&rdquo;</p>
+<p>Next, set an&nbsp;<strong>out-point</strong> at the end of the blank audio area by pressing &ldquo;<strong>o</strong>.&rdquo;</p>
+<figure><img width="755" height="450" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08232025/Improve-Your-Audio-in-Premiere-Pro-Set-In-and-Out-Points.jpg" alt="Screenshot of setting in and out points">
+    <figcaption><em>Set your&nbsp;<strong>in-point</strong> and&nbsp;<strong>out-point</strong> to highlight an audio section with just the room tone.</em></figcaption>
+</figure>
+<p>Now, navigate to&nbsp;<strong>Effects</strong> &gt;&nbsp;<strong>Noise Reduction</strong> &gt;&nbsp;<strong>Noise Reduction (process)</strong>. You&rsquo;ll see the&nbsp;<strong>Noise Reduction</strong> <strong>effect settings</strong> open up.</p>
+<p>Click&nbsp;<strong>Capture Noise Print</strong>. This will sample the room tone area you selected on your audio. Next, click the button that says&nbsp;<strong>Select Entire File</strong>.</p>
+<p>Finally, click&nbsp;<strong>Apply</strong>.</p>
+<figure><img width="755" height="450" src="https://pbblogassets.s3.amazonaws.com/uploads/2022/05/08232717/Improve-Your-Audio-in-Premiere-Pro-Noise-Reduction-Settings.jpg" alt="Screenshot of Noise Reduction settings">
+    <figcaption><em>In the&nbsp;<strong>Noise Reduction</strong> settings, click&nbsp;<strong>Capture Noise Print</strong>, then click&nbsp;<strong>Select Entire File</strong>.</em></figcaption>
+</figure>
+<p>Now just close Audition and return to Premiere Pro. You&rsquo;ll see that the de-noised version from Adobe Audition has replaced your original audio clip.</p>

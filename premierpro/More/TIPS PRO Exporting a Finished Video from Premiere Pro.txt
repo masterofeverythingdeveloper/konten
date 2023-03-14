@@ -1,0 +1,72 @@
+<h1>Pro Tip: Exporting a Finished Video from Premiere Pro</h1>
+<h2>Now that your edit is complete and ready for delivery, there&rsquo;s one step left. Exporting a finished video with Premiere Pro.</h2>
+<p>Getting the hang of exporting in Premiere seems difficult with all the settings you&rsquo;re confronted with in the export tab.</p>
+<p>It&rsquo;s not as complicated as it looks, though. With a bit of knowledge about codecs and sequence settings, you&rsquo;ll be firing off exports in no time.</p>
+<hr>
+<h3>Step 1: Open the Export Window</h3>
+<p>To export a video in Premiere Pro, go to <strong>File &gt; Export &gt; Media</strong><em>.</em> You could also press the shortcut key <strong>Ctrl + M</strong> on PC or <strong>Cmd + M</strong> on Mac.</p>
+<p>Make sure the sequence you want to export is selected when you do this.</p>
+<figure><img width="755" height="514" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150355/exportwindow.jpg" alt="Screenshot of export settings in Premiere Pro" title="Pro Tip: Exporting a Finished Video from Premiere Pro — Export Settings"></figure>
+<p>This will bring up your <strong>Export Settings</strong> window. In this window, you&rsquo;ll select your desired settings (or presets) for the video before sending it to <strong>Media Encoder</strong> for exporting.</p>
+<p>Before diving further into how to export a video efficiently, make sure you have any other apps closed, especially apps like Photoshop and Lightroom if you&rsquo;re neck-deep in the Adobe-verse. This will help the rendering process exponentially.</p>
+<p>Also, if you&rsquo;re new to Premiere and curious about what the program can handle&mdash;both storage and power-wise&mdash;we recently explored this topic, listing out all of the spec requirements and what you need from a computer to work effortlessly in Premiere.</p>
+<hr>
+<h3>Step 2: Choose Your Sequence Settings</h3>
+<p>When exporting a video, the first thing to think about is where the video will be delivered and how it&rsquo;ll be viewed.</p>
+<p>Are you going to upload to YouTube and Vimeo? Compressing down the video so you can send it quickly to a client? Or are you exporting a hi-res master version for presentation?</p>
+<p>The delivery destination is essential in deciding what the settings need to be. There are loads of useful presets already installed with Premiere Pro and Media Encoder. You can use these presets to quickly choose settings for your exported file.</p>
+<figure><img width="755" height="308" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150352/exportsettings.jpg" alt="Screenshot of Match Sequence Settings in Premiere Pro" title="Pro Tip: Exporting a Finished Video from Premiere Pro — Match Sequence Settings"></figure>
+<p>If you want to bypass these custom settings and export with the EXACT settings of your sequence, you can select <strong>Match Sequence Settings</strong> at the top. That&rsquo;ll change your export settings to match your sequence settings exactly.</p>
+<p>Although, I don&rsquo;t recommend this because most delivery destinations require codecs other than your standard editing or intermediate codec.</p>
+<figure><img width="755" height="369" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150423/YTandVpresets.jpg" alt="Screenshot of presets in Premiere Pro" title="Pro Tip: Exporting a Finished Video from Premiere Pro — Presets"></figure>
+<p>Let&rsquo;s say you get to this point in the exporting process, and things start to slow down. Or maybe you&rsquo;re nervous about incorrectly exporting your video, and you&rsquo;re scared to open up the timeline again for fear of crashing.</p>
+<p>Be sure to double-check a few things before proceeding, or keep these tips in mind next time as you edit or before you start your edit.</p>
+<hr>
+<h3>Step 3: Establish What Platform You Will Be Exporting For</h3>
+<p>We&rsquo;ll be exporting from Premiere Pro to upload to YouTube for this example. Premiere Pro also has presets for both YouTube and Vimeo that&rsquo;ll export your project in the best-recommended settings for both.</p>
+<p>However, for this example, we&rsquo;ll be exporting with custom settings. It&rsquo;s not that these other options aren&rsquo;t viable solutions. I&rsquo;ve found you benefit more from customizing your export so that there&rsquo;s more universality to the final file, allowing you to upload it and send it to more places.</p>
+<p>I hope that makes sense . . . moving on!</p>
+<hr>
+<h3>Step 4: Select a Format and Codec</h3>
+<figure><img width="755" height="460" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150348/codec.jpg" alt="Screenshot of H.264 Codec" title="Pro Tip: Exporting a Finished Video from Premiere Pro — H.264 Codec"></figure>
+<p>The best setting for web playback is the H.264 codec. So, we&rsquo;ll select our format as H.264. That is also the most common codec for video exports through Premiere. For 80-90% of your exports, you&rsquo;ll be using H.264.</p>
+<figure><img width="755" height="561" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150415/preset.jpg" alt="How to customize settings in Premiere Pro" title="Pro Tip: Exporting a Finished Video from Premiere Pro — Customize Settings"></figure>
+<p>We&rsquo;ll select a preset that matches our sequence and desired output. Our sequence is 1080p with a frame rate of 23.976 fps.</p>
+<p>The next logical question if you&rsquo;re new to all of this is: What is a codec? Or more so: How do I need to understand them for my workflow?</p>
+<p>While it&rsquo;s an entire world of explaining, I recently found a video that did a pretty good job of explaining it. And yes, I&rsquo;m aware that this video is amazingly &rsquo;90s.</p>
+<figure><br></figure>
+<p>If you want more info on this gigantic subject, we&rsquo;ve written extensively in the past on codecs and know what you need to get to the finish line.</p>
+<hr>
+<h3>Step 5: Fine-Tune Your Settings and Adjust Your Bitrate</h3>
+<p>Click the output name to specify an output name for the exported video file. To learn more about adequately naming a file, <a href="http://www.premiumbeat.com/blog/file-naming/" rel=" noopener" target="_blank">check out this article</a>. Ensure that <strong>Export Video</strong> and <strong>Export Audio</strong> are checked, so the file has both video and audio.</p>
+<p>If you feel comfortable changing settings to make them more customizable, you can do so in this window. Here are my recommended settings for most of my videos exported in Premiere:</p>
+<figure><img width="755" height="260" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150401/maxdepth.jpg" alt="Recommended settings for most videos exported in Premiere" title="Pro Tip: Exporting a Finished Video from Premiere Pro — Maximum Depth"></figure>
+<p>Click the <strong>Render at Maximum Depth</strong> box. This will increase your render time, but Premiere will take extra care in exporting your video in the cleanest way possible.</p>
+<figure><img width="755" height="222" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150344/2pass.jpg" alt="Screenshot of bitrate encoding" title="Pro Tip: Exporting a Finished Video from Premiere Pro — Bitrate Encoding"></figure>
+<p>The bitrate decides how big your file size will be. If you need a small file size, you can trim down your bitrate to minimize size. For a master copy, you should export at a high bitrate to have the best copy you can export.</p>
+<p>My regular export rundown is: Change the Bitrate Encoding Settings to VBR, 2 Pass, then drag your Target Bitrate to your selected file size. The size will be shown at the bottom of the window.</p>
+<p>Make your Maximum Bit Rate double the Target Bit Rate. When you choose 2 pass, Premiere will run through your timeline twice to ensure that there are no corrupted frames and that your export is clean.</p>
+<p>Before we move onto exporting in Media Encoder and the pros and cons of taking that route, I want to bring up one quick thing I&rsquo;ve dealt with in the past&mdash;desaturated colors in your exported video as a result of exporting in Premiere Pro.</p>
+<p>Why this happens mostly comes down to communication issues with what Premiere is reading and what your display is showing. So, if this has happened to you, there&rsquo;s a quick fix in the form of a <a href="https://www.premiumbeat.com/blog/29-free-luts-for-video/" rel="noreferrer noopener" target="_blank">LUT</a> you can apply in the exporting process.</p>
+<p>Download this quick fix in the link below:</p>
+<ul>
+    <li><a href="https://www.premiumbeat.com/blog/fix-desaturated-colors-premiere-pro-export/" rel="noreferrer noopener" target="_blank">How to Fix Desaturated Colors in Your Premiere Pro Export</a></li>
+</ul>
+<hr>
+<h3>Step 6: Finish Your Export Either in Premiere or Finish in Media Encoder</h3>
+<p>Now, you can select one of two Premiere Pro export options: <strong>Queue</strong> or <strong>Export</strong>.</p>
+<figure><img width="755" height="331" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150419/queueandexport.jpg" alt="Screenshot of Queue and Export options" title="Pro Tip: Exporting a Finished Video from Premiere Pro — Queue and Export"></figure>
+<p>Selecting <strong>Queue</strong> will send you to <strong>Media Encoder</strong>, with the sequence added to a queue.</p>
+<figure><img width="755" height="410" src="https://pbblogassets.s3.amazonaws.com/uploads/2019/08/07150404/mediaencoder.jpg" alt="Screenshot of Media Encoder options" title="Pro Tip: Exporting a Finished Video from Premiere Pro — Media Encoder"></figure>
+<p>Then, all you have to do is press the green play button at the top to start the export. This is good if you want to add multiple Premiere Pro sequences to export at the same time.</p>
+<p>This also allows you to continue working in Premiere Pro while Media Encoder exports in the background. This is the method of exporting I use most often, as I feel like Premiere has a harder time handling all of this at once.</p>
+<p>Selecting <strong>Export</strong> simply exports the sequence right from that window. You won&rsquo;t be able to use Premiere Pro while it&rsquo;s exporting this way.</p>
+<p>That&rsquo;s it! You just exported your finished video.</p>
+<p>Originally, this article was a breakdown of this video made by us. I replaced it with a quicker, more straight-to-the-point version (as seen above).</p>
+<p>But, if you want to watch the original breakdown we made, here it is for you to enjoy below!</p>
+<p>Also, are you sick of Premiere Pro? Was this whole process from start to finish the literal worst? Well, you&rsquo;re in luck. Here are five cheap alternatives to Premiere Pro&mdash;with a full-on pros and cons list for your viewing pleasure.</p>
+<hr>
+<h3>Step 7: Save Your Settings for Future Exports</h3>
+<p>If you frequently use a custom setting, you can save your export settings as a new preset. Click the <strong>Save Preset</strong> button next to the preset drop-down in the export window.</p>
+<p>You can then name the preset whatever you like. Now, you can use that saved preset in the future.</p>
+<p>Want to streamline your exporting even more? As you can see, exporting a finished video from Premiere Pro is super-easy and customizable. You can also add additional output files from the same source sequence in Media Encoder&mdash;extremely useful for creating different file types and sizes of the same video.</p>

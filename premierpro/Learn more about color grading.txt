@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="text page-description aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; color: #666666; margin: 10px 0px 16px; line-height: 1.4; float: left; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 21px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Learn more about color grading footage directly on your editing timeline using professional-quality color grading tools in Premiere Pro.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Premiere Pro provides you professional-quality color grading and color correction tools that let you grade your footage directly on your editing timeline.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">These color tools are available within a<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Lumetri Color</span><span>&nbsp;</span>workspace in Premiere Pro. Using these tools, you can adjust color, contrast, and light in your sequences in new and innovative ways. With editing and color grading working hand in hand, you can freely move between editing and grading tasks without the need to export or launch a separate grading application.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">The Color workspace is designed not just for experienced colorists but also for editors who are new to color grading. You can apply simple color corrections or complex Lumetri Looks using intuitive sliders and controls. Or you can easily adjust cuts or fine-tune grades using advanced color correction tools like curves and color wheels.&nbsp;</p>
+</div>
+</div>
+<div class="text first-heading aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Set up a Color workspace</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Premiere Pro provides a preset Color workspace that makes your task of color grading quicker and more efficient.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Select&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Window &gt; Workspace &gt; Color</span>, or choose&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Color&nbsp;</span>from the workspace switcher. The Color workspace opens a Lumetri Color panel to the right, and a Lumetri Scopes panel to the left of the Program Monitor.</p>
+</div>
+</div>
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="image-wrapper" title="Setting up a Color workspace" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 749.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Setting up a Color workspace" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_image_0" data-src="/content/dam/help/en/premiere-pro/using/color-workflows/jcr_content/main-pars/image_0/1_setting_up_a_colorworkspace.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/color-workflows/jcr_content/main-pars/image_0/1_setting_up_a_colorworkspace.png.img.png" title="Setting up a Color workspace" class=" dexter-LazyImage " alt="Setting up a Color workspace" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Setting up a Color workspace</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><b style="font-weight: bolder; border: 0px; box-sizing: border-box;">A.</b><span>&nbsp;</span>Lumetri Scopes panel&nbsp;<b style="font-weight: bolder; border: 0px; box-sizing: border-box;">B.</b><span>&nbsp;</span>Lumetri Color panel with curves, color wheels, and slider adjustments&nbsp;</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">The Lumetri Color panel offers powerful and easy-to-use color tools, like curves, color wheels, and slider arrangements, arranged in different sections. Each section of the Lumetri Color panel focuses on a specific task of the color workflow.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">The Lumetri Scopes panel displays different analyses of luma and chroma as waveforms based on your adjustments, letting you evaluate as you grade your clips.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">General color correction workflow</h2>
+</div>
+</div>
+<div class="dexter-Spacer aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div id="root_content_flex_items_position_position-par_spacer_copy_copy_243" style="border: 0px; box-sizing: border-box; height: 20px;"></div>
+</div>
+<div class="position aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div id="root_content_flex_items_position_position-par_position_465844794_c" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-8 mobile-padding-right-8 mobile-padding-bottom-8 mobile-padding-left-8 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 8px; position: relative; border-radius: 4px; box-shadow: #e1e1e1 1px 1px 4px 2px;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 733.156px;">
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 733.156px; font-size: 16px; float: left;">
+<div class="cmp-text " daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Want to try how it works? Open the Lumetri Color panel in Premiere Pro and get started!</p>
+</div>
+</div>
+<div class="cta aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 733.156px;">
+<div class="dexter-Cta dexter-Cta--align-left   " daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; text-align: left;"><a href="https://premierepro.app.link/pnXJ45Ezbab" class="spectrum-Button spectrum-Button--cta " data-disable-query="false" daa-level="4" daa-lh="deep link click|1" daa-ll="Try it now" style="background-color: #1473e6; border: 2px solid #1473e6; box-sizing: border-box; position: relative; display: inline-flex; align-items: center; justify-content: center; overflow: visible; margin: 0px; text-transform: none; -webkit-font-smoothing: antialiased; appearance: none; vertical-align: top; transition: background 130ms ease-out 0s, border-color 130ms ease-out 0s, color 130ms ease-out 0s, box-shadow 130ms ease-out 0s; text-decoration: none; font-family: adobe-clean-ux, adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.3; cursor: pointer; user-select: none; touch-action: none; border-radius: 16px; min-height: 32px; height: auto; min-width: 72px; padding: 3px 14px 5px; font-size: 14px; font-weight: bold; color: #ffffff;"><span class="spectrum-Button-label" style="border: 0px; box-sizing: border-box; place-self: center; text-align: center; width: 59.1406px;">Try it now</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dexter-Spacer aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div id="root_content_flex_items_position_position-par_spacer_copy_copy_cop" style="border: 0px; box-sizing: border-box; height: 20px;"></div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Ensure that you have set up the Color workspace.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Place the playhead on the required clip in your sequence.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">When the Lumetri Color panel is open, Premiere Pro automatically selects the Selection Follows Playhead option from the Sequence menu. The auto-selection of the clip ensures that any color adjustments you make are applied to the selected clip.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">Automatic clip selection is applied even for the linked audio clips in the audio tracks. To focus your color adjustments only to video clips, turn off audio track targeting.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Start making color adjustments using the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Basic Correction</span><span>&nbsp;</span>section.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;"><img src="https://helpx.adobe.com/content/dam/help/clientlibs/images/tip.png" alt="" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" />&nbsp;Get started quickly by using<span>&nbsp;</span><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/auto-color.html" daa-level="4" daa-lh="2" daa-ll="Auto Color" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;">Auto Color</a><span>&nbsp;</span>- an Adobe Sensei ML technology that applies intelligent color correction to clips. You can then further refine the color using the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Intensity</span>,<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Color</span>, and<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Light</span><span>&nbsp;</span>sliders.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">The controls in the&nbsp;Basic Correction&nbsp;section guide you through applying a LUT (Lookup Table), and making other technical corrections to exposure and light through easy-to-use controls.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Use the Creative section to apply Looks. You can then make further adjustments using the Adjustments sliders.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">For more information, see<span>&nbsp;</span><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/creative-lumetri-looks.html" target="_blank" daa-level="4" daa-lh="3" daa-ll="Get creative with color using Lumetri looks" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;" rel="noopener">Get creative with color using Lumetri looks</a>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Use the Curves section to further refine the look using RGB Curves and the Hue Saturation Curve.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">For more information, see<span>&nbsp;</span><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/adjust-color-rgb-hsl-curves.html" target="_blank" daa-level="4" daa-lh="4" daa-ll="Adjust color using RBG and Hue Saturation Curves" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;" rel="noopener">Adjust color using RBG and Hue Saturation Curves</a>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Adjust shadows, midtones,<span>&nbsp;</span><span class="acrolinxCursorMarker" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;"></span>a<span class="acrolinxCursorMarker" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;"></span>nd highlights using color wheels for more precise color adjustments.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">For more information, see<span>&nbsp;</span><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/color-match-comparison-view.html#color-wheel" target="_blank" daa-level="4" daa-lh="5" daa-ll="Three way color correction using the Color Wheel" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;" rel="noopener">Three way color correction using the Color Wheel</a>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">To make individual shots recorded under different lighting conditions look like they belong in the same scene, and not out of place when cutting from one shot to the next, use the Color Match section.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">For more information, see<span>&nbsp;</span><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/color-match-comparison-view.html#color-match" target="_blank" daa-level="4" daa-lh="6" daa-ll="Match color between shots" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;" rel="noopener">Match color between shots</a>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">After making all the color adjustments, create a high-quality vignette to make your video stand out.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">For more information, see<span>&nbsp;</span><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/create-vignettes.html" target="_blank" daa-level="4" daa-lh="7" daa-ll="Create vignettes" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;" rel="noopener">Create vignettes</a>.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">To toggle between changes, click<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Toggle Bypass on or off</span><span>&nbsp;</span>on the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Lumetri Color</span><span>&nbsp;</span>panel or the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">fx</span><span>&nbsp;</span>option on the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effects Control</span><span>&nbsp;</span>panel.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;"><a id="basic-color-correction" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;"></a>Apply basic color correction</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Using controls in the Basic Correction section, you can correct video that&rsquo;s too dark or too light, and adjust both the hue (color or chroma) and luminance (exposure and contrast) in your clip. &nbsp;</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To adjust a control, drag the slider until you achieve the desired result. Or, you can set a specific value in the box next to the sliders. To select the box and type a new value, click the current value.</p>
+</div>
+</div>
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="image-wrapper" title="Apply basic color correction" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 749.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Apply basic color correction" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_image_1" data-src="/content/dam/help/en/premiere-pro/using/color-workflows/jcr%3acontent/main-pars/image_1/2.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/color-workflows/jcr%3acontent/main-pars/image_1/2.png.img.png" title="Apply basic color correction" class=" dexter-LazyImage " alt="Apply basic color correction" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Before (left) and after applying basic color correction (right)</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+<div class="accordion aem-GridColumn aem-GridColumn--default--12" daa-lh="In Accordion|Article body" daa-level="2-3" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><spectrum-accordion data-name="abc" data-multi-select="true" style="border: 0px; box-sizing: border-box;">
+<div class="spectrum-Accordion abc" role="region" style="border: 0px; box-sizing: border-box; display: block; list-style: none; padding: 0px; margin: 0px;">
+<div class="spectrum-Accordion-item react-spectrum-Accordion-item is-open" role="presentation" daa-lh="1" style="border-width: 1px 0px; border-color: #eaeaea; border-image: initial; box-sizing: border-box; z-index: inherit; position: relative; display: list-item; margin: 0px; border-style: solid initial solid initial;">
+<h3 class="spectrum-Accordion-itemHeading" aria-level="3" daa-lh="Close" daa-level="4" daa-ll="Input LUT" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 0px; margin: 0px; font-size: 18px; text-transform: uppercase;"><button id="react-spectrum-1" class="spectrum-Accordion-itemHeader" aria-controls="react-spectrum-2" aria-expanded="true" type="button" style="overflow: visible; font-family: inherit; font-size: 16px; line-height: 1.5em; margin: 0px; text-transform: none; appearance: button; border: 0px; box-sizing: border-box; position: relative; display: flex; align-items: center; justify-content: flex-start; padding: 12px 16px 12px 34px; min-height: 39px; letter-spacing: 0.0006em; text-overflow: ellipsis; cursor: pointer; font-weight: 600; background-color: inherit; text-align: start; width: 749.156px; color: #333333;">Input LUT</button><svg class="spectrum-UIIcon-ChevronRightMedium spectrum-Icon spectrum-Accordion-itemIndicator" focusable="false" aria-hidden="true" role="presentation"><path d="M5.99 5a1 1 0 0 0-.29-.707L1.717.3A1 1 0 1 0 .3 1.717L3.586 5 .3 8.283A1 1 0 1 0 1.717 9.7L5.7 5.707A1 1 0 0 0 5.99 5z" class="spectrum-UIIcon--medium"></path></svg></h3>
+<div id="react-spectrum-2" role="region" aria-labelledby="react-spectrum-1" aria-hidden="false" aria-expanded="true" class="spectrum-Accordion-itemContent" style="border: 0px; box-sizing: border-box; padding: 0px 16px 16px; display: block;">
+<div class="item-0-abc" style="border: 0px; box-sizing: border-box;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 717.156px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 717.156px;">
+<div class="image-wrapper" title="Input LUT" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 717.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Input LUT" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_accordion_container_0_content-0_image_copy" data-src="/content/dam/help/en/premiere-pro/using/color-workflows/jcr_content/main-pars/accordion_container_0/accordion-par/accordion-item-0/accordion-item-par/image_copy/input_lut.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/color-workflows/jcr_content/main-pars/accordion_container_0/accordion-par/accordion-item-0/accordion-item-par/image_copy/input_lut.png.img.png" title="Input LUT" class=" dexter-LazyImage " alt="Input LUT" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Input LUT</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 717.156px; font-size: 16px; float: left;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can use a&nbsp;LUT (Look Up Table) as a starting point for grading your footage, and then use the other color controls for further grading.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Premiere Pro provides several preset LUTs that you can apply to your footage, or you can select a custom LUT that you saved.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spectrum-Accordion-item react-spectrum-Accordion-item is-open" role="presentation" daa-lh="2" style="border-width: 0px 0px 1px; border-color: #eaeaea; border-image: initial; box-sizing: border-box; z-index: inherit; position: relative; display: list-item; margin: 0px; border-style: initial initial solid initial;">
+<h3 class="spectrum-Accordion-itemHeading" aria-level="3" daa-lh="Close" daa-level="4" daa-ll="White Balance" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 0px; margin: 0px; font-size: 18px; text-transform: uppercase;"><button id="react-spectrum-3" class="spectrum-Accordion-itemHeader" aria-controls="react-spectrum-4" aria-expanded="true" type="button" style="overflow: visible; font-family: inherit; font-size: 16px; line-height: 1.5em; margin: 0px; text-transform: none; appearance: button; border: 0px; box-sizing: border-box; position: relative; display: flex; align-items: center; justify-content: flex-start; padding: 12px 16px 12px 34px; min-height: 39px; letter-spacing: 0.0006em; text-overflow: ellipsis; cursor: pointer; font-weight: 600; background-color: inherit; text-align: start; width: 749.156px; color: #333333;">White Balance</button><svg class="spectrum-UIIcon-ChevronRightMedium spectrum-Icon spectrum-Accordion-itemIndicator" focusable="false" aria-hidden="true" role="presentation"><path d="M5.99 5a1 1 0 0 0-.29-.707L1.717.3A1 1 0 1 0 .3 1.717L3.586 5 .3 8.283A1 1 0 1 0 1.717 9.7L5.7 5.707A1 1 0 0 0 5.99 5z" class="spectrum-UIIcon--medium"></path></svg></h3>
+<div id="react-spectrum-4" role="region" aria-labelledby="react-spectrum-3" aria-hidden="false" aria-expanded="true" class="spectrum-Accordion-itemContent" style="border: 0px; box-sizing: border-box; padding: 0px 16px 16px; display: block;">
+<div class="item-1-abc" style="border: 0px; box-sizing: border-box;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 717.156px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 717.156px;">
+<div class="image-wrapper" title="White balance" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 717.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="White balance" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_accordion_container_0_content-1_image" data-src="/content/dam/help/en/premiere-pro/using/color-workflows/jcr_content/main-pars/accordion_container_0/accordion-par/accordion-item-1/accordion-item-par/image/white_balance.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/color-workflows/jcr_content/main-pars/accordion_container_0/accordion-par/accordion-item-1/accordion-item-par/image/white_balance.png.img.png" title="White balance" class=" dexter-LazyImage " alt="White balance" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">White balance</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 717.156px; font-size: 16px; float: left;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">The white balance in a video reflects the lighting conditions under which the video was shot.&nbsp;Adjusting the white balance can effectively improve the ambient color of your video.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Adjust the white balance in your clip by changing the Temperature and Tint properties. You can use the eye-dropper to click an area in the footage that is white or neutral in color. The white balanace automatically gets adjusted. Alternatively, you can use the slider controls to fine-tune the temperature and tint values until you achieve the desired color balance.&nbsp;</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 717.156px; font-size: 16px; float: left;">
+<div class="variable" style="border: 0px; box-sizing: border-box; float: left; padding-right: 16px;">
+<p class="text" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px 0px; overflow-wrap: break-word; display: inline-block; width: 86.4688px;"><span class="help-variable-title" style="border: 0px; box-sizing: border-box; font-weight: bold;">Temperature</span></p>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Fine-tunes the white balance using a color temperature scale. Move the slider to the left to make the video appear cooler, and to the right for warmer colors.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 717.156px; font-size: 16px; float: left;">
+<div class="variable" style="border: 0px; box-sizing: border-box; float: left; padding-right: 16px;">
+<p class="text" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px 0px; overflow-wrap: break-word; display: inline-block; width: 26.3281px;"><span class="help-variable-title" style="border: 0px; box-sizing: border-box; font-weight: bold;">Tint</span></p>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Fine-tunes the white balance to compensate for a green or magenta tint. To add green tint to the video, move the slider to the left (negative values), and&nbsp;to add magenta, move it to the right (positive values).</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spectrum-Accordion-item react-spectrum-Accordion-item" role="presentation" daa-lh="3" style="border-width: 0px 0px 1px; border-color: #eaeaea; border-image: initial; box-sizing: border-box; z-index: inherit; position: relative; display: list-item; margin: 0px; border-style: initial initial solid initial;">
+<h3 class="spectrum-Accordion-itemHeading" aria-level="3" daa-lh="Open" daa-level="4" daa-ll="Tone" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 0px; margin: 0px; font-size: 18px; text-transform: uppercase;"><button id="react-spectrum-5" class="spectrum-Accordion-itemHeader" aria-controls="react-spectrum-6" aria-expanded="false" type="button" style="overflow: visible; font-family: inherit; font-size: 16px; line-height: 1.5em; margin: 0px; text-transform: none; appearance: button; border: 0px; box-sizing: border-box; position: relative; display: flex; align-items: center; justify-content: flex-start; padding: 12px 16px 12px 34px; min-height: 39px; letter-spacing: 0.0006em; text-overflow: ellipsis; cursor: pointer; font-weight: 600; background-color: inherit; text-align: start; width: 749.156px; color: #333333;">Tone</button><svg class="spectrum-UIIcon-ChevronRightMedium spectrum-Icon spectrum-Accordion-itemIndicator" focusable="false" aria-hidden="true" role="presentation"><path d="M5.99 5a1 1 0 0 0-.29-.707L1.717.3A1 1 0 1 0 .3 1.717L3.586 5 .3 8.283A1 1 0 1 0 1.717 9.7L5.7 5.707A1 1 0 0 0 5.99 5z" class="spectrum-UIIcon--medium"></path></svg></h3>
+</div>
+</div>
+</spectrum-accordion></div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">You can reset all color changes done using the&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Reset Effect</span>&nbsp;option in the&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Lumetri Color</span>&nbsp;panel, or from the&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Effects Control</span>&nbsp;panel.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Create and edit multiple Lumetri color effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can create multiple Lumetri color effects, and stack or layer them in the Lumetri Color panel.</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">On the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Lumetri Color</span><span>&nbsp;</span>panel, click the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Lumetri Color</span><span>&nbsp;</span>tab.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">In the fx drop-down list, select<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Add Lumetri Color Effect</span><span>&nbsp;</span>to create a new effect. When you add a new effect, Premiere Pro creates a new<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Lumetri Color</span>&nbsp;with the name<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Lumetri Color</span>.</p>
+</div>
+</div>
+<div class="image parbase" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div class="image-wrapper" title="Adding Lumetri color effects" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: inline-block; margin-top: 10px; width: 711.156px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Adding Lumetri color effects" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_214787127_proc_par_step_0_step_par_image" data-src="/content/dam/help/en/premiere-pro/using/color-workflows/jcr_content/main-pars/procedure_214787127/proc_par/step_1/step_par/image/lumetri_color.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/color-workflows/jcr_content/main-pars/procedure_214787127/proc_par/step_1/step_par/image/lumetri_color.png.img.png" title="Adding Lumetri color effects" class=" dexter-LazyImage " alt="Adding Lumetri color effects" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Adding Lumetri color effects</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Lumetri instances are placed in the same order as in the Effects Control panel (top to bottom). The currently selected instance is highlighted in blue and has a check mark&nbsp;to the left.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">You can rename these effects for better organization. To rename an effect. select<span>&nbsp;</span><strong style="font-weight: bolder; border: 0px; box-sizing: border-box; margin-right: 0px !important;">Rename<span>&nbsp;</span></strong>from the fx drop-down list.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">To delete an effect, select the effect you want to delete (it is highlighted in blue), and click<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Clear</span><span>&nbsp;</span>from the fx drop-down list.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">When no Lumetri instances are present, only the&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Add Lumetri Color Effect</span>&nbsp;option is enabled.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">When you delete an effect, Premiere Pro directly deletes it without prompting you for confirmation.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Control Surface Support for Lumetri Color</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Lumetri panel grading controls can be mapped to control surface devices&nbsp;(such as Tangent Devices - Elements/Wave/Ripple).</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To set up a Tangent control surface device:</p>
+<ol style="border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Install Premiere Pro and the Tangent Hub&nbsp;software (See the Tangent Devices Support website for details). &nbsp;</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">In Premiere Pro, click Open Preferences - Control Surface.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Click Add&nbsp;and choose Tangent&nbsp;and save PR Project.</li>
+</ol>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">PR installs a&nbsp;pre-configured Tangent control mapping layout, which provides a good starting point to control PR/Lumetri.&nbsp;The default mapping has the following modes:&nbsp;[Editing], [Lumetri - Basic],[Lumetri - Creative], [Lumetri - Curves],&nbsp;[Lumetri - Wheels], [Lumetri - HSL], [Lumetri - Vignette].&nbsp;Each mode has a set of pre-configured&nbsp;commands. The mapping of the commands can be manually changed in Tangent HUB&nbsp;software if necessary (See Tangent Support website for details).</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">Third-party control surfaces are also supported by installing a plug-in from third-party websites.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">HOW TO USE THE CONTROL SURFACE WITH LUMETRI</h3>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To get to the corresponding grading mode in Premiere Pro, select a section in Lumetri panel.&nbsp;For example, selecting the Wheels section in Lumetri panel maps the control surface hardware to Wheels mode and selecting Creative changes the mode and maps the corresponding wheels and sliders. You can also manually select a mode from the&nbsp;control surface device if the mode was mapped (that is Elements). The Lumetri panel UI then shows the corresponding&nbsp;section if the panel is visible. The last used mode remains active until manually switched to another one.</p>
+</div>
+</div>
+</body>
+</html>

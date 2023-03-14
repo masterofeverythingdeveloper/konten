@@ -1,0 +1,87 @@
+Multi-camera editing can seem like a scary concept mainly because it has a different feel and workflow to your normal editing processes. However, Premiere Pro Multicam editing is surprisingly straightforward! Once you have completed this tutorial, you’ll know exactly how to set up, edit, and troubleshoot your multi-camera projects.
+
+Before we begin, let’s clear one thing up, as m-camera and split screen editing are sometimes confused. In split screen editing, you are working with multiple clips all shown at the same time. On the other hand, editing takes place when you have various angles of the same subject — all recorded at the same time. The process allows you to easily cut back and forth between angles with just a few keyboard clicks.
+
+Summary	
+
+Part 1: How to Multicam Edit in Premiere Pro
+
+Part 2: Adjust & Refine Your Multi-Camera Sequence
+
+Part 3: Tips & Troubleshootin
+
+
+Part 1: How to Multicam Edit in Premiere ProStep 1: Create a Multicam Sequence
+Import your footage into your project.
+In the Project Browser, select the clips that you want to use in the Multicam sequence (hold Cmd or Ctrl while selecting multiple clips).
+Right-click one of the selected clips and click Create Multi-Camera Source Sequence.
+Name the project; we will use Intro or Question 1 (choose something that references which source clips are being used).
+Choose your Synchronize Point settings. It’s most likely that you’ll need to use the Audio option; leave the Track Channel at Mix Down.
+Set the Sequence Preset > Automatic.
+Unless you have renamed your clips during selection, check the Enumerate Cameras box. Click OK, and you’re all set up.
+Step 2: Set Up the Sequence
+Find your new sequence in the Project browser, right-click and choose New Sequence from Clip.
+You’ll now have one clip in your timeline, with a single audio track.
+Go to your Button editor, then select the multi-camera editing icon, Multi-Camera View.
+Drag the icon and drop it on your button bar.
+Click OK to close the Button editor, then click on the multi-camera icon in the button bar to open the multi-camera view.
+Step 3: Overlay Settings
+
+Adding the Overlay settings isn’t a necessity, but we strongly recommend you do. The overlay adds a number to each of the clips that make up your Multicam clip. Toggling this on allows you to use hotkeys to cut between camera angles.
+
+Go to the Program Monitor and click on the settings wrench icon, select Overlay Settings.  
+In the setting box, check Enable Overlays during playback, followed by OK.  
+Go back to the wrench icon and select Overlays.  
+Step 4: Edit & Switch Camera Angles
+
+The largest of the windows in the Program Monitor is your Active camera. This displays the main video sequence. The smaller windows display the individual clips that make up the multi-camera clip.
+
+There are 2 ways to edit between camera angles:
+
+Play through the sequence until you reach a point that you would like the camera angles to change, click on the camera angle in the Program Monitor. Premiere Pro will add an edit, switching to that angle.
+Play through the sequence until you reach a point that you would like the camera angles to change. Using your keyboard, press the number allocated to the camera angle.
+
+To reorganize your camera angles, select Edit Cameras. From here, you can easily drag-and-drop the clips to change the order. If you want to disable an angle you no longer want to use just deselect it by clicking on the checkbox. If you have more than 4 angles to manage, you can organize and select cameras across multiple pages, and navigate between them as needed.
+
+With practice, multi-camera editing can be quite a quick process, as you can make cuts while the video is playing.
+
+Part 2: Adjust & Refine Your Multi-Camera Sequence
+1. Delete an Edit
+
+Removing a cut is super simple:
+
+Zoom in to your sequence so that you can see the cuts between in the clip. You’ll see each has a label indicating the camera angle.
+Select the point between 2 clips and hit Delete. The edit will be deleted, and the clip will revert to the angle of the clip before it.
+2. Changing an Angle After an Edit
+
+You might decide that you need to swap the angle used for a particular edit without deleting and redoing the edit point. Simply select the clip, and click on a different angle.
+
+3. Changing the Edit Point
+
+If you want to keep the camera angles the same, but slightly adjust the edit point, you can do so using the Rolling Edit tool:
+
+Hit N on the keyboard to switch the Rolling Edit tool.
+Grab the edit point you wish to change and drag along the sequence to reposition the cut.
+Part 3: Tips & Troubleshooting
+
+Some issues may arise for which you need to edit the source footage. To do this, you need to open up the multi-camera clip.
+
+Find the Multi-Camera clip in your Project browser. If you have problems finding it, right-click on the clip in the sequence, and select Reveal in Project.
+In the Project browser, right-click on the Multi-Camera clip and select Open in Timeline. From here you can edit each source clip.
+1. Audio Syncing
+
+Occasionally, the audio in your clips will not be clear enough for Adobe to sync the clips correctly. In this instance, you may need to do a bit of manual syncing. Open the multi-camera clip and adjust the position of the source files, so they sync, using the visuals as a guide. This is where using a clapper board becomes invaluable.
+
+2. Replacing Clips
+
+If you have created your new multi-camera clip using the wrong source file, it’s often easier to delete the new clip and redo it. There are many reasons, however, that you may have started editing when you need to change the source files.
+
+Open the clip to reveal the source files.
+Right-click on the source file you wish to replace, select Reveal in Project.
+In the Project browser, right-click on the source clip and select Replace Footage.
+Find the clip you wish to replace, and select OK.
+3. Color Correction
+
+You can add color correction and grading, along with other creative video effects by opening the Multicam clip. From there, apply the effects directly to the source files. The effects you apply to the source clips will affect the whole clip and every instance it’s used within the edit.
+
+Multi-camera editing is quite straightforward! Once you have set up the project, editing between the various angles is fun. Now that you know how to use Premiere Pro Multicam editor, practice, and you’ll be surprised how quickly you can create complex edits.

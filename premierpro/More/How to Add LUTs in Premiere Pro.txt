@@ -1,0 +1,32 @@
+<h1>How to Add LUTs in Premiere Pro</h1>
+<h2>In this step-by-step guide, we&rsquo;ll show you how to apply a single LUT in Premiere Pro and how to add your favorite LUTs to the dropdown menu.</h2>
+<p>A LUT (<a href="https://www.premiumbeat.com/blog/lut-explained-cats/" rel="noreferrer noopener" target="_blank">Look Up Table</a>) is a straightforward<strong>&nbsp;way to color grade footage</strong>. Whether applying a LUT to grade standard footage or using LUTs to bring color back to Log footage, you can do so easily in Premiere Pro using the Color workspace.</p>
+<p>Learn how to add LUTs to the Premiere Pro dropdown menu with these 35+ Free LUTs, and our step-by-step guide.</p>
+<p>To follow along, you&rsquo;re going to need some LUTs to install. Unlike the <a href="https://www.premiumbeat.com/blog/free-premiere-pro-lumetri-looks/" rel="noreferrer noopener" target="_blank">14 free Hollywood Lumetri Look files that we&rsquo;ve given away in the past</a>, LUT files are .CUBE files that actually work in a variety of programs. Looks are limited to Premiere Pro, but you can <strong>use</strong> <strong>LUTs in Premiere Pro, After Effects, Photoshop, DaVinci Resolve, Final Cut Pro X, etc.</strong></p>
+<hr>
+<h3>What Is a LUT?</h3>
+<p>To put it plainly, LUTs are just coded math equations that you apply to your clip or footage that manipulates the color of your footage. Each LUT is a specific look designed and tweaked to change the colors of your original shot in a specific way.</p>
+<p>Some LUTs have a pre-coded warmer tint, some have a cooler tint, and some change particular colors, either darker or lighter. It can be whatever you want it to be. Did that make sense?</p>
+<p>Most of the time, LUTs are designed (and created) to work better with flatter footage. So, think &ldquo;Log footage&rdquo; or clips with flatter color profiles. Think of it as a way for the LUT to work with a blank canvas.</p>
+<hr>
+<p>Over the years, one of the aspects of our blog that we take a lot of pride in is the thousands of free assets we&rsquo;ve been able to build for our readers, like you!</p>
+<p>So, last year, one of our most talented filmmakers built this pack of FREE LUTs over on <a href="https://www.youtube.com/channel/UCKyVN7fBTaQ3np4WOO7IK9A" rel=" noopener" target="_blank">Shutterstock Tutorials</a> that are available to download for you right now. Check it out and play around with the different looks, tweaking them in ways that fit the aesthetic of your project.</p>
+<p>Oh, but wait, maybe you&rsquo;re unfamiliar with how to apply these LUTs within Premiere? Okay, let&rsquo;s look at the simple process that you can expect.</p>
+<div>
+    <h3><strong>Applying LUTs in Premiere Pro</strong> (2022)</h3>
+    <p>If you&rsquo;re applying a single LUT to your footage, an easy approach is to use the <strong>Browse</strong> function and <strong>select the LUT from your downloads folder</strong>.</p>
+    <p>In Premiere Pro, open the <strong>Color workspace</strong> by clicking the <strong>Color</strong> tab at the top center of Premiere Pro.</p>
+    <ol>
+        <li><strong>Click on the clip</strong> you want to work with.</li>
+        <li>In the <strong>Lumetri</strong> panel, open the <strong>Basic Correction</strong> tab.</li>
+        <li>Under <strong>Basic Correction</strong>, select the <strong>Input LUT</strong> dropdown menu, and click on <strong>Browse</strong>.</li>
+        <li>Go to the <strong>35 Free LUTs</strong> folder and<strong>&nbsp;select the LUT</strong> of your choice.</li>
+    </ol>
+    <figure><br></figure>
+    <hr>
+    <h3>Using the Lumetri Color Panel</h3>
+    <p>One of the most important steps in the process we just discussed is using and working with the Lumetri Color Panel inside Premiere Pro.</p>
+    <p>Like Robbie said in the tutorial, this will be where you actually color grade your image, tweak, correct, and apply certain looks to your footage, regardless of how you shot it or the type of files you receive.</p>
+    <p>So, as Zach demonstrates, the panel is extremely intuitive and approachable&mdash;crucial for having a greater understanding of what your image can look like.</p>
+</div>
+<p><br></p>

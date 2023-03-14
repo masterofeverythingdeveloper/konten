@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="text page-description aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; color: #666666; margin: 10px 0px 16px; line-height: 1.4; float: left; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 21px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Explore the variety of audio and video effects that Premiere Pro offers. Also learn how to find and organize effects in the Effects panel.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Premiere Pro includes various audio and video effects that you can apply to clips in your video program. An effect can add a special visual or audio characteristic or provide an unusual feature attribute. For example, an effect can alter the exposure or color of footage, manipulate sound, distort images, or add artistic effects. You can also use effects to rotate and animate a clip or adjust its size and position within the frame. You control the intensity of an effect by the values that you set for it. You can also animate the controls for most effects using keyframes in the Effect Controls panel or in a Timeline panel.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can create and apply presets for all effects. You can animate effects using keyframes and view information about individual keyframes directly in a Timeline panel.</p>
+</div>
+</div>
+<div class="text first-heading aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="Typesofeffects" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px; margin: 0px; font-size: 32px;">Types of effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Premiere Pro has many in-built effects. Some are fixed effects (effects that are pre-applied or built-in). Some are standard effects that you apply to a clip. Effects can also be clip-based (applied to a clip), or track-based (applied to a track). You can also use effects created by external manufacturers that you can use as a plug-in in Premiere Pro.&nbsp;</p>
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;"><a href="https://helpx.adobe.com/id_en/premiere-pro/using/effects.html#fixed_effects" daa-level="4" daa-lh="1" daa-ll="Fixed effects" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Fixed effects</a></li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;"><a href="https://helpx.adobe.com/id_en/premiere-pro/using/effects.html#standard_effects" daa-level="4" daa-lh="2" daa-ll="Standard effects" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Standard effects</a></li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;"><a href="https://helpx.adobe.com/id_en/premiere-pro/using/effects.html#clip_based_and_track_based_effects" daa-level="4" daa-lh="3" daa-ll="Clip-based or track-based effects" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Clip-based or track-based effects</a></li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;"><a href="https://helpx.adobe.com/id_en/premiere-pro/using/effects.html#effect_plug_ins" daa-level="4" daa-lh="4" daa-ll="Effect plug-ins" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Effect plug-ins</a></li>
+</ul>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Effects in Premiere Pro are also grouped into the following categories for better searchability. Three buttons appear under the search field toward the upper left of the Effects panel. These buttons act as filters for three types of effects:</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/icons/accelerated_effects.png" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" />&nbsp;<a href="https://helpx.adobe.com/id_en/premiere-pro/using/effects.html#gpu_accelerated_effects" daa-level="4" daa-lh="5" daa-ll="GPU-Accelerated effects" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">GPU-Accelerated effects</a></p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/icons/32bit_effects.png" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" /><span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/effects.html#high_bit_depth_effects" daa-level="4" daa-lh="6" daa-ll="32-bit Color effects" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">32-bit Color effects</a></p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/icons/YUV_effects.png" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" /><span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/effects.html#yuv-effects" daa-level="4" daa-lh="7" daa-ll="YUV effects" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">YUV effects</a></p>
+</li>
+</ul>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">When you toggle one of these buttons on, only effects and transitions of its type are shown in the list of effects below. You can toggle one or more of these buttons to filter the list of effects for any combination of attributes.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Read on for more information on all the different types of effects.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="fixed_effects" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Fixed effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Every clip you add to a Timeline panel has Fixed effects pre-applied, or built in. Fixed effects control the inherent properties of a clip and appear in the Effect Controls panel whenever the clip is selected. You can adjust all of the Fixed effects in the Effect Controls panel. However, the Program Monitor, Timeline panel, and Audio Mixer also provide controls that are often easier to use. The Fixed effects include the following:</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box;">Motion</strong></p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Includes properties that allow you to animate, rotate, and scale your clips, adjust their anti-flicker property, or composite them with other clips. (To adjust the Motion effect in the Program Monitor, see<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/motion-position-scale-rotate-clip.html#adjust_position_scale_and_rotation" daa-level="4" daa-lh="8" daa-ll="Adjust position, scale, and rotation" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Adjust position, scale, and rotation</a><span>&nbsp;</span>and<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/motion-position-scale-rotate-clip.html#animate_motion_in_the_program_monitor" daa-level="4" daa-lh="9" daa-ll="Animate motion in the Program Monitor" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Animate motion in the Program Monitor</a>.)</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box;">Opacity</strong></p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Lets you reduce the opacity of a clip for use in such effects as overlays, fades, and dissolves.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box;">Time Remapping</strong></p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Lets you slow down, speed up, or reverse playback, or freeze a frame, for any part of a clip. Provides fine control for the acceleration or deceleration of these changes.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box;">Volume</strong></p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Controls the volume for any clip that contains audio. (For information about adjusting the Volume effect, see<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/adjusting-volume-levels.html#adjust_track_volume_with_keyframes" daa-level="4" daa-lh="10" daa-ll="Adjust volume with keyframes" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Adjust volume with keyframes</a>,<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/adjusting-volume-levels.html#adjust_volume_in_effect_controls" daa-level="4" daa-lh="11" daa-ll="Adjust volume in Effect Controls" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Adjust volume in Effect Controls</a>,<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/adjusting-volume-levels.html#set_track_volume_in_the_audio_track_mixer" daa-level="4" daa-lh="12" daa-ll="Set track volume in the Audio Mixer" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Set track volume in the Audio Mixer</a>,<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/adjusting-volume-levels.html#normalize_one_or_more_clips" daa-level="4" daa-lh="13" daa-ll="Adjusting gain and volume, Normalize one or more clips" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Adjusting gain and volume, Normalize one or more clips</a>, and<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/adjusting-volume-levels.html#normalize_the_master_track" daa-level="4" daa-lh="14" daa-ll="Normalize the Master track" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Normalize the Master track</a>.)</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Because Fixed effects are already built in to each clip, you need only adjust their properties to activate them.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Premiere Pro renders Fixed effects after any Standard effects that are applied to the clip. Standard effects are rendered in the order in which they appear, from the top down. You can change the order of Standard effects by dragging them to a new position in the Effect Controls panel, but you can&rsquo;t reorder Fixed effects.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">If you want to change the render order of Fixed effects, use Standard effects instead. Use the Transform effect in place of the Motion effect. Use the Alpha Adjust effect in place of the Opacity effect, and the Volume effect in place of the fixed Volume effect. While these effects are not identical to the Fixed effects, their properties are equivalent.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="standard_effects" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Standard effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Standard effects are additional effects that you must first apply to a clip to create a desired result. You can apply any number or combination of Standard effects to any clip in a sequence. Use Standard effects to add special characteristics or to edit your video, such as adjusting tone or trimming pixels. Premiere Pro includes many video and audio effects, which are located in the Effects panel. Standard effects must be applied to a clip and then adjusted in the Effect Controls panel. Certain video effects allow direct manipulation using handles in the Program Monitor. All Standard effect properties can be animated over time using keyframing and changing the shape of the graphs in the Effect Controls panel. The smoothness or speed of the effect animation can be fine-tuned by adjusting the shape of Bezier curves in the Effect Controls panel.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">The effects listed in the Effects panel depend on the actual effect files in the language subfolder of the Premiere Pro Plug-ins folder. You can expand the repertoire of effects by adding compatible Adobe plug-in files or plug-in packages available through other third-party developers.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="clip_based_and_track_based_effects" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Clip-based and track-based effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">All video effects&mdash;both Fixed and Standard effects&mdash;are<span>&nbsp;</span><i style="border: 0px; box-sizing: border-box;">clip-based</i>. They alter individual clips. You can apply a clip-based effect to more than one clip at a time by creating a nested sequence.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Audio effects can be applied to either clips or to tracks. To apply<span>&nbsp;</span><i style="border: 0px; box-sizing: border-box;">track-based</i><span>&nbsp;</span>effects, use the Audio Mixer. If you add keyframes to the effect, you can then adjust the effect either in the Audio Mixer or a Timeline panel.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="effect_plug_ins" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Effect plug-ins</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">In addition to the dozens of effects included with Premiere Pro, many effects are available in the form of plug-ins. You can purchase plug-ins from Adobe or third-party vendors, or acquire from other compatible applications. For example, many Adobe After Effects plug-ins and VST plug-ins can be used in Premiere Pro. However, Adobe officially supports only plug-ins that are installed with the application.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Any effect is available to Premiere Pro when its plug-in file is present in the common Plug-ins folder:</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">(Windows) Program Files\Adobe\Common\Plug-ins\&lt;version&gt;\MediaCore</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">(Mac OS) /Library/Application Support/Adobe/Common/Plug-ins/&lt;version&gt;/MediaCore</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Using the installer for a plug-in is the best way to make sure the plug-in and its related files are installed in the right place.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">When you open a project with references to missing effects, Premiere Pro does the following:</p>
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">tells you which effects are missing</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">marks the effects as offline</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">performs any rendering without the effects</li>
+</ul>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">For a current list of third-party plug-ins, see the<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/plug-ins.html" daa-level="4" daa-lh="15" daa-ll="Adobe website" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Adobe website</a>.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">To edit a project containing add-on plug-ins on more than one computer, install the plug-ins on all the computers.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="gpu_accelerated_effects" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">GPU-Accelerated effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Here is a list of GPU accelerated effects available in Adobe Premiere Pro. For these effects, playback would be in real time and doesn't require rendering.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Some effects can take advantage of the processing power of the GPU to accelerate rendering.&nbsp;</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">See<span>&nbsp;</span><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/system-requirements.html" daa-level="4" daa-lh="16" daa-ll="Premiere Pro system requirements" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Premiere Pro system requirements</a>&nbsp;for information on supported GPUs (graphics cards).</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">On Mac OS, CUDA acceleration features require Mac OS X v10.6.3 or later.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">Acceleration is available for an accelerated effect only when a supported video card is installed. If a supported video card is not installed, the Accelerated Effects filter button still functions. The Accelerated Effects badge is shown in a disabled state to indicate that acceleration is not available.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 id="disable_or_enable_gpu_acceleration_of_effects" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">DISABLE OR ENABLE GPU ACCELERATION OF EFFECTS</h3>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">File &gt; Project Settings &gt; General</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">In the Video Rendering And Playback section, select the appropriate renderer: Mercury Playback Engine GPU Acceleration or Mercury Playback Engine Software Only.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">This option is available to select only if your computer supports it.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="high_bit_depth_effects" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">32-bit Color</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Premiere Pro includes some video effects and transitions that support high-bit-depth processing. When applied to high-bit-depth assets, such as v210-format video and 16-bit-per-channel (bpc) Photoshop files, these effects can be rendered with 32bpc pixels. The result is better color resolution and smoother color gradients with these assets than would be possible with the earlier standard 8 bit per channel pixels. A 32-bpc badge appears to the right of the effect name in the Effects panel for each high-bit-depth effect.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To enable high-bit-depth rendering for these effects, select the Maximum Bit Depth video rendering option in the New Sequence dialog box.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">32-bpc effects render at 32 bits per channel only when every effect in the render pipeline is a 32-bpc effect. If you place an 8-bpc effect into a sequence that contains a 32-bpc effect, Premiere Pro renders all the effects in the sequence at 8 bits.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="yuv-effects" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">YUV effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Effects in Premiere Pro that have the YUV logo do the processing directly on the YUV values without converting them to RGB first. The pixel values are never converted to RGB, and there is no unwanted color shifting.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">These effects make it easy for you to adjust contrast and exposure without shifting color.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="Searchforeffects" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">Search for effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Standard effects are listed in the Effects panel and are organized into two main bins, Video Effects and Audio Effects. Within each bin, Premiere Pro lists effects by type in nested bins. For example, the Blur and Sharpen bin contains effects that defocus an image, such as Gaussian Blur and Directional Blur.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Find audio effects in bins named for the type of audio clips they support: mono, stereo, or 5.1.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can also locate an effect by typing the effect name in the Contains box.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To open the Effects panel, choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Window &gt; Effects</span>, or click the Effects tab.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can also use the filters in the Effects panel to sort filters based on whether they are Accelerated, 32-bit Color, or YUV effects.&nbsp;When you toggle one of these buttons on, only effects and transitions of its type are shown in the list of effects below. You can toggle one or more of these buttons to filter the list of effects for any combination of attributes.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="Groupeffects" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">Group effects</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can group your favorite effects by placing them together in customized bins.&nbsp;</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">In the Effects panel, click the New Custom Bin button<span>&nbsp;</span><img alt="" src="https://helpx.adobe.com/content/dam/help/icons/P_Favorites_Wi_N.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" />, or choose New Custom Bin from the Effects panel menu. A new Custom bin appears in the Effects panel. You can rename it.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Drag effects to the Custom bin. A copy of the effect is listed in the Custom bin. You can create more Custom bins, which are numbered.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">To rename the custom bin, click the existing name to select the folder, click it again to select the name field, and type the new name.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="Removingcustombins" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Removing custom bins</h2>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">In the Effects panel, select a Custom bin and do one of the following:</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Click the Delete Custom Items button<span>&nbsp;</span><img alt="" src="https://helpx.adobe.com/content/dam/help/icons/P_Trashcan_Wi_N.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" />.</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Choose Delete Custom Items from the Effects panel menu.</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Press Delete.</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Press Backspace.</p>
+</li>
+</ul>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">You can remove Custom bins only from the Effects panel.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Click OK.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="ListofAccelerated32bitandYUVeffectsinPremierePro" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">List of Accelerated, 32-bit, and YUV effects in Premiere Pro</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Use the following filters to quickly check whether an effect is accelerated, 32-bit, or a YUV effect.</p>
+</div>
+</div>
+<div class="filter-section aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="filter-section" style="border: 0px; box-sizing: border-box;">
+<div class="filter-section-header" style="border: 0px; box-sizing: border-box;">
+<div class="filter-select" style="border: 0px; box-sizing: border-box; margin: 35px 0px 50px;"><label for="filter-select" style="border: 0px; box-sizing: border-box; display: inline-block; font-weight: bold; margin-right: 37px;">Filter by:</label><span>&nbsp;</span><span>&nbsp;</span><select class="filter-select" style="font-family: sans-serif; font-size: 0.875rem; line-height: 1.15; margin: 0px; text-transform: none; font-weight: 500; font-style: italic; appearance: none; background:  192px center / 10px 8px no-repeat #f7f7f7; border: 1px solid #cccccc; padding: 5px 32px 5px 10px; width: 215px; border-radius: 3px; text-overflow: ellipsis; display: inline-block;">
+<option value="all" style="border: 0px; box-sizing: border-box;">All effects</option>
+</select><span>&nbsp;</span><select class="filter-select" style="font-family: sans-serif; font-size: 0.875rem; line-height: 1.15; margin: 0px; text-transform: none; font-weight: 500; font-style: italic; appearance: none; background:  192px center / 10px 8px no-repeat #f7f7f7; border: 1px solid #cccccc; padding: 5px 32px 5px 10px; width: 215px; border-radius: 3px; text-overflow: ellipsis; display: inline-block;">
+<option value="Accelerated" style="border: 0px; box-sizing: border-box;">Accelerated effects</option>
+</select><span>&nbsp;</span><select class="filter-select" style="font-family: sans-serif; font-size: 0.875rem; line-height: 1.15; margin: 0px; text-transform: none; font-weight: 500; font-style: italic; appearance: none; background:  192px center / 10px 8px no-repeat #f7f7f7; border: 1px solid #cccccc; padding: 5px 32px 5px 10px; width: 215px; border-radius: 3px; text-overflow: ellipsis; display: inline-block;">
+<option value="32-bit" style="border: 0px; box-sizing: border-box;">32-bit effects</option>
+</select><span>&nbsp;</span><select class="filter-select" style="font-family: sans-serif; font-size: 0.875rem; line-height: 1.15; margin: 0px; text-transform: none; font-weight: 500; font-style: italic; appearance: none; background:  192px center / 10px 8px no-repeat #f7f7f7; border: 1px solid #cccccc; padding: 5px 32px 5px 10px; width: 215px; border-radius: 3px; text-overflow: ellipsis; display: inline-block;">
+<option value="YUV" style="border: 0px; box-sizing: border-box;">YUV effects</option>
+</select><span>&nbsp;</span></div>
+</div>
+<div class="filter-section-main" style="border: 0px; box-sizing: border-box;">
+<div class="filter-content section" style="border: 0px; box-sizing: border-box;">
+<div class="filter-content Accelerated all " style="border: 0px; box-sizing: border-box;">
+<div class="text section" style="border: 0px; box-sizing: border-box; display: inline-block; width: 749.156px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="ListofacceleratedeffectsinPremierePro" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">List of accelerated effects in Premiere Pro</h2>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text section" style="border: 0px; box-sizing: border-box; display: inline-block; width: 749.156px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Here is a list of the effects and transitions that can be accelerated by CUDA in Adobe Premiere Pro.</p>
+</div>
+</div>
+<div class="flex section" style="border: 0px; box-sizing: border-box;">
+<div id="root_content_flex_items_position_position-par_filter_section_591467705_filter-section-main_filter_content_filter-section-main_flex_copy" class="dexter-FlexContainer dexter-Background" style="border: 0px; box-sizing: border-box; position: relative;">
+<div class="dexter-FlexContainer-Items   dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart" style="border: 0px; box-sizing: border-box; display: flex; flex-wrap: wrap; place-content: stretch;">
+<div class="text" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; display: inline-block; width: 374.578px; font-size: 16px; min-height: 50vh;">
+<div class="cmp-text " daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Lumetri Color</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Crop</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Warp Stabilizer</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Ultra Key</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Horizontal Flip</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Brightness &amp; Contrast</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Transform</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Drop Shadow</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Dip To Black</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Film Dissolve</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Sharpen</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Tint</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Verical Flip</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Additive Dissolve</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Track Matte Key</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Basic 3D</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Mosaic</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Fast Blur (already obsolete)</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Dip To White</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Lens Distortion</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Push</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Invert</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Slide</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Morph Cut</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">RGB Curves (already obsolete)</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Offset</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Timecode</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Edge Feather</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Color Replace</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Simple Text</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Auto Reframe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Glow</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Gamma Correction</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">ASC CDL</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">ProcAmp</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Extract</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Alpha Glow</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Mirror</li>
+</ul>
+</div>
+</div>
+<div class="text" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; display: inline-block; width: 374.578px; font-size: 16px; min-height: auto;">
+<div class="cmp-text " daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Digital Glitch</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Alpha Adjust</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Fast Color Corrector (already obsolete)</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Ramp</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Color Pass</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Blur</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Find Edges</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Black &amp; White</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR De-Noise</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Clip Name</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">RGB Color Corrector (already obsolete)</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Chromatic Abberations</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Color Gradients</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Three-Way Color Corrector (already obsolete)</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Rotate Sphere</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">SDR Conform</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Levels</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Fractal Noise</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Iris Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Gradient Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Light Rays</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Projection</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Mobius Zoom</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Noise</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Chroma Leaks</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Video Limiter</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Light Leaks</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Spherical Blur</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Sharpen</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Plane To Sphere</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Luma Corrector (already obsolete)</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">VR Random Blocks</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Video Limiter (already obsolete)</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Gaussian Blur</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Directional Blur</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Cross Dissolve</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Whip</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Reduce Interlace Flicker</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Strobe</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="filter-content section" style="border: 0px; box-sizing: border-box;">
+<div class="filter-content 32-bit all " style="border: 0px; box-sizing: border-box;">
+<div class="text section" style="border: 0px; box-sizing: border-box; display: inline-block; width: 749.156px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="Listof32bitColoreffectsinPremierePro" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">List of 32-bit Color effects in Premiere Pro</h2>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text section" style="border: 0px; box-sizing: border-box; display: inline-block; width: 749.156px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Cross Dissolve</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Dip to Black</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Dip to White</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Film Dissolve</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Band Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Barn Doors</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Checker Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">CheckerBoard</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Clock Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Gradient Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Inset</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Pinwheel</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Radial Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Random Blocks</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Random Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Spiral Boxes</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Venetian Blinds</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Wedge Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Zig-Zag Blocks</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="filter-content section" style="border: 0px; box-sizing: border-box;">
+<div class="filter-content YUV all " style="border: 0px; box-sizing: border-box;">
+<div class="text section" style="border: 0px; box-sizing: border-box; display: inline-block; width: 749.156px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="ListofYUVeffectsinPremierePro" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">List of YUV effects in Premiere Pro</h2>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text section" style="border: 0px; box-sizing: border-box; display: inline-block; width: 749.156px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">ProcAmp</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Gaussian Blur</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Lumetri Color</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Video Limiter</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Black &amp; White</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Alpha Adjust</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Luma Key</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Track Matte Key</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Fast Color Corrector</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Luma Corrector</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Luma Curve</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">RGB Color Corrector</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">RGB Curves</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Three-Way Color Corrector</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Video Limiter (Legacy)</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Crop</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Edge Feather</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Horizontal Flip</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Clip Name</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Simple Text</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Timecode</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Cross Dissolve</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Dip to Black</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Dip to White</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Film Dissolve</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Iris Box</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Iris Cross</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Iris Diamond</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Iris Round</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Band Slide</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Band Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Barn Doors</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Checker Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">CheckerBoard</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Clock Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Gradient Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Inset</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Pinwheel</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Radial Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Random Blocks</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Random Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Spiral Boxes</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Venetian Blinds</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Wedge Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Wipe</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Zig-Zag Blocks</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

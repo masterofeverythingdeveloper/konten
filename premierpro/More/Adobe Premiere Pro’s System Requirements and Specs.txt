@@ -1,0 +1,87 @@
+<h1>Adobe Premiere Pro&rsquo;s System Requirements and Specs</h1>
+<h2>Let&rsquo;s look at the powerhouse editing program, Premiere Pro, and tackle all the specs you need to know to work with it.</h2>
+<p>When looked at in comparison to the other&nbsp;<a href="https://www.shutterstock.com/blog/video-editors-guide-popular-nles" rel=" noopener" target="_blank">non-linear editing platforms</a> out there, Premiere is in a constant state of flux, adapting and changing to work with whatever editors have. However, through recent updates with&nbsp;<a href="https://www.premiumbeat.com/blog/davinci-resolve-system-requirements/" rel="noreferrer noopener" target="_blank">Resolve</a> and&nbsp;<a href="https://www.premiumbeat.com/blog/color-grade-and-export-footage-in-fcpx/" rel="noreferrer noopener" target="_blank">FCPX</a>, all three major programs are beginning to accommodate all types of builds and setups from various GPUs and CPUs.</p>
+<p>So, let&rsquo;s dive in.</p>
+<hr>
+<h2>System Requirements</h2>
+<p>We&rsquo;re going to explain what these components are and some of the recommended products currently on the market. But, if you&rsquo;re just looking for the requirements so you can bounce, we got you.</p>
+<h3>Mac</h3>
+<p><strong>Requirements if you&rsquo;re using a Mac OS:</strong></p>
+<ul>
+    <li>macOS Catalina v10.15 or later</li>
+    <li>Intel 6thGen or newer CPU</li>
+    <li>8 GB of RAM</li>
+    <li>2 GB of GPU VRAM</li>
+    <li>8 GB of available hard-disk space for installation&mdash;additional free space required during installation (will not install on removable flash storage)</li>
+    <li>Monitor resolution of 1280&times;800</li>
+</ul>
+<p>Now, in regards to the M1 updates with Premiere and the new Mac chips, Adobe said this about Premiere&rsquo;s functionality and compatibility:</p>
+<blockquote>
+    <p>There are some differences in functionality and some features are not available with Premiere Pro on Apple M1.</p><cite>&ndash; Adobe</cite>
+</blockquote>
+<ul>
+    <li>Capture workflows (DV, HDV, third-party capture support, and device control)</li>
+    <li>Export to&nbsp;Wraptor&nbsp;DCP</li>
+    <li>Import and export of the GoPro&nbsp;Cineform&nbsp;codec</li>
+    <li>Import of certain XDCAM formats&nbsp;(currently&nbsp;XDCAMEX)</li>
+    <li>Export to the P2 Movie format</li>
+    <li>EUCON control surface support</li>
+    <li>AAF import and export</li>
+    <li>Export to tape workflows. To continue using Export to tape (including HDCAM) via&nbsp;an SDI-connected deck, you need Premiere Pro running on Intel-based computers.</li>
+</ul>
+<h3>Windows</h3>
+<p><strong>Now, let&rsquo;s take a peep at the system requirements if you&rsquo;re using Windows:</strong></p>
+<ul>
+    <li>Intel 6th&nbsp;Gen or newer CPU, or&nbsp;AMD Ryzen&trade; 1000 Series or&nbsp;newer CPU</li>
+    <li>Operating system Microsoft Windows 10 (64-bit), v1909 or later</li>
+    <li>8 GB of RAM</li>
+    <li>2 GB of GPU VRAM</li>
+    <li>8 GB of available hard-disk space for installation&mdash;additional free space required during installation (will not install on removable flash storage)</li>
+    <li>Monitor resolution of 1280&times;800</li>
+    <li>Sound Card &ndash; ASIO compatible or Microsoft Windows Driver Model</li>
+</ul>
+<p>While this isn&rsquo;t exactly an article about&nbsp;<a href="https://www.premiumbeat.com/blog/nvidia-announces-3000-series-gpus/" rel="noreferrer noopener" target="_blank">GPUs</a> and&nbsp;<a href="https://www.shutterstock.com/blog/building-video-editing-computer" rel=" noopener" target="_blank">CPUs</a>, it&rsquo;s important to understand how these tools work in relation to what Premiere needs from your computer in order to perform to the best of its ability.</p>
+<p>Let&rsquo;s go over the basics and where to look for the products that will best match your computer setup, so you can have an idea of where to start or what you need. Then, we&rsquo;ll talk about what Premiere requires from you.</p>
+<p>Also, Adobe has listed the&nbsp;<a href="https://helpx.adobe.com/premiere-pro/system-requirements.html" rel=" noopener" target="_blank">system requirements for VR</a> and hardware acceleration.</p>
+<hr>
+<h2>What Is a CPU?</h2>
+<figure><a href="https://pbblogassets.s3.amazonaws.com/uploads/2021/10/07103413/CPU-Desktop-1.jpg" target="_blank"><img width="755" height="378" src="https://pbblogassets.s3.amazonaws.com/uploads/2021/10/07103413/CPU-Desktop-1.jpg" alt="CPU Desktop"></a>
+    <figcaption><em>The CPU is the brains of the operation. Image via <a href="https://www.shutterstock.com/image-photo/cpu-desktop-contacts-facing-lying-on-1476830777" rel=" noopener" target="_blank">Alexander_Safonov</a>.</em></figcaption>
+</figure>
+<p>A CPU (central processing unit) resides attached to the motherboard of your computer. CPUs are essentially chips that receive information from different parts of your computer, then perform somewhat of a calculation. So, it takes in information, figures out what to do with it, then does it. Still with me? It&rsquo;s the brain, essentially.</p>
+<p>In the context of this specific situation, the CPU has previously been a major factor when using Premiere Pro. Like most&nbsp;<a href="https://www.premiumbeat.com/blog/four-ways-save-film-post-production/" rel="noreferrer noopener" target="_blank">post-production situations</a>, you&rsquo;d benefit from having a decent CPU to work with.</p>
+<p>That being said, which CPU would ideally work best for Premiere? Let&rsquo;s dive in.</p>
+<hr>
+<h2>Best CPU Option for Premiere Pro</h2>
+<p>Obviously, I haven&rsquo;t personally tested each and every CPU available. However, there are resources that will list how these stack up against each other. Take, for example, this breakdown comparison of around fifteen different CPUs currently available and compatible with&nbsp;<a href="https://www.premiumbeat.com/blog/premiere-pro-lagging-fixes/" rel="noreferrer noopener" target="_blank">Premiere Pro</a>:</p>
+<p>Okay, so that gives us an idea for where to start with our CPU hunt and what we can expect to pay (as of right now in fall 2021).</p>
+<p><strong>Here are the best options and prices for each, respectively:</strong></p>
+<ul>
+    <li><a href="https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x" rel=" noopener" target="_blank">AMD Ryzen 5600X &ndash; $299</a></li>
+    <li><a href="https://www.amd.com/en/products/cpu/amd-ryzen-9-3900x" rel=" noopener" target="_blank">AMD Ryzen 9 3900X &ndash; $420</a></li>
+    <li><a href="https://www.newegg.com/intel-core-i9-10900k-core-i9-10th-gen/p/N82E16819118122" rel=" noopener" target="_blank">Intel Core i9 10900K &ndash; $499</a></li>
+</ul>
+<hr>
+<h2>What Is a GPU?</h2>
+<p>A&nbsp;<a href="https://www.premiumbeat.com/blog/nvidia-announces-3000-series-gpus/" rel="noreferrer noopener" target="_blank">GPU</a> (graphics processing unit) is a card that&rsquo;s designed for graphics and video rendering. This is what&rsquo;s handling the actual footage you bring into&nbsp;<a href="https://www.premiumbeat.com/blog/free-motion-graphics-templates-for-premiere-pro/" rel="noreferrer noopener" target="_blank">Premiere Pro</a>.</p>
+<p>One of the reasons Premiere is now such a powerhouse for Windows is the ability to custom-pick and build your PC to handle a powerful CPU, and now GPU (since Premiere has GPU hardware acceleration).</p>
+<p>You essentially have way more options than going with something pre-built into your machine. Premiere has basically opened up to any type of editor out there, those that build and those that buy.</p>
+<ul>
+    <li><a href="https://www.premiumbeat.com/blog/accelerated-encoding-for-premiere-pro-and-after-effects/" rel="noreferrer noopener" target="_blank">Hardware Accelerated Encoding with Premiere and After Effects</a></li>
+</ul>
+<hr>
+<h2>Best GPU Option for Premiere Pro</h2>
+<p>Once again, I&rsquo;m now calling on&nbsp;<em>Tech Notice</em> to come to bat. These videos are probably the most clearly stated and thorough look at what to expect with some of the graphics cards available on the market.</p>
+<p>There&rsquo;s nothing vague about the advice being given below. He&rsquo;s taking a cold hard fact sheet from&nbsp;<a href="https://www.pugetsystems.com/recommended/Recommended-Systems-for-Adobe-Premiere-Pro-143/Hardware-Recommendations" rel=" noopener" target="_blank">PugetBench</a>, which just states what works best with what software.</p>
+<p>Alright, time to break down what the best options are for GPUs. Now, obviously, wouldn&rsquo;t we all want one of those RTX 3080s like no other. Similar to&nbsp;<em>Tech Notice&rsquo;s</em> ultimate conclusion, I feel pretty confident in saying I think you should stick with&nbsp;<a href="https://www.premiumbeat.com/blog/inside-nvidias-new-creator-ready-update/" rel="noreferrer noopener" target="_blank">NVIDIA</a> when choosing your own graphics card.</p>
+<p>I can only speak to my own experiences, but the NVIDIA cards I&rsquo;ve owned have all been absolutely stellar. They&rsquo;ve really never given me too many problems, if any. So, we&rsquo;ll stick with them.</p>
+<p>So, let&rsquo;s just list some of the best cards for us, shall we? (Some of these are currently sold out, and I&rsquo;m not entirely sure when they&rsquo;ll be in stock.)</p>
+<ul>
+    <li>NVIDIA GeForce RTX 2080, 2070, 2060</li>
+    <li>NVIDIA GeForce GTX 1660 Ti</li>
+    <li>GeForce 3060Ti &ndash; The cheapest of the lot, if you can find it</li>
+    <li>NVIDIA Quadro RTX 4000</li>
+</ul>
+<p>Adobe has also listed some of the graphics cards they recommend&mdash;<a href="https://helpx.adobe.com/premiere-pro/system-requirements.html#graphics-cards" rel=" noopener" target="_blank">check them out</a>.</p>
+<p>If you&rsquo;re new to the world of&nbsp;<a href="https://www.premiumbeat.com/blog/build-video-editing-pc/" rel="noreferrer noopener" target="_blank">building a custom PC</a> or adding in specific custom parts, check out this full&nbsp;<a href="https://youtu.be/758S0LshojY" rel=" noopener" target="_blank">step-by-step build of a video editing-specific PC tutorial</a>.</p>
+<p>Okay, I think that&rsquo;s it. If I missed anything, just kindly let us know. Premiere is constantly getting updated, as is a lot of the hardware that hits the market every year. So, we&rsquo;ll be coming back into the post and updating the information as it changes.</p>

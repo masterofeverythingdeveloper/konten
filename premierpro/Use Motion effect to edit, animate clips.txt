@@ -1,0 +1,1157 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="text page-description aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; color: #666666; margin: 10px 0px 16px; line-height: 1.4; float: left; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 21px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Learn to use the Motion effect to position, scale, or rotate clips within the video frame. Master clip animation by setting keyframes for Motion properties.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Use the Motion effect to position, scale, or rotate a clip within the video frame. By default, each clip that you add to the Timeline panel has the Motion effect applied as a fixed effect. You can view and adjust the Motion effect properties in the Effect Controls panel by clicking the triangle next to the Motion name.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can also animate clips by setting keyframes for Motion properties. For more information, see<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/motion-position-scale-rotate-clip.html#main-pars_heading_5" daa-level="4" daa-lh="1" daa-ll="Animate motion in the Program Monitor" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Animate motion in the Program Monitor</a>.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">Standard effects that allow direct manipulation of clips in the Program Monitor include all the Generate effects, Corner Pin, Crop, Lighting Effects, Mirror, Transform, Twirl, and more.&nbsp;</p>
+</div>
+</div>
+</div>
+<div class="text first-heading aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Adjust Position of a Clip</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To adjust a clip in the Program Monitor, do the following:</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select a clip in the Timeline panel, and move the current-time indicator&nbsp;to a location of a frame within the clip. Ensure that the Uniform Scale check box of the Motion effect is deselected.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Do one of the following:</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"><b style="font-weight: bolder; border: 0px; box-sizing: border-box; margin-right: 0px !important;">Lighting Effects only</b></p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">From the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effects panel</span>, apply<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Lighting Effects</span><span>&nbsp;</span>to the clip.&nbsp;You notice that a lens flare appears on the clip. You can adjust the position of the light using the options available in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel.&nbsp;</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="flex" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div id="root_content_flex_items_position_position-par_procedure_0_proc_par_step_1_step_par_multi_column" class="dexter-FlexContainer dexter-Background" style="border: 0px; box-sizing: border-box; position: relative; margin-right: 0px !important;">
+<div class="dexter-FlexContainer-Items   dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart" style="border: 0px; box-sizing: border-box; display: flex; flex-wrap: wrap; place-content: stretch; margin-right: 0px !important; min-height: 50px;">
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; margin-right: 0px !important; width: 355.578px; min-height: auto; order: 0;">
+<div id="root_content_flex_items_position_position-par_procedure_0_proc_par_step_1_step_par_multi_column_items_col-50-50-c1" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-12 mobile-padding-bottom-0 mobile-padding-left-0 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 12px 0px 0px; position: relative; height: 242.016px; background-color: #ffffff; margin: 0px 0px !important 0px 0px;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 343.578px; margin-right: 0px !important;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; margin-right: 0px !important; float: left; width: 343.578px;">
+<div class="image-wrapper" title="Before adding lighting effects" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: inline-block; margin-top: 10px; width: 343.578px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Before adding lighting effects" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_0_proc_par_step_1_step_par_multi_column_items_col-50-50-c1_position-par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/procedure_0/proc_par/step_1/step_par/image/before-lighting-effects.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/procedure_0/proc_par/step_1/step_par/image/before-lighting-effects.png.img.png" title="Before adding lighting effects" class=" dexter-LazyImage " alt="Before adding lighting effects" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Before adding lighting effects</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; margin-right: 0px !important; width: 355.578px; min-height: auto; order: 1;">
+<div id="root_content_flex_items_position_position-par_procedure_0_proc_par_step_1_step_par_multi_column_items_col-50-50-c2" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-0 mobile-padding-bottom-0 mobile-padding-left-12 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 0px 0px 12px; position: relative; height: 242.016px; background-color: #ffffff; margin: 0px 0px !important 0px 0px;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 343.578px; margin-right: 0px !important;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; margin-right: 0px !important; float: left; width: 343.578px;">
+<div class="image-wrapper" title="After adding lighting effects" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: inline-block; margin-top: 10px; width: 343.578px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="After adding lighting effects" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_0_proc_par_step_1_step_par_multi_column_items_col-50-50-c2_position-par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/procedure_0/proc_par/step_1/step_par/multi_column/col-50-50-c2/image/after-lighting-effects-1.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/procedure_0/proc_par/step_1/step_par/multi_column/col-50-50-c2/image/after-lighting-effects-1.png.img.png" title="After adding lighting effects" class=" dexter-LazyImage " alt="After adding lighting effects" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">After adding lighting effects</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box; margin-right: 0px !important;">Motion effect only</strong></p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Select the clip in the Program Monitor. The handles and clip anchor point appear in the Program Monitor which allow you to adjust the position of the clip.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Scale a clip</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To scale a clip in the Program Monitor, do any of the following:</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">To position a clip or lighting effect, double-click on the clip. The handles and clip anchor point appear on the clip. Drag the clip to reposition it. Don&rsquo;t drag a handle to reposition the clip or lighting effect.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">To scale freely, drag a corner handle.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">To scale along one dimension only, drag a side (not a corner) handle.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">To scale proportionally, shift-drag a corner handle.</li>
+</ul>
+</div>
+</div>
+<div class="flex aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div id="root_content_flex_items_position_position-par_multi_column" class="dexter-FlexContainer dexter-Background" style="border: 0px; box-sizing: border-box; position: relative;">
+<div class="dexter-FlexContainer-Items   dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart" style="border: 0px; box-sizing: border-box; display: flex; flex-wrap: wrap; place-content: stretch; min-height: 50px;">
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; width: 374.578px; min-height: auto; order: 0;">
+<div id="root_content_flex_items_position_position-par_multi_column_items_col-50-50-c1" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-12 mobile-padding-bottom-0 mobile-padding-left-0 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 12px 0px 0px; margin: 0px; position: relative; height: 256.047px; background-color: #ffffff;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 362.578px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 362.578px;">
+<div class="image-wrapper" title="Scale assets manually" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 362.578px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Scale assets manually" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_multi_column_items_col-50-50-c1_position-par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column/col-50-50-c1/image/selected_image.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column/col-50-50-c1/image/selected_image.jpg.img.jpg" title="Scale assets manually" class=" dexter-LazyImage " style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Scale assets manually</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; width: 374.578px; min-height: auto; order: 1;">
+<div id="root_content_flex_items_position_position-par_multi_column_items_col-50-50-c2" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-0 mobile-padding-bottom-0 mobile-padding-left-12 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 0px 0px 12px; margin: 0px; position: relative; height: 256.047px; background-color: #ffffff;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 362.578px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 362.578px;">
+<div class="image-wrapper" title="Scaled frame" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 362.578px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Scaled frame" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_multi_column_items_col-50-50-c2_position-par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column/col-50-50-c2/image/scaled_image_2.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column/col-50-50-c2/image/scaled_image_2.jpg.img.jpg" title="Scaled frame" class=" dexter-LazyImage " alt="Scaled frame" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Scaled frame</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">When using the Motion effect to scale a clip, scaling images over 100% can make them look blocky or pixelated.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="scale_assets" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Scale assets</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">When you drag an asset into a sequence, by default Premiere Pro preserves its frame size and centers the asset in the program frame. You can rescale the asset without distortion, if its pixel aspect ratio has been interpreted correctly.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">SCALE ASSETS MANUALLY</h3>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Drag the asset from the Project Panel into a sequence and select the asset.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Open the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">To open the motion controls under the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Motion<span>&nbsp;</span></span>effect, click the triangle next to it.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Click the triangle next to the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Scale</span><span>&nbsp;</span>control within the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Motion<span>&nbsp;</span></span>effect to reveal the Scale slider.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Move the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Scale<span>&nbsp;</span></span>slider left or right to decrease or increase the size of the frame.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">SCALE ASSETS TO FRAME SIZE</h3>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Right-click (Windows) or Control-click (macOs) on an asset in the timeline.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Scale To Frame Size</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">The<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Scale to Frame Size</span><span>&nbsp;</span>option resamples the image to match the size of the sequence. The<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Set to Frame Size</span><span>&nbsp;</span>option does not resample the image size. It sets the scale to be fit inside the image frame.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">SCALE ASSETS AUTOMATICALLY</h3>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Edit &gt; Preferences &gt; Media (Windows)</span><span>&nbsp;</span>or<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Premiere Pro &gt; Preferences &gt; Media (macOs)</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Scale to frame size</span><span>&nbsp;</span>under Default Media Scaling.</p>
+</div>
+</div>
+<div class="image parbase" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div class="image-wrapper" title="Scale to frame" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: inline-block; margin-top: 10px; width: 711.156px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Scale to frame" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_3_proc_par_step_1_step_par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/procedure_3/proc_par/step_1/step_par/image/scale_to_frame.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/procedure_3/proc_par/step_1/step_par/image/scale_to_frame.jpg.img.jpg" title="Scale to frame" class=" dexter-LazyImage " alt="Scale to frame" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Scale to frame</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Click<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">OK</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Rotate a clip</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">To rotate a clip or effect, position the pointer slightly outside any of the handles, so that the pointer changes into the Rotate icon&nbsp;<img src="https://helpx.adobe.com/content/dam/help/icons/14c_rotate.png" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" />&nbsp; and drag.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">In the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>Panel, click the triangle next to<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Motion<span>&nbsp;</span></span>to open up the Motion controls. To rotate the clip, enter a value in the Rotation field.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">To flip a clip, enter a negative value in the Rotation field.</li>
+</ul>
+</div>
+</div>
+<div class="flex aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div id="root_content_flex_items_position_position-par_multi_column_1079291131" class="dexter-FlexContainer dexter-Background" style="border: 0px; box-sizing: border-box; position: relative;">
+<div class="dexter-FlexContainer-Items   dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart" style="border: 0px; box-sizing: border-box; display: flex; flex-wrap: wrap; place-content: stretch; min-height: 50px;">
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; width: 374.578px; min-height: auto; order: 0;">
+<div id="root_content_flex_items_position_position-par_multi_column_1079291131_items_col-50-50-c1" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-12 mobile-padding-bottom-0 mobile-padding-left-0 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 12px 0px 0px; margin: 0px; position: relative; height: 256.047px; background-color: #ffffff;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 362.578px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 362.578px;">
+<div class="image-wrapper" title="Select frame" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 362.578px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Select frame" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_multi_column_1079291131_items_col-50-50-c1_position-par_image_351604180" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column_1079291131/col-50-50-c1/image_351604180/selected_image_1.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column_1079291131/col-50-50-c1/image_351604180/selected_image_1.jpg.img.jpg" title="Select frame" class=" dexter-LazyImage " alt="Select frame" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Select frame</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; width: 374.578px; min-height: auto; order: 1;">
+<div id="root_content_flex_items_position_position-par_multi_column_1079291131_items_col-50-50-c2" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-0 mobile-padding-bottom-0 mobile-padding-left-12 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 0px 0px 12px; margin: 0px; position: relative; height: 256.047px; background-color: #ffffff;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 362.578px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 362.578px;">
+<div class="image-wrapper" title="Rotated clip" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 362.578px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Rotated clip" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_multi_column_1079291131_items_col-50-50-c2_position-par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column_1079291131/col-50-50-c2/image/rotated_clip_1.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column_1079291131/col-50-50-c2/image/rotated_clip_1.jpg.img.jpg" title="Rotated clip" class=" dexter-LazyImage " alt="Rotated clip" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Rotated clip</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">To animate the motion, scaling, or rotation over time, set keyframes as you manipulate the clip or effect in the Program Monitor. For more information, see&nbsp;<a href="https://helpx.adobe.com/id_en/premiere-pro/using/motion-position-scale-rotate-clip.html#main-pars_heading_6" daa-level="4" daa-lh="2" daa-ll="Animate a clip in the Program Monitor" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Animate a clip in the Program Monitor</a>.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box;">A few important points</strong></p>
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">By default, a clip appears at 100% of its original size in the center of the Program Monitor. Position, scale, and rotation values are calculated from the clip anchor point, which lies at the clip&rsquo;s center by default.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Position, Scale, and Rotation properties are spatial in nature, so it&rsquo;s easiest to adjust them directly in the Program Monitor.&nbsp;</li>
+</ul>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Animate motion in the Program Monitor</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can create animations, insets, and split screens by manipulating a clip directly in the Program Monitor and setting keyframes for the Motion effect. By adjusting a clip&rsquo;s position and scale in the Program Monitor, you reveal clips in the tracks below it and can create interesting compositions.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">When you animate a clip&rsquo;s position, a motion path represents the clip&rsquo;s motion in the Program Monitor. Small blue boxes represent keyframed positions, dotted lines represent positions at interpolated frames, and the circular clip anchor point symbol represents a spot in the clip, its center by default, at the current frame. The spacing between dots indicates the speed between keyframes: wide spacing shows fast motion, while tightly spaced dots show slower motion.</p>
+</div>
+</div>
+<div class="flex aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div id="root_content_flex_items_position_position-par_multi_column_1104838765" class="dexter-FlexContainer dexter-Background" style="border: 0px; box-sizing: border-box; position: relative;">
+<div class="dexter-FlexContainer-Items   dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart" style="border: 0px; box-sizing: border-box; display: flex; flex-wrap: wrap; place-content: stretch; min-height: 50px;">
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; width: 374.578px; min-height: auto; order: 0;">
+<div id="root_content_flex_items_position_position-par_multi_column_1104838765_items_col-50-50-c1" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-12 mobile-padding-bottom-0 mobile-padding-left-0 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 12px 0px 0px; margin: 0px; position: relative; height: 254.781px; background-color: #ffffff;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 362.578px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 362.578px;">
+<div class="image-wrapper" title="Clip showing motion path" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 362.578px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Clip showing motion path" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_multi_column_1104838765_items_col-50-50-c1_position-par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column_1104838765/col-50-50-c1/image/motion_path.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column_1104838765/col-50-50-c1/image/motion_path.jpg.img.jpg" title="Clip showing motion path" class=" dexter-LazyImage " alt="Clip showing motion path" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Clip showing motion path</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; width: 374.578px; min-height: auto; order: 1;">
+<div id="root_content_flex_items_position_position-par_multi_column_1104838765_items_col-50-50-c2" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-0 mobile-padding-bottom-0 mobile-padding-left-12 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 0px 0px 12px; margin: 0px; position: relative; height: 254.781px; background-color: #ffffff;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 362.578px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 362.578px;">
+<div class="image-wrapper" title="Clip showing variation of speed in motion path" style="border: 0px; box-sizing: border-box; display: inline-block; margin-top: 10px; width: 362.578px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Clip showing variation of speed in motion path" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_multi_column_1104838765_items_col-50-50-c2_position-par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column_1104838765/col-50-50-c2/image/change_in_motionpath-copy.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/multi_column_1104838765/col-50-50-c2/image/change_in_motionpath-copy.jpg.img.jpg" title="Clip showing variation of speed in motion path" class=" dexter-LazyImage " alt="Clip showing variation of speed in motion path" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Clip showing variation of speed in motion path</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">To quickly apply Motion effect changes to a sequence clip, you can click the image in the Program Monitor and begin manipulation. If you adjust the position of the image, you can further refine its movement by using the Bezier keyframes.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">ANIMATE A CLIP IN THE PROGRAM MONITOR</h3>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">When the Motion effect is selected in the Effect Controls panel, you can manipulate a clip to create an animation in the Program Monitor. To animate a clip in the Program Monitor, follow these steps:</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select a clip in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Timeline</span><span>&nbsp;</span>panel.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Do one of the following:</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Select the Motion effect in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel.</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Double-click on the image in the Program Monitor.</p>
+</li>
+</ul>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Handles appear around the clip&rsquo;s perimeter in the Program Monitor.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Move the current-time indicator in either the Timeline panel or the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel to the time where you want to start the animation&mdash;any frame between the clip&rsquo;s current<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">In<span>&nbsp;</span></span>point and its<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Out<span>&nbsp;</span></span>point.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Click the triangle next to the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Motion<span>&nbsp;</span></span>control in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Click the Toggle Animation button&nbsp;<img src="https://helpx.adobe.com/content/dam/help/icons/P_WatchOff_N.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" />&nbsp;next to the Position control to set the first keyframe.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">In the Program Monitor, change the keyframe value by positioning the pointer near any of the clip&rsquo;s eight square handles to use any of the following pointer tools:</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">The selection pointer<span>&nbsp;</span><img src="https://helpx.adobe.com/content/dam/help/icons/selection_white.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" /><span>&nbsp;</span>to set the position value.</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">The rotate pointer<span>&nbsp;</span><img src="https://helpx.adobe.com/content/dam/help/icons/14c_rotate.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" /><span>&nbsp;</span>to set the rotation value.</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">The scale pointer<span>&nbsp;</span><img src="https://helpx.adobe.com/content/dam/help/icons/P_72.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" /><span>&nbsp;</span>to set the scale value.</p>
+</li>
+</ul>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">If clip handles disappear, reselect the Motion effect in the Effect Controls panel.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Move the current-time indicator, in either the timeline or the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel, to the time at which you want to define a new value for the property (and hence new keyframe).</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Manipulate the clip in the Program Monitor to set a new value for each property for which you set keyframes in step 3. A new Keyframe icon appears in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel at the current-time indicator.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Repeat steps 5 and 6 as needed.</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">When you animate a clip, it can be useful to reduce the Program Monitor&rsquo;s magnification level. This way, you can see more of the pasteboard area outside the visible area of the screen and can use it to position the clip off screen.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">In the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel, expand the property (Position, Scale, Rotation, or Anti-flicker) and drag the Bezier handle to control the acceleration of change for that property.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">CHANGE POSITION KEYFRAMES IN A MOTION PATH</h3>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can change the value of a Position keyframe, and adjust your motion path, simply by dragging the Position keyframe (indicated by a blue X) in the Program Monitor.</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Select a clip that has Motion effect keyframes.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Do any of the following:</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">To move an existing keyframe, drag the keyframe handle in the Program Monitor.</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">To create a new position keyframe, set the current-time indicator between existing keyframes and drag the clip in the Program Monitor to the desired location. A new keyframe appears in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel, the Program Monitor, and in the clip in the Timeline panel.</p>
+</li>
+</ul>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">This procedure changes the position value at a keyframe. To change the timing of keyframes, move Keyframe icons in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">MOVE A CLIP ALONG A CURVE</h3>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can move a clip along a curve using Bezier handles in the Program Monitor.</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select a clip in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Timeline</span><span>&nbsp;</span>panel.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Move the current-time indicator in either the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Timeline</span><span>&nbsp;</span>panel or the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel to the time you want to start the animation&mdash;any frame between the clip&rsquo;s current<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">In<span>&nbsp;</span></span>point and its<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Out<span>&nbsp;</span></span>point.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Click the triangle next to the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Motion<span>&nbsp;</span></span>control in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effects Controls</span><span>&nbsp;</span>panel.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Click the Toggle Animation button<span>&nbsp;</span><img src="https://helpx.adobe.com/content/dam/help/icons/P_WatchOff_N.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" /><span>&nbsp;</span>next to the Position control to set the first keyframe.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Drag the current-time indicator in either the Timeline panel or the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel to the frame where you want to end the animation.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">In the Program Monitor, drag the clip to the location where you want the clip at the end of its movement.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">A motion path appears in the Program Monitor connecting the start and end points of the clip&rsquo;s motion.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Click the triangle next to<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Position<span>&nbsp;</span></span>to open up the speed controls. Small Bezier handles appear on the line when the keyframes are selected.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Drag either or both of the Bezier handles in any direction to create curves in the motion path.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">In the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls<span>&nbsp;</span></span>panel,<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">right-click (Windows)</span><span>&nbsp;</span>or<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Control-click (macOs)<span>&nbsp;</span></span>a Position keyframe.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select a type of acceleration from either the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Temporal Interpolation</span><span>&nbsp;</span>or the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Spatial Interpolation</span><span>&nbsp;</span>menu.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Drag the current-time indicator to the first keyframe and press<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Enter (Windows)<span>&nbsp;</span></span>or<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Return (macOs)<span>&nbsp;</span></span>to preview the motion of the clip.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Adjust or animate clip anchor points</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">By default, a clip anchor point is set at the exact center of a clip. You can change the position of a clip in relation to its frame or motion path, however, by moving the clip anchor point. Further, you can change the location of the clip anchor point over time, allowing the clip to move in relation to its frame or motion path. Animating the clip anchor point can be used, for example, to create an image-panning effect.</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">In the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Timeline</span><span>&nbsp;</span>panel, place the current-time indicator at the beginning of a clip.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Double-click the clip in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Program Monitor</span>.&nbsp;The clip anchor point becomes visible at the center of the clip.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls<span>&nbsp;</span></span>tab, and, if necessary, click the triangle next to the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Motion<span>&nbsp;</span></span>heading to open the Motion controls.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Drag the anchor point horizontal control to the left (decreasing the number value) to offset the anchor point to the left of the clip, or drag it to the right (increasing the number value) to offset it to the right.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Drag the anchor point vertical control to the left (decreasing the number value) to offset the anchor point toward the top of the clip, or to the right (increasing the number value) to offset it toward the bottom.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">To set the keyframe, click the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Add/Remove Keyframe</span><span>&nbsp;</span>button<span>&nbsp;</span><img src="https://helpx.adobe.com/content/dam/help/icons/P_KeyNav_N.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" />.</p>
+</div>
+</div>
+<div class="image parbase" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div class="image-wrapper" title="Add/remove Keyframe" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: inline-block; margin-top: 10px; width: 711.156px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Add/remove Keyframe" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_7_proc_par_step_5_step_par_image" data-src="/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/procedure_7/proc_par/step_5/step_par/image/add_keyframes.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/motion-position-scale-rotate-clip/jcr_content/main-pars/procedure_7/proc_par/step_5/step_par/image/add_keyframes.jpg.img.jpg" title="Add/remove Keyframe" class=" dexter-LazyImage " style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Add/remove Keyframe</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">(Optional) To change the location of the clip anchor point over time, move the current-time indicator in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls<span>&nbsp;</span></span>panel or in the Timeline panel to a different point in time. Change the horizontal and vertical anchor controls to new values.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Another keyframe marks the location of the clip anchor point at the selected frame.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">(Optional) To set the rate of the change in the anchor point location, drag the handles in the anchor point Velocity graph.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Adjust anchor points in the Program Monitor</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">This feature is applicable only for the built-in Motion effect and not for other effects that have an anchor point.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can move the anchor point of the Motion effect directly in the Program Monitor.</p>
+<ol style="border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Open the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Motion Controls</span><span>&nbsp;</span>in the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel and select the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Anchor Point</span><span>&nbsp;</span>property.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">Move the cursor over the anchor point or drag it, the shape of the cursor changes to<img src="https://helpx.adobe.com/content/dam/help/icons/Pr-AnchorPoint.png" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" width="23" height="27" />.</li>
+</ol>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">When you drag the anchor point in the Program Monitor, the anchor point gets relocated in the Program Monitor while the frame remains still. It is achieved by simultaneously updating both the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Anchor Point</span><span>&nbsp;</span>and<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Position<span>&nbsp;</span></span>parameters.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">This behavior is similar to the<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/after-effects/using/layer-properties.html#layer_anchor_points" daa-level="4" daa-lh="3" daa-ll="Pan Behind (Anchor Point) tool in After Effects" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;">Pan Behind (Anchor Point) tool in After Effects</a>.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h3 id="Usemodifierkeys" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 18px; text-transform: uppercase;">USE MODIFIER KEYS</h3>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To update only the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Anchor Point</span><span>&nbsp;</span>parameter and not the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Position<span>&nbsp;</span></span>parameter, press the Alt (Windows) or Option (macOs) key and move the cursor over the anchor point, the cursor changes to<span>&nbsp;</span><img src="https://helpx.adobe.com/content/dam/help/icons/Pr-AnchorPoint-Alt.png" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" width="22" height="25" />. Then, drag the anchor point in the Program Monitor. It drags the frame while the anchor point stays in place.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To enable snapping, press the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Ctrl key<span>&nbsp;</span></span>and start dragging the anchor point. A box is drawn over the target. The anchor point then snaps to the side handles or center point of the frame when close.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><b style="font-weight: bolder; border: 0px; box-sizing: border-box;">A few important points</b></p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">To preserve the ability to drag the position of the clip when the Program Monitor is small, the anchor point crosshairs are hidden. Note that it's the size of the Motion Direct Manipulation frame in pixels on screen that matters.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">To achieve a finer control over the anchor point location, use the Anchor Point property in the Effect Controls panel. Any changes to the anchor point in the Program Monitor are updated in the Effect Controls panel and conversely.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;">When changing the anchor point through the parameter in the Effect Controls panel, it's the frame that moves in the Program Monitor while the anchor point actually stays in the same place on the screen.</li>
+</ul>
+</div>
+</div>
+</body>
+</html>

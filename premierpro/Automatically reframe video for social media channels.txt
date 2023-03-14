@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="text page-description aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; color: #666666; margin: 10px 0px 16px; line-height: 1.4; float: left; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 21px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">After you complete editing your video project, automatically reframe your video to suit different aspect ratios.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Auto Reframe intelligently identifies the actions in your video and reframes the clips for different aspect ratios. This feature is really handy for posting your video to different social media channels such as Instagram, YouTube, or Facebook.</p>
+</div>
+</div>
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="image-wrapper" title=" The days of manually resizing videos for different social platforms are over!" style="border: 0px; box-sizing: border-box; background: none; display: inline-block; margin-top: 10px; width: 749.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content=" The days of manually resizing videos for different social platforms are over!" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_image_130828176" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/auto-reframe/jcr_content/main-pars/image_130828176/auto-reframe-blog.gif" title=" The days of manually resizing videos for different social platforms are over!" class=" dexter-LazyImage " alt=" The days of manually resizing videos for different social platforms are over!" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">The days of manually resizing videos for different social platforms are over!</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can use Auto Reframe to reframe sequences for square, vertical, and cinematic 16:9, or when cropping high-resolution content like 4K and beyond.&nbsp;</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can automatically reframe individual clips, or a complete sequence.</p>
+</div>
+</div>
+<div class="text first-heading aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Add the Auto Reframe effect to a clip</h2>
+</div>
+</div>
+<div class="position aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div id="root_content_flex_items_position_position-par_position_465844794_c" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-8 mobile-padding-right-8 mobile-padding-bottom-8 mobile-padding-left-8 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 8px; position: relative; border-radius: 4px; box-shadow: #e1e1e1 1px 1px 4px 2px;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 733.156px;">
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 733.156px; font-size: 16px; float: left;">
+<div class="cmp-text " daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Want to follow along with the instructions? Open a project&nbsp;in Premiere Pro&nbsp;and get started!</p>
+</div>
+</div>
+<div class="cta aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 733.156px;">
+<div class="dexter-Cta dexter-Cta--align-left   " daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; text-align: left;"><a href="https://premierepro.app.link/M3P24ddzbab" class="spectrum-Button spectrum-Button--cta " data-disable-query="false" daa-level="4" daa-lh="deep link click|1" daa-ll="Try Auto Reframe now" style="background-color: #1473e6; border: 2px solid #1473e6; box-sizing: border-box; position: relative; display: inline-flex; align-items: center; justify-content: center; overflow: visible; margin: 0px; text-transform: none; -webkit-font-smoothing: antialiased; appearance: none; vertical-align: top; transition: background 130ms ease-out 0s, border-color 130ms ease-out 0s, color 130ms ease-out 0s, box-shadow 130ms ease-out 0s; text-decoration: none; font-family: adobe-clean-ux, adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.3; cursor: pointer; user-select: none; touch-action: none; border-radius: 16px; min-height: 32px; height: auto; min-width: 72px; padding: 3px 14px 5px; font-size: 14px; font-weight: bold; color: #ffffff;"><span class="spectrum-Button-label" style="border: 0px; box-sizing: border-box; place-self: center; text-align: center; width: 132.328px;">Try Auto Reframe now</span></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Video Effects</span><span>&nbsp;</span>&gt;<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Transform</span>.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Drag the Auto Reframe effect to the clip you want to reframe.&nbsp;</p>
+</div>
+</div>
+<div class="image parbase" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div class="image-wrapper" title="Dragging the Auto Reframe effect to a clip" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background: none; display: inline-block; margin-top: 10px; width: 711.156px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Dragging the Auto Reframe effect to a clip" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_1641285113_proc_par_step_0_step_par_image_1980705224" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/auto-reframe/jcr_content/main-pars/procedure_1641285113/proc_par/step_0/step_par/image_1980705224/drag-effect.gif" title="Dragging the Auto Reframe effect to a clip" class=" dexter-LazyImage " alt="Dragging the Auto Reframe effect to a clip" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Dragging the Auto Reframe effect to a clip</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Fine-tune the Auto Reframe effect by choosing a suitable<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Motion Tracking</span><span>&nbsp;</span>option from the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effect Controls</span><span>&nbsp;</span>panel.&nbsp;While applying the effect, Premiere Pro generates motion keyframes that follow the action in your content. You can choose one of the following options:&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Slower</span><span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Motion</span>,&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Default</span>, or&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Faster Motion</span>.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="variable" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; float: left; padding-right: 16px;">
+<p class="text" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; display: inline-block; width: 98.6562px; margin: 10px 0px !important 0px 0px;"><span class="help-variable-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Slower Motion</span></p>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-top: 10px;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Appropriate for when there is very little or no camera motion (such as talking head interviews). When this control is used,&nbsp;results are almost static and the clip has very few keyframes.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="variable" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; float: left; padding-right: 16px;">
+<p class="text" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; display: inline-block; width: 49.3594px; margin: 10px 0px !important 0px 0px;"><span class="help-variable-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Default</span></p>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-top: 10px;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Appropriate for most content. Here, the Auto Reframe effect follows the action, however the results may not be great if the action is very fast.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="variable" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; float: left; padding-right: 16px;">
+<p class="text" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; display: inline-block; width: 93.125px; margin: 10px 0px !important 0px 0px;"><span class="help-variable-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Faster Motion</span></p>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-top: 10px;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Appropriate for when there is a lot of motion in the footage and you want the Auto-Reframe effect to follow the action (such as in action sports or skateboarding videos). Here, Auto Reframe ensures the moving object is always in the frame, and adds a lot of keyframes to your clip.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text parbase" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;"><a name="step_par_text" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;"></a>
+<div class="text" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">(Optional) You can&nbsp;Overwrite Generated Path</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text parbase" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;"><a name="step_par_text" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;"></a>
+<div class="text" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">(Optional) You can also fine tune the following options:&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Adjust Position</span>,&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Reframe Offset</span>,&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Reframe Scale</span>,&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Reframe Rotation</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">(Optional) After the effect is applied, play back the clip. If needed, you can copy and edit the keyframes in the Effect Controls panel to fine-tune the results.</p>
+</div>
+</div>
+<div class="image parbase" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div class="image-wrapper" title="Copying and editing keyframes" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background: none; display: inline-block; margin-top: 10px; width: 711.156px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Copying and editing keyframes" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_1641285113_proc_par_step_2_step_par_image" data-src="/content/dam/help/en/premiere-pro/using/auto-reframe/jcr_content/main-pars/procedure_1641285113/proc_par/step_2/step_par/image/auto-reframe-keyframe.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/auto-reframe/jcr_content/main-pars/procedure_1641285113/proc_par/step_2/step_par/image/auto-reframe-keyframe.png.img.png" title="Copying and editing keyframes" class=" dexter-LazyImage " alt="Copying and editing keyframes" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Copying and editing keyframes</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Auto Reframe an entire sequence</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">If you have a sequence containing multiple clips, automatically reframing the entire sequence is a more efficient option.</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Auto Reframe Sequence.&nbsp;</span>Select the sequence in the Project panel.</p>
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">Click<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Sequence</span><span>&nbsp;</span>&gt;<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Auto Reframe Sequence</span></li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">Right-click the sequence in the Project panel and select&nbsp;<span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Auto Reframe Sequence</span>&nbsp;from the context menu.</li>
+</ul>
+</div>
+</div>
+<div class="image parbase" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div class="image-wrapper" title="Options to automatically reframe a sequence" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background: none; display: inline-block; margin-top: 10px; width: 711.156px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Options to automatically reframe a sequence" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_proc_par_step_0_step_par_image_2020134020" data-src="/content/dam/help/en/premiere-pro/using/auto-reframe/jcr_content/main-pars/procedure/proc_par/step_0/step_par/image_2020134020/options.jpg.img.jpg" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/auto-reframe/jcr_content/main-pars/procedure/proc_par/step_0/step_par/image_2020134020/options.jpg.img.jpg" title="Options to automatically reframe a sequence" class=" dexter-LazyImage " alt="Options to automatically reframe a sequence" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Options to automatically reframe a sequence</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">In the dialog box that opens,&nbsp;select the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Target Aspect Ratio</span><span>&nbsp;</span>from the available presets or specify a custom aspect ratio.</p>
+<ol style="border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 20px;"></ol>
+</div>
+</div>
+<div class="image parbase" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div class="image-wrapper" title="Select an option to automatically reframe the selected clip or sequence" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background: none; display: inline-block; margin-top: 10px; width: 711.156px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Select an option to automatically reframe the selected clip or sequence" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_proc_par_step_1_step_par_image_1643905532" data-src="/content/dam/help/en/premiere-pro/using/auto-reframe/jcr_content/main-pars/auto%20reframe%20sequence.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/auto-reframe/jcr_content/main-pars/auto%20reframe%20sequence.png.img.png" title="Select an option to automatically reframe the selected clip or sequence" class=" dexter-LazyImage " alt="Select an option to automatically reframe the selected clip or sequence" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Select an option to automatically reframe the selected clip or sequence</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Premiere Pro creates a duplicate sequence with the correct dimensions for the new aspect ratio. Every clip in the new sequence has the Auto Reframe effect applied. This duplicate sequence is saved in the Auto Reframe Sequences folder in the root of the Project panel.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Fine-tune the Auto Reframe effect by choosing a suitable motion preset from the Motion Tracking drop down list. You can choose one of the following options:<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Slower Motion</span>,<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Default</span>, or<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Faster Motion</span>.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="variable" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; float: left; padding-right: 16px;">
+<p class="text" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; display: inline-block; width: 98.6562px; margin: 10px 0px !important 0px 0px;"><span class="help-variable-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Slower Motion</span></p>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-top: 10px;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Appropriate for when there is very little or no camera motion (such as talking head interviews). When this control is used,&nbsp;results are almost static and the clip requires very few keyframes.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="variable" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; float: left; padding-right: 16px;">
+<p class="text" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; display: inline-block; width: 49.3594px; margin: 10px 0px !important 0px 0px;"><span class="help-variable-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Default</span></p>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-top: 10px;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Appropriate for most content. Here, the Auto Reframe effect follows the action, however the results may not be great if the action is very fast.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="variable" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; float: left; padding-right: 16px;">
+<p class="text" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; display: inline-block; width: 93.125px; margin: 10px 0px !important 0px 0px;"><span class="help-variable-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Faster Motion</span></p>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-top: 10px;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Appropriate for when there is a lot of motion in the footage and you want the Auto-Reframe effect to follow the action (such as in action sports or skateboarding videos). Here, Auto Reframe ensures the moving object is always in the frame, and adds a lot of keyframes to your clip.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">(Optional)&nbsp;To preserve your original motion adjustments with your reframed sequence, apply clip nesting.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">If you choose to nest clips, Premiere Pro places all of your video clips into a nest and uses the original cut points and track layering, leaving your graphics and audio unaffected.&nbsp;</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select nesting if you have:</p>
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">Existing complex keyframes with motion that you want to retain</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">Sequences that have speed and duration adjustments</li>
+</ul>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">Nesting clips does not maintain soft transitions properly, as the handle media is not present in nested clips.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">If you have a complex sequence with multiple points of interest or rapid movement, you may need to fine-tune the keyframes in the sequence after reframing.&nbsp;&nbsp;</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Tips and tricks</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Here are some best practice tips for getting the best results with Auto Reframe.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><b style="font-weight: bolder; border: 0px; box-sizing: border-box;"><img src="https://helpx.adobe.com/content/dam/help/icons/tip%20(1).png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" />Filming:&nbsp;&nbsp;</b>Frame your videos with a little more space around the subjects so that you can repurpose the footage later for any medium.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><b style="font-weight: bolder; border: 0px; box-sizing: border-box;"><img src="https://helpx.adobe.com/content/dam/help/icons/tip%20(1).png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" />Using text titles:<span>&nbsp;</span></b>Auto Reframe works best when titles are created using Premiere Pro.&nbsp;</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><b style="font-weight: bolder; border: 0px; box-sizing: border-box;"><img src="https://helpx.adobe.com/content/dam/help/icons/tip%20(1).png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" />Using still images:</b><span>&nbsp;</span>Auto Reframe does not work with still images. Reframe still images separately.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">&nbsp;<img src="https://helpx.adobe.com/content/dam/help/icons/tip%20(1).png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" /><b style="font-weight: bolder; border: 0px; box-sizing: border-box;">Apply the Auto Reframe effect only once:</b>&nbsp; Applying Auto Reframe multiple times (especially with nested clips) can cause unpredictable results - such as black bars on the sides of your videos. If you need to re-apply the Auto Reframe effect, make sure you apply it on the original clip.</p>
+</div>
+</div>
+</body>
+</html>

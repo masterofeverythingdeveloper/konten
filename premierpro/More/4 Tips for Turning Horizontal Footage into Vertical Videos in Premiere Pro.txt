@@ -1,0 +1,46 @@
+<h1 class="post-title">4 Tips for Turning Horizontal Footage into Vertical Videos in Premiere Pro</h1>
+<h2 id="h-sometimes-you-can-t-just-scale-and-reframe-footage-into-a-vertical-canvas-here-are-four-helpful-tricks-and-workarounds"><span id="sometimes-you-cant-just-scale-and-reframe-footage-into-a-vertical-canvas-here-are-four-helpful-tricks-and-workarounds">Sometimes you can&rsquo;t just scale and reframe footage into a vertical canvas. Here are four helpful tricks and workarounds.</span></h2>
+<p>You finished a video for a client, but they also need social media edits. If you can&rsquo;t just scale the talking head and call it a day, here are a few tricks you can use to get the video finished.</p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper"></div>
+</figure>
+<hr class="wp-block-separator" />
+<h3 id="h-1-auto-reframe-sequence"><span id="1-auto-reframe-sequence">1. Auto Reframe Sequence</span></h3>
+<figure class="wp-block-image size-large is-resized"><a href="https://pbblogassets.s3.amazonaws.com/uploads/2021/07/16113705/Reframe.jpg" data-wpel-link="external" target="_blank" rel="noopener"><img decoding="async" loading="lazy" src="https://pbblogassets.s3.amazonaws.com/uploads/2021/07/16113705/Reframe.jpg" alt="Reframe Videos" class="wp-image-156892" width="835" height="470" /></a>
+<figcaption><em>Reframe your videos with Auto Reframe Sequence</em>.</figcaption>
+</figure>
+<p>If all you need to do is scale footage, Auto Reframe Sequence is one of the fastest ways to have Premiere Pro automatically reframe your videos. It performs well ~80% of the time. With that other 20%, you just manually tweak the shots that Adobe Sensei had a hard time with.</p>
+<hr class="wp-block-separator" />
+<h3 id="h-2-stack-and-tile-multiple-clips-together"><span id="2-stack-and-tile-multiple-clips-together">2. Stack and Tile Multiple Clips Together</span></h3>
+<figure class="wp-block-image size-large is-resized"><a href="https://pbblogassets.s3.amazonaws.com/uploads/2021/07/16111234/Stack.jpg" data-wpel-link="external" target="_blank" rel="noopener"><img decoding="async" loading="lazy" src="https://pbblogassets.s3.amazonaws.com/uploads/2021/07/16111234/Stack.jpg" alt="Stack Clips" class="wp-image-156883" width="837" height="471" /></a>
+<figcaption><em>Try stacking the clips.</em></figcaption>
+</figure>
+<p>This is one of the easiest things to do if you can&rsquo;t scale footage without it looking weird. One popular style is to stack the clips to show behind-the-scenes vs. the final results.</p>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@amiafilmmaker/video/6943750996325731589" data-video-id="6943750996325731589" id="v7538236218265681"><iframe name="__tt_embed__v7538236218265681" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-top-navigation allow-same-origin" src="https://www.tiktok.com/embed/v2/6943750996325731589?lang=en-US&amp;referrer=https%3A%2F%2Fwww.premiumbeat.com%2Fblog%2Ftips-horizontal-footage-vertical-videos-premiere-pro%2F" data-mce-fragment="1"></iframe></blockquote>
+<p>You can even stack three videos and pull off some nice looks. It can be the same footage, or you can stack different clips together to create a unique, pleasing visual.</p>
+<p></p>
+<p>Just note that if you are posting a vertical 9:16 video to Instagram as a Reel or IGTV and you also want to share that to the feed, Instagram will automatically crop your video to 4:5 so make sure nothing important like text or peoples heads get cut out. Here are a few more Instagram things you should know.</p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper"></div>
+</figure>
+<hr class="wp-block-separator" />
+<h3 id="h-3-layer-with-videos-images-or-abstract-backgrounds"><span id="3-layer-with-videos-images-or-abstract-backgrounds">3. Layer with Videos, Images, or Abstract Backgrounds</span></h3>
+<figure class="wp-block-image size-large"><a href="https://pbblogassets.s3.amazonaws.com/uploads/2021/07/20110722/Layer-2.jpg" data-wpel-link="external" target="_blank" rel="noopener"><img decoding="async" loading="lazy" width="755" height="425" src="https://pbblogassets.s3.amazonaws.com/uploads/2021/07/20110722/Layer-2.jpg" alt="Layers" class="wp-image-157014" /></a>
+<figcaption><em>Show off your panoramic photo in style.</em></figcaption>
+</figure>
+<p>If you have images or videos that can&rsquo;t scale, like trying to<span>&nbsp;</span><a href="https://www.shutterstock.com/blog/5-tips-for-panoramic-photography" target="_blank" rel="noopener" data-wpel-link="external">show off a panoramic photo you captured</a>, then one of the easiest things to do is just place your image on top of a background. You can use just a<span>&nbsp;</span><a href="https://www.shutterstock.com/blog/black-and-white-photography-guide" target="_blank" rel="noopener" data-wpel-link="external">black or white</a><span>&nbsp;</span>background, or you can experiment with footage or abstract backgrounds to create unique looks.</p>
+<p></p>
+<p>This video features images of the<span>&nbsp;</span><a href="https://www.youtube.com/watch?v=IOtoK2J0-Z8" target="_blank" rel="noopener" data-wpel-link="external">photographer capturing shots in Monument Valley, Utah</a><span>&nbsp;</span>that are layered over footage. By dropping the exposure of the footage, you can keep viewers&rsquo; attention on the image and still show some behind-the-scenes action in the background.</p>
+<hr class="wp-block-separator" />
+<h3 id="h-4-record-vertical-screen-captures-on-your-pc"><span id="4-record-vertical-screen-captures-on-your-pc">4. Record Vertical Screen Captures on Your PC</span></h3>
+<figure class="wp-block-image size-large is-resized"><a href="https://pbblogassets.s3.amazonaws.com/uploads/2021/07/16113352/portrait.jpg" data-wpel-link="external" target="_blank" rel="noopener"><img decoding="async" loading="lazy" src="https://pbblogassets.s3.amazonaws.com/uploads/2021/07/16113352/portrait.jpg" alt="Portrait" class="wp-image-156890" width="841" height="473" /></a>
+<figcaption><em>Portrait display.</em></figcaption>
+</figure>
+<p>Sometimes you might get footage of a widescreen website capture. Fortunately, there&rsquo;s a super-simple fix instead of just scaling the footage.</p>
+<p>If you&rsquo;re working on a widescreen monitor (like most video editors are), try rotating your screen and record vertical screen captures to better translate to mobile devices. It&rsquo;s perfect for quick tutorials, showing website<span>&nbsp;</span><a href="https://www.premiumbeat.com/blog/animating-user-interface-after-effects/" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">UI</a><span>&nbsp;</span>or<span>&nbsp;</span><a href="https://www.shutterstock.com/blog/role-of-designers" target="_blank" rel="noopener" data-wpel-link="external">UX</a>, or recording just about anything on your computer screen.</p>
+<p>On a PC, open your<span>&nbsp;</span><strong>Settings</strong>, go to<span>&nbsp;</span><strong>Display</strong>, and change the orientation from landscape to portrait.</p>
+<div class="author-wrapper">
+<div class="img-holder">
+<div class="img-wrapper"></div>
+</div>
+</div>

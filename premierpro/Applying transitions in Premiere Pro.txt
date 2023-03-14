@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="text first-heading aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="what-are-transitions" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px; margin: 0px; font-size: 32px;">What are transitions?</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">A transition is an effect added between pieces of media to create an animated link between them. Transitions are used to move a scene from one shot to the next. Premiere Pro provides a list of transitions that you can apply to a sequence. A transition can be a subtle crossfade or a stylized effect.</p>
+</div>
+</div>
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="image-wrapper" title="Transitions-(1)" style="border: 0px; box-sizing: border-box; background: none; margin: 10px 0px 0px; padding: 0px; display: inline-block; width: 749.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="dexter-Image dexter-Image-left    " style="border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Transitions-(1)" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_image_1682663012" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image_1682663012/Transitions-(1).gif" title="Transitions-(1)" class=" dexter-LazyImage " style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+</div>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Different transitions available in Premiere Pro are:</p>
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; padding-left: 24px; margin: 10px 0px 15px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;"><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/audio-transitions.html" target="_blank" daa-level="4" daa-lh="1" daa-ll="Audio transitions" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;" rel="noopener">Audio transitions</a></li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;"><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/video-effects-transitions.html" target="_blank" daa-level="4" daa-lh="2" daa-ll="Video transitions" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;" rel="noopener">Video transitions</a></li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; padding-left: 2px; text-align: initial;"><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/VRSupport.html" target="_blank" daa-level="4" daa-lh="3" daa-ll="VR transitions" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;" rel="noopener">VR transitions</a></li>
+</ul>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">By default, placing one clip next to another in a Timeline panel results in a cut, where the last frame of one clip is followed by the first frame of the next. Transitions are usually placed on a cut line between shots. You can also apply a transition only to the beginning or end of a clip.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Before you apply a transition, trim the clips. Then, apply the transition. The more you trim, the more availability of frames you can use in the transition.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box;">TIP:</strong>&nbsp;Trim at least 15 frames off of each clip for a centered 1:00 transition.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="clip_handles_and_transitions" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">Using clip handles</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Clip handles are extra footage before the clip's in-point and after the clip's out-point that you can use to manipulate a transition.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/icons/xd_note.png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" />&nbsp;If the source media does not contain enough frames, clip handles may not be present as there is no extra footage to add the transition. When you add the transition, Premiere Pro warns you that there is &lsquo;Insufficient Media&rsquo; and that the transition will contain repeated frames. Premiere Pro automatically creates its Clip Handles by repeating the end frames to form a freeze frame of the clip.&nbsp;The transition appears in the Timeline panel with diagonal warning bars through it.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></div>
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="image-wrapper" title="Clip handles" style="border: 0px; box-sizing: border-box; background: none; margin: 10px 0px 0px; padding: 0px; display: inline-block; width: 749.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Clip handles" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_image_1929924705" data-src="/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image_1929924705/clip_handle.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image_1929924705/clip_handle.png.img.png" title="Clip handles" class=" dexter-LazyImage " alt="clip handle" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Clip handles</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">When you add a transition, a colored overlay appears over the clips in the timeline. The transition does not shorten the clip. It continues the clip from the In/Out point.</p>
+</div>
+</div>
+<div class="table aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="dexter-Table-Container header-sticky " data-emptytext="Table" id="root_content_flex_items_position_position-par_table" style="border: 0px; box-sizing: border-box; max-width: 100%; overflow: auto;">
+<table class="dexter-Table" style="border: 0px; box-sizing: border-box; font-size: 16px; border-spacing: 0px; margin: 15px 0px; border-collapse: collapse; width: 749.156px;" width="100%" cellspacing="0" cellpadding="1" border="0">
+<tbody style="border: 0px; box-sizing: border-box;">
+<tr style="border: 0px; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; background: #f7f8f7;">
+<th class="row-r0 column-c0" scope="col" data-header-type="column " style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; font-weight: bold; text-align: inherit; background: #ededed; z-index: 0; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 240.125px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Illustration</p>
+</div>
+</div>
+</th>
+<th class="row-r0 column-c1" scope="col" data-header-type="column " style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; font-weight: bold; text-align: inherit; background: #ededed; z-index: 0; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 141.922px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Description</p>
+</div>
+</div>
+</th>
+<th class="row-r0 column-c2" scope="col" data-header-type="column " style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; font-weight: bold; text-align: inherit; background: #ededed; z-index: 0; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 303.109px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Result</p>
+</div>
+</div>
+</th>
+</tr>
+<tr style="border: 0px; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse;">
+<td class="row-r1 column-c0" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 240.125px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;"><br style="border: 0px; box-sizing: border-box;" /><img src="https://helpx.adobe.com/content/dam/help/en/media-encoder/using/1.png" alt="" style="border: 0px; box-sizing: border-box; width: 242px; max-width: 100%;" /></p>
+</div>
+</div>
+</td>
+<td class="row-r1 column-c1" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 141.922px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Sufficient outgoing (blue) and incoming handles (pink)</p>
+</div>
+</div>
+</td>
+<td class="row-r1 column-c2" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 303.109px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">You can add a transition. Here you could add a standard 1:00 transition.</p>
+</div>
+</div>
+</td>
+</tr>
+<tr style="border: 0px; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; background: #f7f8f7;">
+<td class="row-r2 column-c0" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 240.125px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/en/media-encoder/using/2.png" alt="" style="border: 0px; box-sizing: border-box; width: 242px; max-width: 100%;" /></p>
+</div>
+</div>
+</td>
+<td class="row-r2 column-c1" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 141.922px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Insufficient outgoing and incoming handles</p>
+</div>
+</div>
+</td>
+<td class="row-r2 column-c2" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 303.109px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">You can add a short transition. Here you could add a centered transition with a duration of :15.</p>
+</div>
+</div>
+</td>
+</tr>
+<tr style="border: 0px; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse;">
+<td class="row-r3 column-c0" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 240.125px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/en/media-encoder/using/3.png" alt="" style="border: 0px; box-sizing: border-box; width: 242px; max-width: 100%;" /></p>
+</div>
+</div>
+</td>
+<td class="row-r3 column-c1" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 141.922px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">No handles</p>
+</div>
+</div>
+</td>
+<td class="row-r3 column-c2" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 303.109px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">You cannot add a transition. You'll see an "Insufficient content" error message or an "X" next to the Selection tool. Ripple trim both sides of the edit point to fix this.</p>
+</div>
+</div>
+</td>
+</tr>
+<tr style="border: 0px; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; background: #f7f8f7;">
+<td class="row-r4 column-c0" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 240.125px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/en/media-encoder/using/4.png" alt="" style="border: 0px; box-sizing: border-box; width: 242px; max-width: 100%;" /></p>
+</div>
+</div>
+</td>
+<td class="row-r4 column-c1" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 141.922px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Insufficient outgoing handle</p>
+</div>
+</div>
+</td>
+<td class="row-r4 column-c2" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 303.109px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">You can add a short transition. Roll the edit point&nbsp; to the left to restore handle.</p>
+</div>
+</div>
+</td>
+</tr>
+<tr style="border: 0px; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse;">
+<td class="row-r5 column-c0" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 240.125px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/en/media-encoder/using/5.png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" /></p>
+</div>
+</div>
+</td>
+<td class="row-r5 column-c1" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 141.922px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">No outgoing handle</p>
+</div>
+</div>
+</td>
+<td class="row-r5 column-c2" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 303.109px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Your best choice here would be a transition that begins at the cut. For a centered transition, you'd need to ripple trim the outgoing clip.</p>
+</div>
+</div>
+</td>
+</tr>
+<tr style="border: 0px; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; background: #f7f8f7;">
+<td class="row-r6 column-c0" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 240.125px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/en/media-encoder/using/6.png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" /></p>
+</div>
+</div>
+</td>
+<td class="row-r6 column-c1" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 141.922px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Insufficient incoming handle</p>
+</div>
+</div>
+</td>
+<td class="row-r6 column-c2" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 303.109px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">You can add a short transition. Roll the edit point to the right to restore handle.</p>
+</div>
+</div>
+</td>
+</tr>
+<tr style="border: 0px; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse;">
+<td class="row-r7 column-c0" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 240.125px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/en/media-encoder/using/7.png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" /></p>
+</div>
+</div>
+</td>
+<td class="row-r7 column-c1" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 141.922px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">No incoming handle</p>
+</div>
+</div>
+</td>
+<td class="row-r7 column-c2" style="border: 1px solid #bdbdbd; box-sizing: border-box; color: #333333; padding: 9px 10px; border-collapse: collapse; vertical-align: top;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 303.109px; font-size: 16px;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px; overflow-wrap: break-word;">Your best choice here would be a transition that ends at the cut. For 1:00, centered transition, roll the edit point to the right.&nbsp;</p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">While adding a transition between clips, make sure you have a clip handle at the end of the first clip and at the beginning of the next clip.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><img src="https://helpx.adobe.com/content/dam/help/icons/xd_note.png" alt="" style="border: 0px; box-sizing: border-box; width: auto; max-width: 100%;" />&nbsp;When you don&rsquo;t have enough clip handles for the transition, the easiest solution is to re-edit the clip. Select the clip in the timeline. Use the Ripple edit tool to trim back the clip. Now you can add the transition.&nbsp;</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">For more information, see<span>&nbsp;</span><a disablelinktracking="false" href="https://helpx.adobe.com/id_en/premiere-pro/using/trimming-clips1.html" target="_blank" daa-level="4" daa-lh="4" daa-ll="Trimming clips" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;" rel="noopener">Trimming clips</a>.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="apply-transitions-between-2-clips" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">Apply transitions between two clips</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To place a transition between two clips (centered on the cut line), the clips must be on the same track, with no space between them.</p>
+</div>
+</div>
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="image-wrapper" title="Apply transitions between 2 clips" style="border: 0px; box-sizing: border-box; background: none; margin: 10px 0px 0px; padding: 0px; display: inline-block; width: 749.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Apply transitions between 2 clips" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_image" data-src="/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image/2_clips.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image/2_clips.png.img.png" title="Apply transitions between 2 clips" class=" dexter-LazyImage " alt="Apply transitions between 2 clips" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Apply transitions between 2 clips</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To apply a transition between two clips, do the following:</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Window &gt; Effects</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Expand the Video Transitions or Audio Transitions bin.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Expand the bin containing the transition you want to use.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">To place a transition between two clips, drag the transition to the cut line between two clips, and release the mouse when you see the Center At Cut icon<img alt="" src="https://helpx.adobe.com/content/dam/help/icons/TLDropTransitionCenter.png" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; width: auto; max-width: 100%;" />.</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">As you drag over heads or tails of clips in the Timeline panel, you can see the area covered by the transition outlined.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To preview the transition, play the sequence or drag the current-time indicator through the transition.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="Applyasinglesidedtransition" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">Apply a single-sided transition</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Transitions are typically double-sided as they get applied to both clips. Single sided transitions are only applied on a single clip. This is useful when you don&rsquo;t have a clip handle.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">&nbsp; &nbsp; &nbsp;</p>
+</div>
+</div>
+<div class="flex aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div id="root_content_flex_items_position_position-par_multi_column" class="dexter-FlexContainer dexter-Background" style="border: 0px; box-sizing: border-box; position: relative;">
+<div class="dexter-FlexContainer-Items   dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart" style="border: 0px; box-sizing: border-box; display: flex; flex-wrap: wrap; place-content: stretch; min-height: 50px;">
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; width: 374.578px; min-height: auto; order: 0;">
+<div id="root_content_flex_items_position_position-par_multi_column_items_col-50-50-c1" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-12 mobile-padding-bottom-0 mobile-padding-left-0 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 12px 0px 0px; margin: 0px; position: relative; height: 222.906px; background-color: #ffffff;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 362.578px;">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 362.578px;">
+<div class="image-wrapper" title="transitions-2" style="border: 0px; box-sizing: border-box; background: none; margin: 10px 0px 0px; padding: 0px; display: inline-block; width: 362.578px;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="dexter-Image dexter-Image-left    " style="border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="transitions-2" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_multi_column_items_col-50-50-c1_position-par_image_1369984115" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image_1369984115/transitions-2.gif" title="transitions-2" class=" dexter-LazyImage " style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+</div>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="position" style="border: 0px; box-sizing: border-box; flex: 1 1 1%; max-width: 50%; width: 374.578px; min-height: auto; order: 1;">
+<div id="root_content_flex_items_position_position-par_multi_column_items_col-50-50-c2" class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-top-0 mobile-padding-right-0 mobile-padding-bottom-0 mobile-padding-left-12 mobile-margin-top-0 mobile-margin-right-0 mobile-margin-bottom-0 mobile-margin-left-0 dexter-Background is-Editor-false" data-animations="[]" style="border: 0px; box-sizing: border-box; padding: 0px 0px 0px 12px; margin: 0px; position: relative; height: 222.906px; background-color: #ffffff;">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 " style="border: 0px; box-sizing: border-box; display: block; width: 362.578px;">
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 362.578px; font-size: 16px; float: left;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">Using single-sided transitions, you have more control over how clips transition.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">For example, you can create the effect of one clip departing using the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Venetian Blinds</span>&nbsp;transition, and the next clip fading in using<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Cross Dissolve</span>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">In a Timeline panel or the Effect Controls panel, a double-sided transition has a dark diagonal line through it, while a single-sided transition is split diagonally with one half dark and one half light.</p>
+</div>
+</div>
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="image-wrapper" title="Difference between a single-sided and double-sided transition" style="border: 0px; box-sizing: border-box; background: none; margin: 10px 0px 0px; padding: 0px; display: inline-block; width: 749.156px;">
+<div style="border: 0px; box-sizing: border-box;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Difference between a single-sided and double-sided transition" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_image_1018996493" data-src="/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image_1018996493/types_final.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image_1018996493/types_final.png.img.png" title="Difference between a single-sided and double-sided transition" class=" dexter-LazyImage " alt="Types of transitions" style="border: 0px; box-sizing: border-box; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Difference between a single-sided and double-sided transition</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;"><b style="font-weight: bolder; border: 0px; box-sizing: border-box;">A.</b><span>&nbsp;</span>Double-sided transition&nbsp;<b style="font-weight: bolder; border: 0px; box-sizing: border-box;">B.</b><span>&nbsp;</span>Single-sided transitions&nbsp;</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To apply a single-sided transition, do the following:</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">In the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effects<span>&nbsp;</span></span>panel, find the transition you want to apply.&nbsp; Expand the Video Transitions or Audio Transitions bin. Then, expand the bin containing the transition you want to use.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">To place a transition on a single cut, Ctrl+drag (Win) or Cmd+drag (macOS) the transition into a Timeline panel. Release the mouse when you see either the End At Cut or Start At Cut icon.</p>
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;"><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">End At Cut icon</span>: Aligns the end of the transition to the end of the first clip.</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;"><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Start At Cut icon</span>: Aligns the beginning of the transition to the beginning of the second clip.</li>
+</ul>
+</div>
+</div>
+<div class="image parbase" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<div class="image-wrapper" title="Applying a single-sided transition" style="border: 0px; box-sizing: border-box; margin: 10px 0px 0px; background: none; padding: 0px; display: inline-block; width: 711.156px;">
+<div style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<figure class="dexter-Image dexter-Image-left    " style="margin-block: 0px; margin-inline: 0px; display: block; margin: 0px; border: 0px; box-sizing: border-box; text-align: left; line-height: inherit;">
+<div class="dexter-Image-tooltipContainer" data-overlay-content="Applying a single-sided transition" data-overlay-type="tooltip" style="border: 0px; box-sizing: border-box; display: block; margin-right: 0px !important; max-width: 100%; pointer-events: none;"><img id="root_content_flex_items_position_position-par_procedure_1_proc_par_step_1_step_par_image_446876849" data-src="/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image_446876849/single_sided_transition.png.img.png" src="https://helpx.adobe.com/content/dam/help/en/premiere-pro/using/transition-overview-applying-transitions/jcr_content/main-pars/image_446876849/single_sided_transition.png.img.png" title="Applying a single-sided transition" class=" dexter-LazyImage " alt="Apply a single-sided transition" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; vertical-align: top; max-width: 100%;" /></div>
+<figcaption style="display: block; border: 0px; box-sizing: border-box; margin: 8px 0px; font-style: italic;">Applying a single-sided transition</figcaption>
+</figure>
+</div>
+<p class="callouts" style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;"></p>
+</div>
+</div>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">To place a transition at the end of a clip that is not next to another clip, drag-and-drop the transition. Don&rsquo;t Ctrl+drag (Win) or Cmd+drag (macOS). The transition automatically becomes single-sided.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To preview the transition, play the sequence or drag the current-time indicator through the transition.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="set_and_apply_default_transitions" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">Set and apply default transitions</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can set a video transition and an audio transition as default transitions.&nbsp;&nbsp;Cross Dissolve and Constant Power Crossfade are preset as the video and audio default transitions.&nbsp;A blue outline marks default transition icon in the Effects panel.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">If you use another transition more frequently, you can set it as the default. When you change the default transition setting, you change the default for all projects. Changing the default transition doesn&rsquo;t affect transitions already applied to sequences.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; border-radius: 4px; margin: 20px 0px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word; font-weight: 400; font-style: normal !important;">If you want to apply the default transition to most or all the clips in a sequence, consider using the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Automate To Sequence</span><span>&nbsp;</span>command.<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; font-weight: bold;">Automate To Sequence</span><span>&nbsp;</span>places the default video and audio transition between all the clips it adds. For more information, see<span>&nbsp;</span><a href="https://helpx.adobe.com/id_en/premiere-pro/using/adding-clips-sequences.html#add_clips_to_a_sequence_automatically" target="_blank" disablelinktracking="false" daa-level="4" daa-lh="5" daa-ll="Add clips to a sequence automatically" style="background-color: transparent; border: 0px; box-sizing: border-box; color: #1473e6; text-decoration: none;" rel="noopener">Add clips to a sequence automatically</a>.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="set_a_default_transition" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Set a default transition</h2>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Window &gt; Effects<span>&nbsp;</span></span>and expand the Video Transitions or Audio Transitions bin.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Select the transition that you want to make the default.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Click the Menu button for the Effects panel, or right-click the transition.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Set Selected As Default Transition</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="set_the_duration_of_the_default_transition" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Set the duration of the default transition</h2>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Do one of the following:</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Edit &gt; Preferences &gt; Timeline</span>&nbsp;(Win), or<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Premiere Pro &gt; Preferences &gt; Timeline</span>&nbsp;(macOS).</p>
+</li>
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 6px 0px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 10px 0px !important 10px 0px;">Click the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Effects<span>&nbsp;</span></span>panel menu button. Choose<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Set Default Transition Duration</span>.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Change the value for the<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Video Transition Default Duration</span><span>&nbsp;</span>or<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Audio Transition Default Duration</span>, and then click<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">OK</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 id="apply_default_transitions_between_selected_clips" style="border: 0px; box-sizing: border-box; line-height: 1em; font-weight: 600; padding: 22px 0px 18px; margin: 0px; font-size: 24px;">Apply default transitions between selected clips</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can apply the default video and audio transitions to any selection of two or more clips. The default transitions are applied to every edit point where two selected clips touch. The placement does not depend upon the position of the current-time indicator or on whether the clips lie on targeted tracks. The default transitions are not applied where a selected clip touches a non-selected clip or no clip at all.</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">In the Timeline, select two or more clips. Shift-click clips, or draw a marquee over them, to select them.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Sequence &gt; Apply Default Transitions To Selection</span>.</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="copy_and_paste_a_transition" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">Copy and paste transitions</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">You can copy any transition in a sequence and paste it to any other cut line on a track of the same type: video transitions to video tracks, and audio transitions to audio tracks.</p>
+</div>
+</div>
+<div class="procedure parbase aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; float: left; width: 749.156px; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="procedure" style="border: 0px; box-sizing: border-box;">
+<div class="proc_par proc_parsys" style="border: 0px; box-sizing: border-box;">
+<div style="border: 0px; box-sizing: border-box;">
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">Select a transition in a sequence.</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Edit &gt; Copy</span>,&nbsp;or use the keyboard shortcut Ctrl+C (Win) or Cmd+C (macOS).</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Do one of the following:</p>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box; margin-right: 0px !important;">To copy a transition to a single clip:<span>&nbsp;</span></strong>Move the current-time indicator to the cut line where you want to paste the transition.</li>
+</ul>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;"><a name="step_par_text_0_copy" style="background-color: transparent; border: 0px; box-sizing: border-box; margin-right: 0px !important; color: #1473e6; text-decoration: none;"></a>
+<ul style="margin-block: 0px; margin-inline: 0px; border: 0px; box-sizing: border-box; margin: 0px 0px 15px; padding-left: 24px;">
+<li style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 0px 0px 6px; overflow-wrap: break-word; list-style-type: disc; padding-left: 2px; text-align: initial;"><strong style="font-weight: bolder; border: 0px; box-sizing: border-box; margin-right: 0px !important;">To copy a transition to multiple clips: S</strong>elect multiple edit points in the sequence by dragging a marquee around the edit points, or by using the Shift key with any trim tool.</li>
+</ul>
+</div>
+</div>
+<span>&nbsp;</span>
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="helpx-note" style="border: 2px solid #707070; box-sizing: border-box; margin: 20px 0px; border-radius: 4px; padding: 10px 20px; color: #707070;">
+<div class="note-header" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; display: flex; justify-content: space-between; align-items: center;"><span class="note-title" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-size: 14px; font-weight: 600; color: #2c2c2c;">Note:</span>
+<div class="note-icon" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; background:  0% 0% / 22px no-repeat; content: ' '; height: 22px; width: 22px; float: right; padding: 10px;"></div>
+</div>
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 14px; line-height: 1.5; overflow-wrap: break-word; font-weight: 400; font-style: normal !important; margin: 10px 0px !important 10px 0px;">If you paste a transition without selecting edit points, the transitions are pasted to edit points at or near the playhead, without overriding track targeting.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="step" style="border: 0px; box-sizing: border-box;">
+<ul>
+<li style="border: 0px; box-sizing: border-box; margin: 10px 0px; list-style-type: none; counter-increment: step-counter 1; padding: 2px 0px; position: relative; min-height: 20px;">
+<div class="step" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; margin-left: 18px;">
+<div class="text" style="border: 0px; box-sizing: border-box; display: inline-block; width: 711.156px; font-size: 16px; margin-right: 0px !important;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box; margin-right: 0px !important;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; overflow-wrap: break-word; margin: 0px 0px !important 10px 0px;">Select<span>&nbsp;</span><span class="uicontrol" style="border: 0px; box-sizing: border-box; margin-right: 0px !important; font-weight: bold;">Edit &gt; Paste</span>,&nbsp;or use the keyboard shortcut Ctrl+V (Win) or Cmd+V (macOS).</p>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<h2 class="section-title" id="replace_a_transition" style="border-width: 1px 0px 0px; border-image: initial; box-sizing: border-box; line-height: 1em; font-weight: 400; padding: 20px 0px 0px; margin: 32px 0px 20px; font-size: 32px; border-color: #dddddd initial initial initial; border-style: solid initial initial initial;">Replace a transition</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12" style="border: 0px; box-sizing: border-box; clear: none; padding: 0px; display: inline-block; width: 749.156px; font-size: 16px; float: left; color: #333333; font-family: adobe-clean, 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="cmp-text " daa-im="true" daa-lh="In Article|Article body" style="border: 0px; box-sizing: border-box;">
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">To replace a transition, drag the new video or audio transition from the Effects panel onto the existing transition in the sequence.</p>
+<p style="border: 0px; box-sizing: border-box; font-size: 16px; line-height: 1.5; margin: 10px 0px; overflow-wrap: break-word;">When you replace a transition, the alignment and duration are preserved. However, this discards the settings for the old transition and replaces it with the default settings for the new transition.</p>
+</div>
+</div>
+</body>
+</html>
