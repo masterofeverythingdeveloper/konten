@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Stylize</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>This Midjourney Bot has been trained to produce images that favor artistic color, composition, and forms. The <code data-backticks="1">--stylize</code> or <code data-backticks="1">--s</code> parameter influences how strongly this training is applied. Low stylization values produce images that closely match the prompt but are less artistic. High stylization values create images that are very artistic but less connected to the prompt.</h4>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p><code data-backticks="1">--stylize</code>'s default value is 100 and accepts integer values 0&ndash;1000 when using the default [V4 model].</p>
+</div>
+</section>
+<p></p>
+<p>Different <a href="https://docs.midjourney.com/models">Midjourney Version Models</a> have different stylize ranges.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Version 4</th>
+<th>Version 3</th>
+<th>Test / Testp</th>
+<th>niji</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stylize default</td>
+<td>100</td>
+<td>2500</td>
+<td>2500</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Stylize Range</td>
+<td>0&ndash;1000</td>
+<td>625&ndash;60000</td>
+<td>1250&ndash;5000</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<h2 id="common-stylize-settings">Common Stylize Settings</h2>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">illustrated figs --s 100</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--stylize 50</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stylize_0.jpg" alt="Midjourney style parameter example. Image of the prompt Vibrant California Poppies with style=50" data-tomark-pass="" data-lightbox="box" />
+<div class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Low</code></div>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--stylize 100</code> (default)</h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stylize_100.jpg" alt="Midjourney stylize parameter example. Image of the prompt Vibrant California Poppies with style=100" data-tomark-pass="" data-lightbox="box" />
+<div class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Med</code></div>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--stylize 250</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stylize_250.jpg" alt="Midjourney stylize parameter example. Image of the prompt Vibrant California Poppies with style=250" data-tomark-pass="" data-lightbox="box" />
+<div class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style High</code></div>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--stylize 750</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stylize_750.jpg" alt="Midjourney stylize parameter example. Image of the prompt Vibrant California Poppies with style=750" data-tomark-pass="" data-lightbox="box" />
+<div class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Very High</code></div>
+</div>
+</div>
+<hr />
+<h2 id="how-to-switch-stylization-values">How to Switch Stylization Values</h2>
+<h3 id="use-the-stylize-parameter">Use the Stylize Parameter</h3>
+<p>Add <code data-backticks="1">--stylize &lt;value&gt;</code> or <code data-backticks="1">--s &lt;value&gt;</code> to the end of your prompt.</p>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter_Style.gif" alt="Animated Gif showing how to use the Midjourney style parameter." data-tomark-pass="" data-lightbox="box" /></div>
+<br data-tomark-pass="" />
+<h3 id="use-the-settings-command">Use the Settings Command</h3>
+<p>Type <code data-backticks="1">/settings</code> and select your preferred stylize value from the menu.</p>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Low</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Med</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style High</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Very High</code></span></div>
+</div>
+</body>
+</html>

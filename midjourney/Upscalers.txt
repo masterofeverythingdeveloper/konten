@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Upscalers</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>Midjourney starts by generating a grid of low-resolution image options for each Job. You can use a Midjourney upscaler on any grid image to increase the size and add additional details. There are multiple upscale models available for upscaling an image.</h4>
+<p>The <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U4</code></span> buttons under each image grid are used to upscale the selected image.</p>
+<h3 id="midjourney-dimensions-and-sizes">Midjourney Dimensions and Sizes</h3>
+<p><em>All sizes are for square 1:1 aspect ratios.</em></p>
+<table>
+<thead>
+<tr>
+<th>Model Version</th>
+<th>Starting Grid Size</th>
+<th>V4 Default Upscaler</th>
+<th>Detail Upscale</th>
+<th>Light Upscale</th>
+<th>Beta Upscale</th>
+<th>Anime Upscale</th>
+<th>Max Upscale**</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Default Model</strong><br data-tomark-pass="" /><strong>Version 4</strong></td>
+<td><strong>512 x 512</strong></td>
+<td><strong>1024 x 1024</strong> *</td>
+<td><strong>1024 x 1024</strong></td>
+<td>1<strong>024 x 1024</strong></td>
+<td><strong>2048 x 2048</strong></td>
+<td><strong>1024 x 1024</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td>hd</td>
+<td>512 x 512</td>
+<td>-</td>
+<td>1536 x 1536*</td>
+<td>1536 x 1536</td>
+<td>2048 x 2048</td>
+<td>-</td>
+<td>1024 x 1024</td>
+</tr>
+<tr>
+<td>v1&ndash;v3</td>
+<td>256 x 256</td>
+<td>-</td>
+<td>1024 x 1024*</td>
+<td>1024 x 1024</td>
+<td>1024 x 1024</td>
+<td>1024 x 1024</td>
+<td>1664 x 1664</td>
+</tr>
+<tr>
+<td>niji</td>
+<td>512 x 512</td>
+<td>1024 x 1024</td>
+<td>1024 x 1024</td>
+<td>1024 x 1024</td>
+<td>2048 x 2048</td>
+<td>1024 x 1024</td>
+<td>-</td>
+</tr>
+<tr>
+<td>test / testp</td>
+<td>512 x 512</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2048 x 2048</td>
+<td>1024 x 1024*</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<p><code data-backticks="1">*</code> = the default upscaler for each Midjourney Version Model.<br /><code data-backticks="1">**</code> Max Upscale is an older resource-intensive upscaler and is only available when users are in Fast Mode.</p>
+<hr />
+<h2 id="regular-default-upscaler">Regular (Default) Upscaler</h2>
+<p>The latest default upscaler increases image size while smoothing or refining details. Some small elements may change between the initial grid image and the finished upscale.</p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">adorable rubber duck medieval knight</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Regular.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">sand cathedral</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Regular2.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<hr />
+<h2 id="light-upscaler">Light Upscaler</h2>
+<p>The Light Upscaler creates a 1024px x 1024px image and adds a moderate amount of details and textures. The Light Uspscaler is useful for faces and smooth surfaces when using older <a href="https://docs.midjourney.com/model-versions">Midjourney Model Versions</a>.</p>
+<p>Use the <code data-backticks="1">--uplight</code> parameter to change the behavior of the <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U4</code></span> upscale buttons to use the Light Upscaler.</p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">adorable rubber duck medieval knight</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_light.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">sand cathedral</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Light2.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<hr />
+<h2 id="detailed-upscaler">Detailed Upscaler</h2>
+<p>The Detail Upscaler, creates a 1024px x 1024px image and adds many additional fine details to the image.</p>
+<p>Images that have been upscaled with the detailed upscaler can be upscaled again using the <code data-backticks="1">Upscale to Max</code> button for a final resolution of 1664px x 1664px. <code data-backticks="1">Upscale to Max</code> is only available when in <span class="popover__title" data-glossary="Fast" data-glossaryid="cd0455f3-1a63-451a-a0df-8236e07f42b7">Fast</span> mode.</p>
+<p>The Detailed upscaler is the default for Midjourney Model Versions <code data-backticks="1">V1</code>, <code data-backticks="1">V2</code>, <code data-backticks="1">V3</code>, and <code data-backticks="1">hd</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">adorable rubber duck medieval knight</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Detailed.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">sand cathedral</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Detailed2.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<hr />
+<h2 id="beta-upscaler">Beta Upscaler</h2>
+<p>The Beta Upscaler creates a 2048px x 2048px image without adding many additional details. The Beta Uspcaler is useful for faces and smooth surfaces.</p>
+<p>Use the <code data-backticks="1">--upbeta</code> parameter to change the behavior of the <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U4</code></span> upscale buttons to use the Beta Upscaler.</p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">adorable rubber duck medieval knight</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_beta.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">sand cathedral</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Beta2.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<hr />
+<h2 id="anime-upscaler">Anime Upscaler</h2>
+<p>The Anime Upscaler is the default upscaler for the <a href="https://docs.midjourney.com/models"><code data-backticks="1">--niji</code> model</a>. It upsacles images to 1024px x 1024px and is optimized to work well with illustrated and anime styles.</p>
+<p>Use the <code data-backticks="1">--upanime</code> parameter to change the behavior of the <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U4</code></span> upscale buttons to use the Anime Upscaler.</p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">adorable rubber duck medieval knight</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_beta.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass="">prompt: <code data-tomark-pass="">sand cathedral</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Beta2.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<hr />
+<h2 id="remaster">Remaster</h2>
+<p>Remaster is an additional option for previously upscaled images made with the <code data-backticks="1">V1</code>, <code data-backticks="1">V2</code>, or <code data-backticks="1">V3</code> <a href="https://docs.midjourney.com/model-versions">Model Versions</a>. Remaster will upscale an image again using the <code data-backticks="1">--test</code> and <code data-backticks="1">--creative</code> parameters blending the composition of the original image and the coherency of the newer <code data-backticks="1">--test</code> model.</p>
+<p>Remaster any previously upscaled job by clicking the <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🆕  Remaster</code></span> button found beneth the original upscale.</p>
+<p>To Remaster very old jobs, use the <a href="https://docs.midjourney.com/v1/docs/show-job"><code data-backticks="1">/show</code> command</a> to refresh that job in Discord.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_RemasterEx.png" alt="Example of Remastered midjourney image" data-lightbox="box" /></p>
+<p>Left: Image upscaled with default upscaler. Right: Remastered Image.<br /><br data-tomark-pass="" /></p>
+<section class="infoBox">
+<div class="title">Remaster Notes</div>
+<div class="content">
+<ul>
+<li>Only works on <a href="https://docs.midjourney.com/docs/aspect-ratios">Aspect Ratio</a> up to 2:3 or 3:2</li>
+<li>Inconsistent results with <a href="https://docs.midjourney.com/docs/multi-prompts">Multi Prompts</a></li>
+<li>Does not work with <a href="https://docs.midjourney.com/v1/docs/image-prompts">Image Prompts</a>.</li>
+</ul>
+</div>
+</section>
+<hr />
+<h2 id="how-to-switch-upscalers">How to Switch Upscalers</h2>
+<h3 id="use-the-settings-command">Use the Settings Command</h3>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">⏫ Regular Upscale</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">⬆️ Light Upscale</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Beta Upscale</code></span></div>
+<p>Type <code data-backticks="1">/settings</code> and select your preferred upscaler from the menu.</p>
+<h3 id="use-an-upscaler-parameter">Use an Upscaler Parameter</h3>
+<p>Add <code data-backticks="1">--uplight</code>, <code data-backticks="1">--upbeta</code> or <code data-backticks="1">--upanime</code> to the end of your prompt.</p>
+<h3 id="use-an-upscale-redo-button">Use an Upscale Redo Button</h3>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">⏫ Regular Upscale</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">⬆️ Light Upscale</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Beta Upscale</code></span></div>
+<p>After you upscale an image you will see a row of buttons underneath the image that let you redo the upscale using a different upscaler model.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Upscaler_Interface.png" alt="Image showing the Midjourney light upscale redo and beta upscale redo buttons" data-lightbox="box" width="600px" /></p>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

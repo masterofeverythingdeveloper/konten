@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Discord Interface</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>You can interact with the Midjourney Bot on Discord. The Midjourney server has channels for working collaboratively, technical and billing support, official announcements, offering feedback, and discussions. The community is supportive, encouraging, and eager to share their knowledge with users just starting out.</h4>
+<h3 id="midjourney-discord-httpsdiscordggmidjourney">Midjourney Discord: <a href="https://discord.gg/midjourney"><code data-backticks="1">https://discord.gg/midjourney</code></a></h3>
+<hr />
+<h2 id="discord-interface">Discord Interface</h2>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_DiscordInterface.png" alt="Image of the Discord Interface and the official Midjourney Server" data-lightbox="box" /></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="server-list">Server List</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_servers.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass=""><strong data-tomark-pass="">Direct Messages</strong><br data-tomark-pass="" />Work one-on-one with the Midjourney Bot in your Direct Messages for a quieter experience.</p>
+<p data-tomark-pass=""><strong data-tomark-pass="">Midjourney Official Server</strong><br data-tomark-pass="" />The official Midjourney server with channels for collaboration and billing/technical support.</p>
+</div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="channel-list">Channel List</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_Channels.png" alt="Image of channels in the Midjourney Discord Server" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass=""><strong data-tomark-pass="">#trial-support</strong><br data-tomark-pass="" />Visit this channel for billing and technical support from Midjourney Guides.</p>
+<p data-tomark-pass=""><strong data-tomark-pass="">#newbies</strong><br data-tomark-pass="" />Visit any #newbies channel to create images.</p>
+</div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="member-list">Member List</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_members.png" alt="Image of the Member List on the Midjourney Discord Server" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass=""><strong data-tomark-pass="">Midjourney Bot</strong><br data-tomark-pass="" />The bot that produces images with the <code data-tomark-pass="">/imagine</code> command</p>
+<p data-tomark-pass=""><strong data-tomark-pass="">Moderators and Guides</strong><br data-tomark-pass="" />Moderators and Guides can help with billing and technical problems in the support channels.</p>
+</div>
+</div>
+<hr />
+<h2 id="image-grids">Image Grids</h2>
+<p>The <code data-backticks="1">/imagine</code> command produces a grid of low-resolution image options based on your prompt. Use the buttons under each image grid to create variations of an image, upscale an image, or rerun the last Midjourney Bot action.</p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_DiscordInterface%281%29.png" alt="Image of the image generation interface on discord" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="upscale-buttons"><span style="color: #7aa523;" data-tomark-pass="">Upscale Buttons</span></h3>
+<p data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U4</code></span> U buttons <a href="https://docs.midjourney.com/docs/upscalers" data-tomark-pass="">upscale</a> an image generating a larger version of the selected image and adding more details.</p>
+<p></p>
+<h3 data-tomark-pass="" id="redo"><span style="color: #d77720;" data-tomark-pass="">Redo</span></h3>
+<p></p>
+<p data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass=""> 🔄</code></span> The redo (re-roll) button reruns a job. In this case, it would rerun the original prompt producing a new grid of images.</p>
+<p></p>
+<h3 data-tomark-pass="" id="variation-buttons"><span style="color: #8cb1ef;" data-tomark-pass="">Variation Buttons</span></h3>
+<p></p>
+<p data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">V1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">V2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">V3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">V4</code></span> V buttons create incremental variations of the selected grid image. Creating a variation generates a new image grid similar to the chosen image's overall style and composition.</p>
+</div>
+</div>
+<hr />
+<h2 id="upscaled-images">Upscaled Images</h2>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_DiscordUpscale.png" alt="Image of the upscaled image interface on discord" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="upscale-redo-buttons"><span style="color: #7aa523;" data-tomark-pass="">Upscale Redo Buttons</span></h3>
+<p data-tomark-pass=""></p>
+<div class="buttonrow" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🪄 Make Variations</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔍 Light Upscale Redo</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔍 Beta Upscale Redo</code></span></div>
+<p data-tomark-pass="">Redo the image using a different <a href="https://docs.midjourney.com/upscalers" data-tomark-pass="">upscaler</a></p>
+<p></p>
+<h3 data-tomark-pass="" id="view-on-the-web"><span style="color: #d77720;" data-tomark-pass="">View on the Web</span></h3>
+<p></p>
+<p data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">↗️Web</code></span> View this image on the Midjourney website</p>
+<p></p>
+<h3 data-tomark-pass="" id="image-ratings"><span style="color: #8cb1ef;" data-tomark-pass="">Image Ratings</span></h3>
+<p></p>
+<p data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">😖</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">😒</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🙂</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">😍</code></span> Rate images you love or hate with the emojis. Images rated highly may appear on the trending section of the Midjourney website. Subscribers can earn a free Fast GPU hour daily by rating images. <a href="https://docs.midjourney.com/free-hours" data-tomark-pass="">A bonus Fast hour is awarded to the top 1000 raters each day.</a></p>
+</div>
+</div>
+<p></p>
+<hr />
+<h2 id="direct-messages">Direct Messages</h2>
+<p>If the #general or #newbie channels are moving too fast, Midjouney subscribers can work one-on-one with the Midjourney Bot in their Discord Direct Messages.<br /><a href="https://docs.midjourney.com/docs/direct-messages">Learn how to direct message the Midjourney Bot</a></p>
+<hr />
+<h2 id="emoji-reactions">Emoji Reactions</h2>
+<p>React with different emojis to Midjourney Jobs to send images to your Direct Messages, cancel a job in progress, or delete an image.<br /><a href="https://docs.midjourney.com/discord-emoji-reactions">Learn how to use emoji reactions.</a></p>
+<hr />
+<h2 id="daily-theme-channel">Daily Theme Channel</h2>
+<p>Participate in a fun themed group image generation in the <a href="https://discord.com/channels/662267976984297473/945077390839787570">#daily-theme channel</a>. Look for the day's theme next to the channel's name. All generations must include one of the day's keywords.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_DailyTheme.png" alt="Image showing the Midjourney Daily Theme channel" data-lightbox="box" /></p>
+<section class="infoBox">
+<div class="title">Turn off the daily theme notification</div>
+<div class="content">
+<p>Want to avoid the daily notification from the daily theme channel? Use the <code data-backticks="1">/daily_theme</code> command to turn off notifications for that channel.</p>
+</div>
+</section>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

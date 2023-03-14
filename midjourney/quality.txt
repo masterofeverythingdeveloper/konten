@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Quality</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>The <code data-backticks="1">--quality</code> or <code data-backticks="1">--q</code> parameter changes how much time is spent generating an image. Higher-quality settings take longer to process and produce more details. Higher values also mean more GPU minutes are used per job. The quality setting does not impact resolution.</h4>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p><code data-backticks="1">--quality</code> accepts the values: .25, .5, and 1 for the default model.<br />The default <code data-backticks="1">--quality</code> value is 1. Higher values use more of your subscription's <span class="popover__title" data-glossary="GPU minute" data-glossaryid="ec037fba-cbdf-4d1e-826e-3dfa9d0d1ff4">GPU minute</span>s.<br /><code data-backticks="1">--quality</code> only influences the initial image generation.<br /><code data-backticks="1">--quality</code> works with <a href="https://docs.midjourney.com/models">Model Versions</a> 1, 2, 3, 4, and niji.</p>
+</div>
+</section>
+<hr />
+<h2 id="common-quality-settings">Common Quality Settings</h2>
+<p>Higher <code data-backticks="1">--quality</code> settings aren't always better. Sometimes a lower <code data-backticks="1">--quality</code> settings can produce better results&mdash;depending on the image you're trying to create. Lower <code data-backticks="1">--quality</code> settings might be best for a gestural abstract look. Higher <code data-backticks="1">--quality</code> values may improve the look of architectural images that benefit from many details. Choose the setting that best matches the kind of image you're hoping to create.</p>
+<p>Prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">woodcut birch forest --q .25</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--quality .25</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_025.jpg" alt="Example of Midjourney image generated with a quality setting of .25" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">quickest results, least detailed results</p>
+<em data-tomark-pass="">4&times; faster and &frac14; the GPU minutes.</em></div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--quality .5</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_05.jpg" alt="Example of Midjourney image generated with a quality setting of .5" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">less detailed results</p>
+<em data-tomark-pass="">2&times; faster and &frac12; the GPU minutes.</em>
+<div class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Half Quality</code></div>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--quality 1</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Quality_1.jpg" alt="Example of Midjourney image generated with a quality setting of 1" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">the default setting</p>
+<div class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Base Quality</code></div>
+<em data-tomark-pass=""></em></div>
+</div>
+<hr />
+<h3 id="version-quality-compatibility">Version Quality Compatibility</h3>
+<table>
+<thead>
+<tr>
+<th>Model Version</th>
+<th>Quality .25</th>
+<th>Quality .5</th>
+<th>Quality 1</th>
+<th>Quality 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Version 1</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Version 2</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Version 3</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Version 4</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>-</td>
+</tr>
+<tr>
+<td>niji</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<h2 id="how-to-use-the-quality-parameter">How to Use the Quality Parameter</h2>
+<h3 id="use-the-quality-or-q-parameter">Use the <code data-backticks="1">--quality</code> or <code data-backticks="1">--q</code> Parameter</h3>
+<p>Add <code data-backticks="1">--quality &lt;value&gt;</code> or <code data-backticks="1">--q &lt;value&gt;</code> to the end of your prompt.</p>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter_Quality.gif" alt="Animated Gif showing how the Midjourney quality parameter is typed" data-tomark-pass="" data-lightbox="box" /></div>
+<br data-tomark-pass="" />
+<h3 id="use-the-settings-command">Use the Settings Command</h3>
+<p>Type <code data-backticks="1">/settings</code> and select your preferred <code data-backticks="1">quality</code> value from the menu.</p>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Half Quality</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Base Quality</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 High Quality (2x cost)</code></span></div>
+</div>
+</body>
+</html>

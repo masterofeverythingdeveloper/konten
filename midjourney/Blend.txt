@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Blend</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>The <code data-backticks="1">/blend</code> command allows you to upload 2&ndash;5 images quickly and then looks at the concepts and aesthetics of each image and merges them into a novel new image.</h4>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p><code data-backticks="1">/blend</code> is the same as using multiple <a href="https://docs.midjourney.com/image-prompts">image prompts</a> with <code data-backticks="1">/imagine</code>, but the interface is optimized for easy use on mobile devices.<br /><code data-backticks="1">/blend</code> works with up to 5 images. To use more than 5 images in a prompt use <a href="https://docs.midjourney.com/image-prompts">image prompts</a> with <code data-backticks="1">/imagine</code><br /><code data-backticks="1">/blend</code> does not work with text prompts. To use text and image prompts together, use <a href="https://docs.midjourney.com/image-prompts">image prompts</a> and text with <code data-backticks="1">/imagine</code></p>
+</div>
+</section>
+<hr />
+<h2 id="blend-options"><code data-backticks="1">/blend</code> Options</h2>
+<p>After typing the <code data-backticks="1">/blend</code> command, you will be prompted to upload two photos. Drag and drop images from your hard drive or add images from your photo library when using a mobile device. To add more images, select the <code data-backticks="1">optional/options</code> field and select <code data-backticks="1">image3</code>, <code data-backticks="1">image4</code>, or <code data-backticks="1">image5</code>. The <code data-backticks="1">/blend</code> command may take longer to start than other commands because your images must be uploaded before the Midjourney Bot can process your request.</p>
+<p>Blended images have a default <a href="https://docs.midjourney.com/v1/docs/aspect-ratios">1:1 aspect ratio</a>, but you can use the optional <code data-backticks="1">dimensions</code> field to select between a square aspect ratio (1:1), portrait aspect ration (2:3), or landscape aspect ratio (3:2).</p>
+<p><a href="https://docs.midjourney.com/v1/docs/settings-and-presets">Custom suffixes</a> are added to the end of <code data-backticks="1">/blend</code> prompts, like any other <code data-backticks="1">/imagine</code> prompt. Aspect ratios specified as part of the <code data-backticks="1">/blend</code> command override aspect ratios within a custom suffix.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Blend_Interface.png" alt="Image showing the discord app interface for the Midjourney /blend command" data-lightbox="box" /></p>
+<br />
+<section class="infoBox">
+<div class="title">Blending Tip</div>
+<div class="content">
+<p>For the best results, upload images that are the same aspect ratio as your desired result.</p>
+</div>
+</section>
+<hr />
+<h2 id="how-to-use-blend">How to Use <code data-backticks="1">/blend</code></h2>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Blend.gif" alt="animated gif showing how to use the Midjourney blend command" data-lightbox="box" /></p>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

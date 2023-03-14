@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Explore Prompting</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>Even short single-word prompts will produce beautiful images in Midjourney's default style, but you can create more interesting personalized results by combining concepts like artistic medium, historical periods, location, and more.</h4>
+<hr />
+<h2 id="pick-a-medium">Pick A Medium</h2>
+<p>Break out the paint, crayons, scratchboard, printing presses, glitter, ink, and colored paper. One of the best ways to generate a stylish image is by specifying an artistic medium.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">&lt;any art style&gt; style cat</code></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><strong data-tomark-pass="">Block Print</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Blockprint_Cat.jpeg" alt="Example Midjourney image of a woodblock cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Folk Art</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Folkart.jpeg" alt="Example Midjourney image of a folkart cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Cyanotype</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Cyanotype.jpeg" alt="Example Midjourney image of a cyanotype cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Graffiti</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Graffiti.jpeg" alt="Example Midjourney image of a graffiti cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Paint-by-Numbers</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Paint-by-numbers.jpeg" alt="Example Midjourney image of a Paint by Numbers cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Risograph</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Risograph.jpeg" alt="Example Midjourney image of a risograph cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Ukiyo-e</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_UkiyoE.jpg" alt="Example Midjourney image of a Ukiyo-e cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Pencil Sketch</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_Pencilsketch.jpg" alt="Example Midjourney image of a pencil sketch cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Watercolor</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cat_watercolor.jpeg" alt="Example Midjourney image of a watercolor cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Pixel Art</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_pixelArt.jpeg" alt="Example Midjourney image of a Pixel Art cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Blacklight Painting</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_blacklight.jpeg" alt="Example Midjourney image of a Blacklight Painting cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Cross Stitch</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_crossStitch.jpeg" alt="Example Midjourney image of a cross stitch cat" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<hr />
+<h2 id="get-specific">Get Specific</h2>
+<p>More precise words and phrases will help create an image with exactly the right look and feel.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">&lt;style&gt; sketch of a cat</code></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><strong data-tomark-pass="">Life Drawing</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_lifeDrawingSketch.jpeg" alt="Example Midjourney image of a life drawing sketch of a cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Continuous Line</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_continuousLine.jpeg" alt="Example Midjourney image of a continuous line sketch of a cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Loose Gestural</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_looseGesturalSketch.jpeg" alt="Example Midjourney image of a Loose Gestural sketch of a cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Blind Contour</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_blindContour.jpeg" alt="Example Midjourney image of a blind contour sketch of a cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Value Study</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_valueStudy.jpeg" alt="Example Midjourney image of a value study sketch of a cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Charcoal Sketch</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_Charcoal.jpeg" alt="Example Midjourney image of a charcoal sketch of a cat" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<p></p>
+<hr />
+<h2 id="time-travel">Time Travel</h2>
+<p>Different eras have distinct visual styles.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">&lt;decade&gt; cat illustration</code></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><strong data-tomark-pass="">1700s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1750.jpeg" alt="Midjourney image of a 1750s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1800s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1800.jpeg" alt="Midjourney image of a 1800s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1900s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1900.jpeg" alt="Midjourney image of a 1900s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1910s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1910.jpeg" alt="Midjourney image of a 1910s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1920s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1920.jpeg" alt="Midjourney image of a 1920s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1930s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1930.jpeg" alt="Midjourney image of a 1930s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1940s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1940.jpeg" alt="Midjourney image of a 1940s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1950s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1950.jpeg" alt="Midjourney image of a 1950s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1960s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1960.jpeg" alt="Midjourney image of a 1960s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1970s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1970.jpeg" alt="Midjourney image of a 1970s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1980s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1980.jpeg" alt="Midjourney image of a 1980s cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">1990s</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_cat_1990.jpeg" alt="Midjourney image of a 1990s cat" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<br data-tomark-pass="" /><hr />
+<h2 id="emote">Emote</h2>
+<p>Use emotion words to give characters personality.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">&lt;emotion&gt; cat</code></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><strong data-tomark-pass="">Determined</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Determined_cat.jpeg" alt="Midjourney image of a Determined cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Happy</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Happy_Cat.jpeg" alt="Midjourney image of a Determined cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Sleepy</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Sleepy_Cat.jpeg" alt="Midjourney image of a Determined cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Angry</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Angry_Cat.jpeg" alt="Midjourney image of an Angry cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Shy</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Shy_cat.jpeg" alt="Midjourney image of a Shy cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Embarassed</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Embarassed_Cat.jpeg" alt="Midjourney image of an embarassed cat" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<br data-tomark-pass="" /><hr />
+<h2 id="get-colorful">Get Colorful</h2>
+<p>Use emotion words to give characters personality.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">&lt;color word&gt; colored cat</code></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><strong data-tomark-pass="">Millennial Pink</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_MillenialPink_Cat.jpeg" alt="Midjourney image of a millennial pink cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Acid Green</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Acid_Cat.jpeg" alt="Midjourney image of an acid green cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Desaturated</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desaturated_cat.jpeg" alt="Midjourney image of a desaturated cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Canary Yellow</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Canary_Cat.jpeg" alt="Midjourney image of a canary yellow colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Peach</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Peach_Cat.jpeg" alt="Midjourney image of a peach colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Two Toned</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Twotoned_cat.jpeg" alt="Midjourney image of a two-toned colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Pastel</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Pastel_cat.jpeg" alt="Midjourney image of a pastel colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Mauve</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mauve_Cat.jpeg" alt="Midjourney image of a mauve colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Ebony</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Ebony_Cat.jpeg" alt="Midjourney image of a ebony colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Neutral</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Neutral_Cat.jpeg" alt="Midjourney image of a neutral colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Day Glo</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Dayglow_Cat.jpeg" alt="Midjourney image of a DayGlo colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Green Tinted</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Greentinted_Cat.jpeg" alt="Midjourney image of green-tinted colored cat" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<br data-tomark-pass="" /><hr />
+<h2 id="enviromental-exploration">Enviromental Exploration</h2>
+<p>Different environments can set unique moods.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">&lt;location&gt; cat</code></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><strong data-tomark-pass="">Tundra</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Tundra_Cat.jpg" alt="Midjourney image of a moutnain cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Salt Flat</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Saltflat_Cat.jpg" alt="Midjourney image of a salt flat cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Jungle</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Jungle_Cat.jpg" alt="Midjourney image of a Jungle cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Desert</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Desert_Cat.jpg" alt="Midjourney image of a desert cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Mountain</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Mountain_Cat.jpg" alt="Midjourney image of a mountain cat" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass="">Cloud Forest</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Cloudforest_Cat.jpg" alt="Midjourney image of a cloud forest cat" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<div class="mobile-tryit"></div>
+</div>
+<div class="sperator sperator-both"><hr /></div>
+<div class="article-vote-container" id="doc_review_container" dir="auto">
+<div class="txt"></div>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

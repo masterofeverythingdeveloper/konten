@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Chaos</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>The <code data-backticks="1">--chaos</code> or <code data-backticks="1">--c</code> parameter influences how varied the initial image grids are. High <code data-backticks="1">--chaos</code> values will produce more unusual and unexpected results and compositions. Lower <code data-backticks="1">--chaos</code> values have more reliable, repeatable results.</h4>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p><code data-backticks="1">--chaos</code> accepts values 0&ndash;100.<br />The default <code data-backticks="1">--chaos</code> value is 0.</p>
+</div>
+</section>
+<hr />
+<h2 id="the-influence-of-chaos-on-jobs">The Influence of Chaos on Jobs</h2>
+<h3 id="low-chaos-values">Low <code data-backticks="1">--chaos</code> values</h3>
+<p>Using a low <code data-backticks="1">--chaos</code> value, or not specifying a value, will produce initial image grids that are slightly varied each time a <span class="popover__title" data-glossary="Job" data-glossaryid="4ca91c3e-a953-4ca4-a4c9-03fff744ef98">Job</span> is run.</p>
+<p>prompt example: <code data-backticks="1">imagine/ prompt</code> <code data-backticks="1">watermelon owl hybrid</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_0_1.jpg" alt="Example of Midjourney job run with the chaos parameter 0" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_0_2.jpg" alt="Example of Midjourney job run with the chaos parameter 0" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_0_4.jpg" alt="Example of Midjourney job run with the chaos parameter 0" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_0_5.jpg" alt="Example of Midjourney job run with the chaos parameter 0" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<p></p>
+<h3 id="high-chaos-values">High <code data-backticks="1">--chaos</code> Values</h3>
+<p>Using a higher <code data-backticks="1">--chaos</code> value will produce initial image grids that are more varied and unexpected each time a <span class="popover__title" data-glossary="Job" data-glossaryid="4ca91c3e-a953-4ca4-a4c9-03fff744ef98">Job</span> is run.</p>
+<p>prompt example: <code data-backticks="1">imagine/ prompt</code> <code data-backticks="1">watermelon owl hybrid --c 50</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_50_1.jpg" alt="Example of Midjourney job run with the chaos parameter 50" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_50_2.jpg" alt="Example of Midjourney job run with the chaos parameter 50" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_50_4.jpg" alt="Example of Midjourney job run with the chaos parameter 50" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_50_6.jpg" alt="Example of Midjourney job run with the chaos parameter 50" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<p></p>
+<h3 id="very-high-chaos-values">Very High <code data-backticks="1">--chaos</code> Values</h3>
+<p>Using extremely high <code data-backticks="1">--chaos</code> values will produce initial image grids that are varied and have unexpected compositions or artistic mediums each time a <span class="popover__title" data-glossary="Job" data-glossaryid="4ca91c3e-a953-4ca4-a4c9-03fff744ef98">Job</span> is run.</p>
+<p>prompt example: <code data-backticks="1">imagine/ prompt</code> <code data-backticks="1">watermelon owl hybrid --c 100</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_100_4.jpg" alt="Example of Midjourney job run with the chaos parameter 100" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_100_3.jpg" alt="Example of Midjourney job run with the chaos parameter 100" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_100_2.jpg" alt="Example of Midjourney job run with the chaos parameter 100" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Chaos_100_1.jpg" alt="Example of Midjourney job run with the chaos parameter 100" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<hr />
+<h2 id="how-to-change-the-chaos-value">How to Change the Chaos Value</h2>
+<h3 id="use-the-chaos-or-c-parameter">Use the <code data-backticks="1">--chaos</code> or <code data-backticks="1">--c</code> Parameter</h3>
+<p>Add <code data-backticks="1">--chaos &lt;value&gt;</code> or <code data-backticks="1">--c &lt;value&gt;</code> to the end of your prompt.</p>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter_Chaos.gif" alt="Animated Gif showing how the Midjourney chaos parameter is typed" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+</body>
+</html>

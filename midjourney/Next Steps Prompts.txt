@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Prompts</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>A Prompt is a short text phrase that the Midjourney Bot interprets to produce an image. The Midjourney Bot breaks down the words and phrases in a prompt into smaller pieces, called tokens, that can be compared to its training data and then used to generate an image. A well-crafted prompt can help make unique and exciting images.</h4>
+<h2 id="structure">Structure</h2>
+<h3 id="basic-prompts">Basic Prompts</h3>
+<p>A basic prompt can be as simple as a single word, phrase or emoji</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Prompt_basic.png" alt="Image showing the Midjourney prompt structure." data-lightbox="box" width="400px" /></p>
+<h3 id="advanced-prompts">Advanced Prompts</h3>
+<p>More advanced prompts can include one or more <a href="https://docs.midjourney.com/image-prompts">image URLs</a>, <a href="https://docs.midjourney.com/multi-prompts">multiple text phrases</a>, and one or more <a href="https://docs.midjourney.com/parameter-list">parameters</a></p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ%20Prompt.png" alt="Image showing the Midjourney prompt structure." data-lightbox="box" /></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<div class="discordbtn" data-tomark-pass=""><code class="green" data-tomark-pass="">Image Prompts</code></div>
+<p data-tomark-pass="">Image URLs can be added to a prompt to influence the style and content of the finished result. Image URLs always go at the front of a prompt.</p>
+<p data-tomark-pass=""><a href="https://docs.midjourney.com/image-prompts" data-tomark-pass="">Read more about Image Prompts</a></p>
+</div>
+<div data-tomark-pass="">
+<div class="discordbtn" data-tomark-pass=""><code class="purple" data-tomark-pass="">Prompt Text</code></div>
+<p data-tomark-pass="">The text description of what image you want to generate. See below for prompting information and tips. Well-written prompts help generate amazing images.</p>
+</div>
+<div data-tomark-pass="">
+<div class="discordbtn" data-tomark-pass=""><code class="orange" data-tomark-pass="">Parameters</code></div>
+<p data-tomark-pass="">Parameters change how an image generates. Parameters can change aspect ratios, models, upscalers, and lots more. Parameters go at the end of the prompt.</p>
+<p data-tomark-pass=""><a href="https://docs.midjourney.com/parameter-list" data-tomark-pass="">Read more about Parameters</a></p>
+</div>
+</div>
+<p></p>
+<hr />
+<h2 id="prompting-notes">Prompting Notes</h2>
+<h3 id="prompt-length">Prompt Length</h3>
+<p>Prompts can be very simple. Single words (or even an emoji!) will produce an image. Very short prompts will rely heavily on Midjourney&rsquo;s default style, so a more descriptive prompt is better for a unique look. However, super-long prompts aren&rsquo;t always better. Concentrate on the main concepts you want to create.</p>
+<p></p>
+<h3 id="grammar">Grammar</h3>
+<p>The Midjourney Bot does not understand grammar, sentence structure, or words like humans. Word choice also matters. More specific synonyms work better in many circumstances. Instead of big, try gigantic, enormous, or immense. Remove words when possible. Fewer words mean each word has a more powerful influence. Use commas, brackets, and hyphens to help organize your thoughts, but know the Midjourney Bot will not reliably interpret them. The Midjourney Bot does not consider capitalization.</p>
+<p>Midjourney <a href="https://docs.midjourney.com/models">Model Version</a> 4 is slightly better than other models at interpreting traditional sentence structure.</p>
+<p></p>
+<h3 id="focus-on-what-you-want">Focus on What you Want</h3>
+<p>It is better to describe what you want instead of what you don&rsquo;t want. If you ask for a party with &ldquo;no cake,&rdquo; your image will probably include a cake. If you want to ensure an object is not in the final image, try advance prompting using the <a href="https://docs.midjourney.com/multi-prompts"><code data-backticks="1">--no</code> parameter</a>.</p>
+<p></p>
+<h3 id="think-about-what-details-matter">Think About What Details Matter</h3>
+<p>Anything left unsaid may suprise you. Be as specific or vague as you want, but anything you leave out will be randomized. Being vague is a great way to get variety, but you may not get the specific details you want.</p>
+<p><strong>Try to be clear about any context or details that are important to you. Think about:</strong></p>
+<ul>
+<li><strong>Subject:</strong> person, animal, character, location, object, etc.</li>
+<li><strong>Medium:</strong> photo, painting, illustration, sculpture, doodle, tapestry, etc.</li>
+<li><strong>Environment:</strong> indoors, outdoors, on the moon, in Narnia, underwater, the Emerald City, etc.</li>
+<li><strong>Lighting:</strong> soft, ambient, overcast, neon, studio lights, etc</li>
+<li><strong>Color:</strong> vibrant, muted, bright, monochromatic, colorful, black and white, pastel, etc.</li>
+<li><strong>Mood:</strong> Sedate, calm, raucous, energetic, etc.</li>
+<li><strong>Composition:</strong> Portrait, headshot, closeup, birds-eye view, etc.</li>
+</ul>
+<p></p>
+<h3 id="use-collective-nouns">Use Collective Nouns</h3>
+<p>Plural words leave a lot to chance. Try specific numbers. "Three cats" is more specific than "cats." Collective nouns also work, &ldquo;flock of birds&rdquo; instead of "birds.&rdquo;</p>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

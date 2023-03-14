@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Aspect Ratios</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>The <code data-backticks="1">--aspect</code> or <code data-backticks="1">--ar</code> parameter changes the aspect ratio of the generated image. An aspect ratio is the width-to-height ratio of an image. It is typically expressed as two numbers separated by a colon, such as 7:4 or 4:3.</h4>
+<p>A square image has equal width and height, described as a 1:1 aspect ratio. The image could be 1000px &times; 1000px, or 1500px &times; 1500px, and the aspect ratio would still be 1:1. A computer screen might have a ratio of 16:10. The width is 1.6 times longer than the height. So the image could be 1600px &times; 1000px, 4000px &times; 2000px, 320px x 200px, etc.</p>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p>The default aspect ratio is 1:1.<br /><code data-backticks="1">--aspect</code> must use whole numbers. Use 139:100 instead of 1.39:1.<br />The aspect ratio impacts the shape and composition of a generated image.<br />Some aspect ratios may be slightly changed when upscaling.</p>
+</div>
+</section>
+<hr />
+<h3 id="max-aspect-ratios">Max Aspect Ratios</h3>
+<p>Different <a href="https://docs.midjourney.com/models">Midjourney Version Models</a> have different maximum aspect ratios.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Version 4c (default)</th>
+<th>Version 4a or 4b</th>
+<th>Version 3</th>
+<th>Test / Testp</th>
+<th>niji</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ratios</td>
+<td>1:2 to 2:1</td>
+<td>Only: 1:1, 2:3 or 3:2</td>
+<td>5:2 to2:5</td>
+<td>3:2 to 2:3</td>
+<td>1:2 to 2:1</td>
+</tr>
+</tbody>
+</table>
+<p>The <code data-backticks="1">--ar</code> parameter will accept any aspect ratio from 1:1 (square) up to the maximum aspect ratio for each model. However, final outputs may be slightly modified during image generation or upscaling. Example: prompts using <code data-backticks="1">--ar 16:9</code> (1.78) create images with a <code data-backticks="1">7:4</code> (1.75) aspect ratio.</p>
+<p></p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_AspectRatioChart.png" alt="Comparison of common Midjourney Aspect Ratios" data-lightbox="box" /></p>
+<p>prompt example: <code data-backticks="1">imagine/ prompt</code> <code data-backticks="1">vibrant california poppies --ar 5:4</code></p>
+<p></p>
+<h3 id="common-midjourney-aspect-ratios">Common Midjourney Aspect Ratios</h3>
+<p><code data-backticks="1">--aspect 1:1</code> Default aspect ratio.<br /><code data-backticks="1">--aspect 5:4</code> Common frame and print ratio.<br /><code data-backticks="1">--aspect 3:2</code> Common in print photography.<br /><code data-backticks="1">--aspect 7:4</code> Close to HD TV screens and smartphone screens.</p>
+<hr />
+<h2 id="how-to-change-the-aspect-ratio">How to Change the Aspect Ratio</h2>
+<h3 id="use-aspect-ratio-parameters">Use Aspect Ratio Parameters</h3>
+<p>Add <code data-backticks="1">--aspect &lt;value&gt;:&lt;value&gt;</code>, or <code data-backticks="1">--ar &lt;value&gt;:&lt;value&gt;</code> to the end of your prompt.<br /><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter_Aspect.gif" alt="Animated Gif showing how the Midjourney version parameter is typed" data-lightbox="box" /></p>
+</div>
+</body>
+</html>

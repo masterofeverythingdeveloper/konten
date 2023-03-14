@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Command List</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>You can interact with the Midjourney Bot on Discord by typing a <span class="popover__title" data-glossary="Command" data-glossaryid="676fee7d-58c0-4c9f-a2cf-06a66e145aff">Command</span>. Commands are used to create images, change default settings, monitor user info, and perform other helpful tasks.</h4>
+<p>Midjourney Commands can be used in any <span class="popover__title" data-glossary="Bot Channel" data-glossaryid="8a726e76-0f37-472c-a5a7-24e81899dfb2">Bot Channel</span>, on private Discord servers where the Midjourney Bot has been permitted to operate, or in a direct message with the Midjourney Bot.</p>
+<h2 id="commands">Commands</h2>
+<h3 id="ask">/ask</h3>
+<p>Get an answer to a question.</p>
+<h3 id="blend"><a href="https://docs.midjourney.com/blend">/blend</a></h3>
+<p>Easily blend two images together.</p>
+<h3 id="daily_theme">/daily_theme</h3>
+<p>Toggle notification pings for the #daily-theme channel update</p>
+<h3 id="fast"><a href="https://docs.midjourney.com/fast-relax">/fast</a></h3>
+<p>Switch to Fast mode.</p>
+<h3 id="help">/help</h3>
+<p>Shows helpful basic information and tips about the Midjourney Bot.</p>
+<h3 id="imagine"><a href="https://docs.midjourney.com/quick-start">/imagine </a></h3>
+<p>Generate an image using a prompt</p>
+<h3 id="info"><a href="https://docs.midjourney.com/info">/info</a></h3>
+<p>View information about your account and any queued or running jobs.</p>
+<h3 id="stealth"><a href="https://docs.midjourney.com/stealth">/stealth</a></h3>
+<p>For Pro Plan Subscribers: switch to Stealth Mode</p>
+<h3 id="public"><a href="https://docs.midjourney.com/stealth">/public</a></h3>
+<p>For Pro Plan Subscribers: switch to Public Mode</p>
+<h3 id="subscribe"><a href="https://docs.midjourney.com/plans">/subscribe</a></h3>
+<p>Generate a personal link for a user's account page.</p>
+<h3 id="settings"><a href="https://docs.midjourney.com/settings-and-presets">/settings </a></h3>
+<p>View and adjust the Midjourney Bot's settings</p>
+<h3 id="prefer-option"><a href="https://docs.midjourney.com/settings-and-presets">/prefer option</a></h3>
+<p>Create or manage a custom option.</p>
+<h3 id="prefer-option-list"><a href="https://docs.midjourney.com/settings-and-presets">/prefer option list</a></h3>
+<p>View your current custom options.</p>
+<h3 id="prefer-suffix"><a href="https://docs.midjourney.com/settings-and-presets">/prefer suffix </a></h3>
+<p>Specify a suffix to add to the end of every prompt.</p>
+<h3 id="show"><a href="https://docs.midjourney.com/show-job">/show</a></h3>
+<p>Use an images Job ID to regnerate within Discord.</p>
+<h3 id="relax"><a href="https://docs.midjourney.com/fast-relax">/relax </a></h3>
+<p>Switch to Relax mode.</p>
+<h3 id="remix"><a href="https://docs.midjourney.com/remix">/remix </a></h3>
+<p>Toggle Remix mode.</p>
+<p></p>
+<hr />
+<h2 id="deprecated">Deprecated</h2>
+<p>/private (replaced with '/stealth')<br />/pixels<br />/idea</p>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

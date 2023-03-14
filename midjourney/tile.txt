@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Tile</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>The <code data-backticks="1">--tile</code> parameter generates images that can be used as repeating tiles to create seamless patterns for fabrics, wallpapers and textures.</h4>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p><code data-backticks="1">--tile</code> works with <a href="https://docs.midjourney.com/models">Model Versions</a> <code data-backticks="1">1</code>, <code data-backticks="1">2</code>, <code data-backticks="1">3</code>.<br /><code data-backticks="1">--tile</code> only generates a single tile. Use a pattern making tool like this <a href="https://www.pycheung.com/checker/" target="_blank" rel="noopener">Seamless Pattern Checker </a> to see the tile repeat.</p>
+</div>
+</section>
+<hr />
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">prompt</code> <code data-tomark-pass="">colorful tiger stripes --test --tile</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Tile_Tile.png" alt="example of the motif image and tiled repeat created with the midjourney tile parameter" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">prompt</code> <code data-tomark-pass="">torn cardboard roses --testp --tile</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Tile_CardboardRose.png" alt="example of the motif image and tiled repeat created with the midjourney tile parameter" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<hr />
+<h2 id="how-to-use-the-tile-parameter">How to Use the Tile Parameter</h2>
+<p>Add <code data-backticks="1">--tile</code> to the end of your prompt.</p>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter_Tile.gif" alt="Animated Gif showing how the Midjourney tile parameter is typed" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+</body>
+</html>

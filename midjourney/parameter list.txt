@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Parameter List</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>Parameters are options added to a prompt that change how an image generates. Parameters can change an image's <a href="https://docs.midjourney.com/aspect-ratios">Aspect Ratios</a>, switch between Midjourney <a href="https://docs.midjourney.com/models">Model Versions</a>, change which <a href="https://docs.midjourney.com/upscalers">Upscaler</a> is used, and lots more.</h4>
+<p>Parameters are always added to the end of a prompt. You can add multiple parameters to each prompt.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameters_example.png" alt="Example of how Midjourney parameters are used." data-lightbox="box" height="45px" /></p>
+<p></p>
+<section class="infoBox">
+<div class="title">Using an Apple device?</div>
+<div class="content">
+<p>Many apple devices automatically change double hyphens (--) to an em-dash (&mdash;). Midjourney accepts both!</p>
+</div>
+</section>
+<hr />
+<h2 id="basic-parameters">Basic Parameters</h2>
+<h3 id="aspect-ratios"><a href="https://docs.midjourney.com/aspect-ratios">Aspect Ratios</a></h3>
+<p><code data-backticks="1">--aspect</code>, or <code data-backticks="1">--ar</code> Change the aspect ratio of a generation.</p>
+<h3 id="chaos"><a href="https://docs.midjourney.com/chaos">Chaos</a></h3>
+<p><code data-backticks="1">--chaos &lt;number 0&ndash;100&gt;</code> Change how varied the results will be. Higher values produce more unusual and unexpected generations.</p>
+<h3 id="no"><a href="https://docs.midjourney.com/multi-prompts">No</a></h3>
+<p><code data-backticks="1">--no</code> Negative prompting, <code data-backticks="1">--no plants</code> would try to remove plants from the image.</p>
+<h3 id="quality"><a href="https://docs.midjourney.com/quality">Quality</a></h3>
+<p><code data-backticks="1">--quality &lt;.25, .5, 1, or 2&gt;</code>, or <code data-backticks="1">--q &lt;.25, .5, 1, or 2&gt;</code> How much rendering quality time you want to spend. The default value is 1. Higher values cost more and lower values cost less.</p>
+<h3 id="seed"><a href="https://docs.midjourney.com/seeds">Seed</a></h3>
+<p><code data-backticks="1">--seed &lt;integer between 0&ndash;4294967295&gt;</code> The Midjourney bot uses a seed number to create a field of visual noise, like television static, as a starting point to generate the initial image grids. Seed numbers are generated randomly for each image but can be specified with the --seed or --sameseed parameter. Using the same seed number and prompt will produce similar ending images.</p>
+<h3 id="stop"><a href="https://docs.midjourney.com/stop">Stop</a></h3>
+<p><code data-backticks="1">--stop &lt;integer between 10&ndash;100&gt;</code> Use the <code data-backticks="1">--stop</code> parameter to finish a Job partway through the process. Stopping a Job at an earlier percentage can create blurrier, less detailed results.</p>
+<h3 id="style"><a href="https://docs.midjourney.com/models">Style</a></h3>
+<p><code data-backticks="1">--style &lt;4a, 4b or 4c&gt;</code> Switch between versions of the Midjourney <a href="https://docs.midjourney.com/v1/docs/models">Model Version</a> 4</p>
+<h3 id="stylize"><a href="https://docs.midjourney.com/stylize">Stylize</a></h3>
+<p><code data-backticks="1">--stylize &lt;number&gt;</code>, or <code data-backticks="1">--s &lt;number&gt;</code> parameter influences how strongly Midjourney's default aesthetic style is applied to Jobs.</p>
+<h3 id="uplight"><a href="https://docs.midjourney.com/upscalers">Uplight</a></h3>
+<p><code data-backticks="1">--uplight</code> Use an alternative "light" upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image is less detailed and smoother.</p>
+<h3 id="upbeta"><a href="https://docs.midjourney.com/upscalers">Upbeta</a></h3>
+<p><code data-backticks="1">--upbeta</code> Use an alternative beta upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image has significantly fewer added details.</p>
+<h3 id="default-values-model-version-4">Default Values (Model Version 4)</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Aspect Ratio</th>
+<th>Chaos</th>
+<th>Quality</th>
+<th>Seed</th>
+<th>Stop</th>
+<th>Style</th>
+<th>Stylize</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Default Value </td>
+<td>1:1</td>
+<td>0</td>
+<td>1</td>
+<td>Random</td>
+<td>100</td>
+<td>4c</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Range </td>
+<td>1:2&ndash;2:1</td>
+<td>0&ndash;100</td>
+<td>.25 .5 1 or 2</td>
+<td>whole numbers 0&ndash;4294967295</td>
+<td>10&ndash;100</td>
+<td>4a, 4b, or 4c</td>
+<td>0&ndash;1000</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h2 id="model-version-parameters">Model Version Parameters</h2>
+<p>Midjourney routinely releases new model versions to improve efficiency, coherency, and quality. Different models excel at different types of images.</p>
+<h3 id="niji"><a href="https://docs.midjourney.com/models">Niji</a></h3>
+<p><code data-backticks="1">--niji</code> An alternative model focused on anime style images.</p>
+<h3 id="high-definition"><a href="https://docs.midjourney.com/models">High Definition</a></h3>
+<p><code data-backticks="1">--hd</code> Use an early alternative <a href="https://docs.midjourney.com/models">Model</a> that produces larger, less consistent images. This algorithm may be suitable for abstract and landscape images.</p>
+<h3 id="test"><a href="https://docs.midjourney.com/models">Test</a></h3>
+<p><code data-backticks="1">--test</code> Use the Midjourney special test model.</p>
+<h3 id="testp"><a href="https://docs.midjourney.com/models">Testp</a></h3>
+<p><code data-backticks="1">--testp</code> Use the Midjourney special photography-focused test model.</p>
+<h3 id="version"><a href="https://docs.midjourney.com/models">Version</a></h3>
+<p><code data-backticks="1">--version &lt;1, 2, or 3&gt;</code> or <code data-backticks="1">--v &lt;1 2, or 3&gt;</code> Use an earlier version of the Midjourney algorithm. The current algorithm (V4) is the default setting.</p>
+<p></p>
+<h2 id="upscaler-parameters">Upscaler Parameters</h2>
+<p>Midjourney starts by generating a grid of low-resolution image options for each Job. You can use a Midjourney upscaler on any grid image to increase the size and add additional details. There are multiple upscale models available for upscaling an image.</p>
+<h3 id="uplight1"><a href="https://docs.midjourney.com/upscalers">Uplight</a></h3>
+<p><code data-backticks="1">--uplight</code> Use an alternative "light" upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image is less detailed and smoother.</p>
+<h3 id="upbeta1"><a href="https://docs.midjourney.com/upscalers">Upbeta</a></h3>
+<p><code data-backticks="1">--upbeta</code> Use an alternative beta upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image has significantly fewer added details.</p>
+<h3 id="upanime"><a href="https://docs.midjourney.com/upscalers">Upanime</a></h3>
+<p>Use an alternative upscaler trained to work with the when selecting the U buttons. This upscaler was specifically created to work with the <code data-backticks="1">--niji</code> Midjourney Model.</p>
+<p></p>
+<h2 id="other-parameters">Other Parameters</h2>
+<p>These parameters only work with specific earlier Midjourney Models</p>
+<h3 id="creative"><a href="https://docs.midjourney.com/models">Creative</a></h3>
+<p><code data-backticks="1">--creative</code> Modify the <code data-backticks="1">test</code> and <code data-backticks="1">testp</code> models to be more varied and creative.</p>
+<h3 id="image-weight"><a href="https://docs.midjourney.com/image-prompts">Image Weight</a></h3>
+<p><code data-backticks="1">--iw</code> Sets image prompt weight relative to text weight. The default value is --iw 0.25
+.</p>
+<h3 id="sameseed"><a href="https://docs.midjourney.com/seeds">Sameseed</a></h3>
+<p><code data-backticks="1">--sameseed</code> Seed values create a single large random noise field applied across all images in the initial grid. When --sameseed is specified, all images in the initial grid use the same starting noise and will produce very similar generated images.</p>
+<h3 id="video"><a href="https://docs.midjourney.com/video">Video</a></h3>
+<p><code data-backticks="1">--video</code> Saves a progress video of the initial image grid being generated. Emoji react to the completed image grid with ✉️ to trigger the video being sent to your direct messages. <code data-backticks="1">--video</code> does not work when upscaling an image.</p>
+<hr />
+<h2 id="compatibility">Compatibility</h2>
+<h3 id="model-version-parameter-compatability">Model Version &amp; Parameter Compatability</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Affects initial generation</th>
+<th>Affects variations + remix</th>
+<th>Version 4</th>
+<th>Version 3</th>
+<th>Test / Testp</th>
+<th>Niji</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Max Aspect Ratio</td>
+<td>✓</td>
+<td>✓</td>
+<td>1:2 or 2:1</td>
+<td>5:2 or 2:5</td>
+<td>3:2 or 2:3</td>
+<td>1:2 or 2:1</td>
+</tr>
+<tr>
+<td>Chaos</td>
+<td>✓</td>
+<td></td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Image Weight</td>
+<td>✓</td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td>No</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Quality</td>
+<td>✓</td>
+<td></td>
+<td>✓</td>
+<td>✓</td>
+<td></td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Seed</td>
+<td>✓</td>
+<td></td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Sameseed</td>
+<td>✓</td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Stop</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Style</td>
+<td></td>
+<td></td>
+<td>4a and 4b</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Stylize</td>
+<td>✓</td>
+<td></td>
+<td>0&ndash;1000 <br />default=100</td>
+<td>625&ndash;60000 <br />default=2500)</td>
+<td>1250&ndash;5000 <br />default=2500)</td>
+<td></td>
+</tr>
+<tr>
+<td>Tile</td>
+<td>✓</td>
+<td>✓</td>
+<td></td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Video</td>
+<td>✓</td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Number of Grid Images</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>4</td>
+<td>2 (1 when aspect ratio&ne;1:1)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<h3 id="deprecated-parameters">Deprecated Parameters</h3>
+<p>--width and --w (replaced with --aspect)<br />--height and --h (replaced with --aspect)<br />--fast (replaced with --quality)<br />--vibe (now known as V1)<br />--hq<br />--newclip<br />--nostretch<br />--old<br />--beta</p>
+</div>
+</body>
+</html>

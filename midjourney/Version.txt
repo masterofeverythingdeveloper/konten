@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Version</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>Midjourney routinely releases new model versions to improve efficiency, coherency, and quality. The latest model is the default, but other models can be used using the <code data-backticks="1">--version</code> or <code data-backticks="1">--v</code> parameter or by using the <code data-backticks="1">/settings</code> command and selecting a model version. Different models excel at different types of images.</h4>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p><code data-backticks="1">--version</code> accepts the values 1, 2, 3, and 4.<br /><code data-backticks="1">--version</code> can be abbreviated <code data-backticks="1">--v</code></p>
+</div>
+</section>
+<hr />
+<h2 id="current-model">Current Model</h2>
+<p>The Midjourney V4 model is an entirely new codebase and brand-new AI architecture designed by Midjourney and trained on the new Midjourney AI supercluster. The latest Midjourney model has more knowledge of creatures, places, objects, and more. It's much better at getting small details right and can handle complex prompts with multiple characters or objects. The Version 4 model supports advanced functionality like image prompting and multi-prompts.</p>
+<p>This model has very high <span class="popover__title" data-glossary="Coherency" data-glossaryid="b5e87e6c-e1b8-48fc-a424-fbc3b7f7db23">Coherency</span> and excels with <a href="https://docs.midjourney.com/image-prompts">Image Prompts</a>.</p>
+<br />
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<div class="example-image" data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4_Poppies.png" alt="Midjourney Version 4 example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" />
+<div class="img-overlay" data-tomark-pass="">Prompt: vibrant California poppies</div>
+</div>
+</div>
+<div data-tomark-pass="">
+<div class="example-image" data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/high_contrast.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<div class="img-overlay" data-tomark-pass="">Prompt: high contrast surreal collage</div>
+</div>
+</div>
+</div>
+<br data-tomark-pass="" />
+<h3 id="version-4-styles-4a-4b-and-4c">Version 4 Styles 4a, 4b, and 4c</h3>
+<p>Midjourney Model Version 4 has three slightly different "flavors" with slight tweaks to the stylistic tuning of the model. Experiment with these versions by adding <code data-backticks="1">--style 4a</code>, <code data-backticks="1">--style 4b</code>, or <code data-backticks="1">--style 4c</code> to the end of a V4 prompt.</p>
+<p><code data-backticks="1">--v 4 --style 4c</code> is the current default and does not need to be added to the end of a prompt.</p>
+<section class="infoBox">
+<div class="title">Note on Style 4a and 4b</div>
+<div class="content">
+<p><code data-backticks="1">--style 4a</code> and <code data-backticks="1">--style 4b</code> only support 1:1, 2:3, and 3:2 aspect ratios.<br /><code data-backticks="1">--style 4c</code> support aspect ratios up to 1:2 or 2:1.</p>
+</div>
+</section>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--style 4a</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4a.jpg" alt="Midjourney Version 4a example image" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">vibrant California poppies --style 4a</p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--style 4b</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4b.jpg" alt="Midjourney Version 4b example image" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">vibrant California poppies --style 4b</p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--style 4c</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_4c.png" alt="Midjourney Version 4c example image" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">vibrant California poppies --style 4c</p>
+</div>
+</div>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--style 4a</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4a_fish.jpg" alt="Midjourney Version 4a example image" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">school of fish --style 4a</p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--style 4b</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V4b_fish.jpg" alt="Midjourney Version 4b example image" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">school of fish --style 4b</p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--style 4c</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_4c_fish.png" alt="Midjourney Version 4c example image" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">school of fish --style 4c</p>
+</div>
+</div>
+<hr />
+<h2 id="previous-models">Previous Models</h2>
+<p>You can access earlier midjourney models by using the <code data-backticks="1">--version</code> or <code data-backticks="1">--v</code> parameter or by using the <code data-backticks="1">/settings</code> command and selecting a model version. Different models excel at different types of images.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">vibrant California poppies --v 1</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--version 3</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V3_Poppies.png" alt="Midjourney Version 3 example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">default model: 07/22&ndash;11/22</p>
+<p data-tomark-pass=""><em data-tomark-pass="">highly creative compositions</em></p>
+<p data-tomark-pass=""><em data-tomark-pass="">moderate coherency</em></p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--version 2</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V2_Poppies.png" alt="Midjourney Version 2 example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">default model: 04/22&ndash;07/22</p>
+<p data-tomark-pass=""><em data-tomark-pass="">creative, colorful, and painterly</em></p>
+<p data-tomark-pass=""><em data-tomark-pass="">low coherency</em></p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--version1</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_V1_Poppies.png" alt="Midjourney Version 1 example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">default model: 02/22&ndash;04/22</p>
+<p data-tomark-pass=""><em data-tomark-pass="">very abstract and painterly</em></p>
+<p data-tomark-pass=""><em data-tomark-pass="">low coherency</em></p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--hd</code> (high definition)</h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_HD_Poppies.png" alt="Midjourney Version High Definition example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">early alternative model</p>
+<p data-tomark-pass=""><em data-tomark-pass="">busy detailed and abstract</em></p>
+<p data-tomark-pass=""><em data-tomark-pass="">low coherency</em></p>
+</div>
+</div>
+<hr />
+<h2 id="niji-model">Niji Model</h2>
+<p>The <code data-backticks="1">niji</code> model is a collaboration between Midjourney and <a href="https://spellbrush.com/" target="_blank" rel="noopener">Spellbrush</a> tuned to produce anime and illustrative styles. The <code data-backticks="1">--niji</code> model has vastly more knowledge of anime, anime styles, and anime aesthetics. It's excellent at dynamic and action shots and character-focused compositions in general.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">vibrant California poppies --niji</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--v 4</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_4c.png" alt="Midjourney Version v4 example image of the prompt vibrant california poppies" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">vibrant California poppies</p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--niji</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Niji.jpg" alt="Midjourney Version niji example image of the prompt" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">vibrant California poppies --niji</p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--v 4</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_v4_peacock.jpg" alt="Midjourney Version v4 example image of the prompt vibrant california poppies" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">fancy peacock</p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--niji</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Niji_Peacock.jpg" alt="Midjourney Version niji example image of the prompt fancy peacock" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">fancy peacock --niji</p>
+</div>
+</div>
+<br data-tomark-pass="" />
+<section class="infoBox">
+<div class="title">Notes on the <code data-backticks="1">--niji</code> model</div>
+<div class="content">
+<p>Niji does not support the <code data-backticks="1">--stylize</code> parameter.<br />Niji supports multi-prompts or image-prompts.</p>
+</div>
+</section>
+<hr />
+<h2 id="test-models">Test Models</h2>
+<p>Occasionally new models are released temporarily for community testing and feedback. There are currently two available test models: <code data-backticks="1">--test</code> and <code data-backticks="1">--testp</code>, which can be combined with the <code data-backticks="1">--creative</code> parameter for more varied compositions.</p>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">vibrant California poppies --testp --creative</code></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--test</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_test_Poppies.png" alt="Midjourney Version testp example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass=""><em data-tomark-pass="">A general-purpose artistic model with good coherency </em></p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--test</code> + <code data-tomark-pass="">--creative</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_test_Creative_Poppies.png" alt="Midjourney Version testp creative example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--testp</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_testP_Poppies.png" alt="Midjourney Version testp example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass=""><em data-tomark-pass="">A photo-realism model with good coherency</em></p>
+</div>
+<div data-tomark-pass="">
+<h5 data-tomark-pass=""><code data-tomark-pass="">--testp</code> + <code data-tomark-pass="">--creative</code></h5>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_testP_Creative_Poppies.png" alt="Midjourney Version testp creative example image of the prompt Vibrant California Poppies" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<section class="infoBox">
+<div class="title">Notes on current test models <code data-backticks="1">--test</code> and <code data-backticks="1">--testp</code></div>
+<div class="content">
+<p>Test models only support <code data-backticks="1">--stylize</code> values between 1250&ndash;5000.<br />Test models do not support multi-prompts or image-prompts<br />Test models have a maximum aspect ratio of 3:2 or 2:3.<br />Test models only generate two initial grid images when the aspect ratio is 1:1.<br />Test models only generate one initial grid image when the aspect ratio is not 1:1.<br />Words near the front of the prompt may matter more than words near the back.</p>
+</div>
+</section>
+<hr />
+<h2 id="how-to-switch-models">How to Switch Models</h2>
+<h3 id="use-the-version-or-test-parameter">Use the Version or Test Parameter</h3>
+<p>Add <code data-backticks="1">--v 1</code>, <code data-backticks="1">--v 2</code>, <code data-backticks="1">--v 3</code>, <code data-backticks="1">--v 4</code>, <code data-backticks="1">--v 4 --style 4a</code>, <code data-backticks="1">--v4 --style 4b</code> <code data-backticks="1">--test</code>, <code data-backticks="1">--testp</code>, <code data-backticks="1">--test --creative</code>, <code data-backticks="1">--testp --creative</code> or <code data-backticks="1">--niji</code> to the end of your prompt.</p>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter-Version.gif" alt="Animated Gif showing how the Midjourney version parameter is typed" data-tomark-pass="" data-lightbox="box" /></div>
+<br data-tomark-pass="" />
+<h3 id="use-the-settings-command">Use the Settings Command</h3>
+<p>Type <code data-backticks="1">/settings</code> and select your preferred version from the menu.</p>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

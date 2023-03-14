@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Settings and Presets</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>The Settings command provides toggle buttons for common options like model version, style value, quality value, and upscaler version. Settings also has toggle buttons for the <code data-backticks="1">/stealth</code> and <code data-backticks="1">/public</code> commands.</h4>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_settings.png" alt="Image showing the interface of the Midjourney settings command" data-lightbox="box" width="800px" /></p>
+<hr />
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">1️⃣ MJ Version 1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">2️⃣ MJ Version 2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">3️⃣ MJ Version 3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">4️⃣ MJ Version 4</code></span></div>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🌈 Niji Mode</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🤖MJ Test</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">📷 MJ Test Photo</code></span></div>
+<p>Sets the <a href="https://docs.midjourney.com/models">Model Versions</a> used for jobs.<br /><br data-tomark-pass="" /></p>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Half Quality</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Base Quality</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 High Quality (2x cost)</code></span></div>
+<p>Sets the <a href="https://docs.midjourney.com/quality">Quality Parameter</a> used for jobs.<br />Half Quality = <code data-backticks="1">--q .5</code>, Base Quality = <code data-backticks="1">--q 1</code>, High Quality = <code data-backticks="1">--q 2</code>.<br /><br data-tomark-pass="" /></p>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Low</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Med</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style High</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🖌️ Style Very High</code></span></div>
+<p>Sets the <a href="https://docs.midjourney.com/stylize">Stylize Parameter</a> used for jobs.<br />Style Low = <code data-backticks="1">--s 50</code>, Style Med = <code data-backticks="1">--s 100</code>, Style High = <code data-backticks="1">--s 250</code>, Style Very High = <code data-backticks="1">--s 750</code>,<br /><br data-tomark-pass="" /></p>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">⏫ Regular Upscale</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">⬆️ Light Upscale</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔥 Beta Upscale</code></span></div>
+<p>Sets the <a href="https://docs.midjourney.com/upscalers">Upscacler</a> used for jobs.<br /><br data-tomark-pass="" /></p>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🧍&zwj;♂️Public</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🕵️ Stealth</code></span></div>
+<p>Switch between <a href="https://docs.midjourney.com/stealth">Public and Stealth modes</a>. Corresponds to the <code data-backticks="1">/public</code> and <code data-backticks="1">/stealth</code> commands.<br /><br /></p>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🎛️ Remix</code></span></div>
+<p>Switch to <a href="https://docs.midjourney.com/docs/remix">Remix mode</a><br /><br data-tomark-pass="" /></p>
+<div class="buttonrowlarge" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🐇 Fast</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🐢 Relax</code></span></div>
+<p>Switch between <a href="https://docs.midjourney.com/fast-relax">Fast and Relaxed modes</a>. Corresponds to the <code data-backticks="1">/fast</code> and <code data-backticks="1">/relax</code> commands.<br /><br data-tomark-pass="" /></p>
+<section class="infoBox">
+<div class="title">Settings Note</div>
+<div class="content">
+<p>Parameters added to the end of a prompt will override selections made using <code data-backticks="1">/settings</code>.</p>
+</div>
+</section>
+<hr />
+<h2 id="custom-preferences">Custom Preferences</h2>
+<p>Create custom options using prefer commands to add commonly used parameters to the end of prompts automatically.<br /><code data-backticks="1">/prefer auto_dm</code> Completed Jobs are automatically sent to <span class="popover__title" data-glossary="Direct Message" data-glossaryid="f826e751-6db0-464b-a6c6-191ed45fe7fe">Direct Message</span><br /><code data-backticks="1">/prefer option</code> Create or manage a custom option.<br /><code data-backticks="1">/prefer option list</code> View your current custom options.<br /><code data-backticks="1">/prefer suffix</code> specify a suffix to add to the end of every prompt.</p>
+<hr />
+<h3 id="prefer-option">Prefer Option</h3>
+<p><code data-backticks="1">/prefer option set &lt;name&gt; &lt;value&gt;</code> Creates a custom parameter that you can use to add multiple parameters to the end of prompts quickly.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionSet.png" alt="PreferOptionSet.png" data-lightbox="box" /></p>
+<p><code data-backticks="1">/prefer option set</code> <code data-backticks="1">mine</code> <code data-backticks="1">--hd --ar 7:4</code> creates an option called "mine" that translates to <code data-backticks="1">--hd --ar 7:4</code>.<br /><br data-tomark-pass="" /></p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionSet_Used.jpg" alt="PreferOptionSet_Used.jpg" data-lightbox="box" /></p>
+<p>Using <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">vibrant California poppies --mine</code>, is interpreted as <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">vibrant California poppies --hd --ar 7:4</code>.</p>
+<p>Leave the "value" field empty to delete an option.<br /><br data-tomark-pass="" /></p>
+<p><code data-backticks="1">/prefer option list</code> list all options created with <code data-backticks="1">prefer option set.</code> Users can have up to 20 custom options.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/PreferOptionList.png" alt="PreferOptionList.png" data-lightbox="box" width="400px" /></p>
+<p>To delete a custom option, use <code data-backticks="1">/prefer option set</code> <code data-backticks="1">&lt;name to delete&gt;</code> and leave the value field blank.</p>
+<hr />
+<h3 id="prefer-suffix">Prefer Suffix</h3>
+<p><code data-backticks="1">/prefer suffix</code> automatically appends the specified suffix after all prompts. <strong>Use the command without a value to reset.</strong></p>
+<p>Command example: <code data-backticks="1">/prefer suffix</code> <code data-backticks="1">--uplight --video</code></p>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p>Only <a href="https://docs.midjourney.com/parameter-list">Parameters</a> can be used with <code data-backticks="1">/prefer suffix</code>,<br /><code data-backticks="1">prefer suffix --no orange</code> is accepted<br /><code data-backticks="1">prefer suffix orange::-1</code> is not accepted</p>
+</div>
+</section>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

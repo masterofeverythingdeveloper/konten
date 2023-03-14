@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Quick Start</h1>
+</div>
+<br /><hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>Learn how to use the Midjourney Bot on Discord to create custom images from simple text prompts.</h4>
+<section class="infoBox">
+<div class="title">Code of Conduct</div>
+<div class="content">
+<p>Don't be a jerk.<br />Don't use our tools to make images that could inflame, upset, or cause drama. That includes gore and adult content.<br />Be respectful to other people and the team.</p>
+</div>
+</section>
+<p></p>
+<hr />
+<h2 id="1-join-the-discord"><strong>1:</strong>&thinsp;Join the Discord</h2>
+<p>Go to Midjourney.com, select <strong>Join the Beta</strong>, or go directly to the <a href="https://discord.gg/midjourney">Midjourney Discord</a>.</p>
+<p>Before joining the Midjourney Discord server, you must have a Discord login.<br /><a href="https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started" target="_blank" rel="noopener"> Learn how to create one here</a>.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Homepage.png" alt="image of the midjourney.com &quot;join the beta&quot; button" data-lightbox="box" width="600px" /></p>
+<p></p>
+<h2 id="2-find-a-newbies-channel"><strong>2:</strong>&thinsp;Find a <em>Newbies</em> Channel</h2>
+<div class="grid oneTwo" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_NewbiesChannel.png" alt="Image of the Sidebar for Midjourney's Discord server highlighting the newbie channels." data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="on-the-midjourney-official-server">On the Midjourney Official Server</h3>
+<p data-tomark-pass="">Select any <code data-tomark-pass="">newbies-#</code> channel visible in the left sidebar.</p>
+<p></p>
+<h3 data-tomark-pass="" id="on-other-servers">On Other Servers</h3>
+<p></p>
+<p data-tomark-pass="">You can generate images with the Midjourney Bot on any server that has invited the Bot. Look for instructions on your server on where to use the Bot.</p>
+</div>
+</div>
+<p></p>
+<h2 id="3-use-the-imagine-command"><strong>3:</strong>&thinsp;Use the /imagine Command</h2>
+<h3 id="about-discord-commands">About Discord Commands</h3>
+<p>Interact with the Midjourney Bot on Discord using a <span class="popover__title" data-glossary="Command" data-glossaryid="676fee7d-58c0-4c9f-a2cf-06a66e145aff">Command</span>. Commands are used to create images, change default settings, monitor user info, and perform other helpful tasks. The <code data-backticks="1">/imagine</code> command generates a unique image from a short text description (known as a <span class="popover__title" data-glossary="Prompt" data-glossaryid="dfe19238-96ff-4ef4-a6c6-0773a52df207">Prompt</span>).</p>
+<div class="grid twoThree" data-tomark-pass="">
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="using-imagine">Using /imagine</h3>
+<ol data-tomark-pass="">
+<li data-tomark-pass="">Type <code data-tomark-pass="">/imagine prompt:</code> or select the <code data-tomark-pass="">/imagine</code> command from the slash commands pop-up.</li>
+<li data-tomark-pass="">Type a description of the image you want to create in the `prompt` field.</li>
+<li data-tomark-pass="">Click return to send your message.</li>
+</ol>
+<p data-tomark-pass="">Respect the <a href="https://docs.midjourney.com/community-guidelines" data-tomark-pass="">Community Guidelines</a>. Community guidelines apply wherever the Midjourney Bot is used.</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagineCommand.gif" alt="animated gif of the midjourney /imagine command being typed" data-tomark-pass="" data-lightbox="box" /> <br data-tomark-pass="" />
+<p data-tomark-pass="">If you don't see a pop-up when typing the <code data-tomark-pass="">/imagine</code> command, try logging out, updating the Discord app, and logging back in.</p>
+<p data-tomark-pass="">Commands only work in bot Channels. Commands will not work in regular channels like #trial-support.</p>
+</div>
+</div>
+<p></p>
+<h2 id="4-processes-the-job"><strong>4:</strong>&thinsp;Processes the Job</h2>
+<h3 id="the-midjourney-bot-takes-about-a-minute-to-generate-four-options">The Midjourney Bot takes about a minute to generate four options.</h3>
+<div class="grid twoThree" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImageGrid_Generation.gif" alt="Image of the Midjourney Discord button interface after generating a grid of images" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<p data-tomark-pass=""><bold data-tomark-pass="">Generating an image activates the free Midjourney trial.</bold>Trial users can make roughly 25 Jobs before needing to subscribe.</p>
+<p data-tomark-pass="">A Job is any action that uses the Midjourney Bot. Jobs include using the <code data-tomark-pass="">/imagine</code> command to create a gird of images, upscaling images, or creating image variations, all use your free trial time.</p>
+<p data-tomark-pass="">Use the <code data-tomark-pass="">/info</code> command to check your <bold data-tomark-pass="">Fast Time Remaining</bold> to see your remaining Trial time.</p>
+</div>
+</div>
+<p></p>
+<h2 id="5-upscale-or-create-variations"><strong>5:</strong>&thinsp;Upscale or Create Variations</h2>
+<h3 id="after-the-initial-image-grid-has-finished-generating-two-rows-of-buttons-appear">After the initial image grid has finished generating, two rows of buttons appear:</h3>
+<div class="grid twoThree" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_UX.png" alt="Image of the Midjourney Discord button interface after generating a grid of images" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<div class="buttongrid" data-tomark-pass="">
+<div class="buttonrow" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">U4</code></span></div>
+<p data-tomark-pass="">U buttons <a href="https://docs.midjourney.com/upscalers" data-tomark-pass="">upscale</a> an image generating a larger version of the selected image and adding more details.</p>
+<div class="buttonrow" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">V1</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">V2</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">V3</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">V4</code></span></div>
+<p data-tomark-pass="">V buttons create slight variations of the selected grid image. Creating a variation generates a new image grid similar to the chosen image's overall style and composition.</p>
+<div class="buttonrow" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔄</code></span></div>
+<p data-tomark-pass="">The 🔄 (re-roll) reruns a Job. In this case it would rerun the original prompt producing a new grid of images.</p>
+</div>
+</div>
+</div>
+<br data-tomark-pass="" />
+<h2 id="6-rate-images"><strong>6:</strong>&thinsp;Rate Images</h2>
+<h3 id="after-using-upscaling-an-image-a-new-set-of-options-will-appear">After using upscaling an image a new set of options will appear:</h3>
+<div class="grid twoThree" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_QuickStart_UpscaleInterface2.png" alt="Image of the Midjourney Discord button interface after upscaling an images" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<div class="buttonrow" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🪄 Make Variations</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔍 Light Upscale Redo</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🔍 Beta Upscale Redo</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">↗️Web</code></span></div>
+<p data-tomark-pass=""><strong data-tomark-pass="">Make Variations:</strong> creates a variation of the upscaled image and generates a new grid of four options.</p>
+<p data-tomark-pass=""><strong data-tomark-pass="">Beta/Light Upscale Redo:</strong> redo the upscale using a different <a href="https://docs.midjourney.com/upscalers" data-tomark-pass="">upscaler model.</a></p>
+<p data-tomark-pass=""><strong data-tomark-pass="">Web:</strong> Open the image in your gallery on <a href="https://www.midjourney.com/home/" data-tomark-pass="">Midjourney.com</a></p>
+<br data-tomark-pass="" />
+<div class="buttonrow" data-tomark-pass=""><span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">😖</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">😒</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">🙂</code></span> <span class="discordbtn" data-tomark-pass=""><code data-tomark-pass="">😍</code></span></div>
+<p data-tomark-pass="">Click a smiley button to rate any upscaled image on the <a href="https://www.midjourney.com/app/ranking/" data-tomark-pass="">Midjourney website</a> or in Discord. Each day, the <a href="https://docs.midjourney.com/free-hours" data-tomark-pass="">top 1000 image raters</a> receive an hour of free, Fast Mode time. Rank your work or the work of others. Rank based on your personal style and opinion. Love the look, effort, colors, concept, or theme? Please give it a 😍!</p>
+</div>
+</div>
+<h2 id="7-save-your-image"><strong>7:</strong>&thinsp;Save Your Image</h2>
+<p>Click on the image to open it to full size, and then right-click and choose <code data-backticks="1">Save image</code>. On mobile, long tap the image and then tap the download icon in the top right corner.</p>
+<p>All images are immediately available to view on <a href="https://www.midjourney.com/app/">midjourney.com/app</a><br /><code data-backticks="1">Sign In with Discord</code> to view.</p>
+<p></p>
+<h2 id="8-subscribe-to-a-plan"><strong>8:</strong>&thinsp;Subscribe to a Plan</h2>
+<p>Trial users have roughly 25 free Jobs. Jobs do not presently expire but will also not renew. To make more images use the <code data-backticks="1">/subscribe</code> command in any <span class="popover__title" data-glossary="Bot Channel" data-glossaryid="8a726e76-0f37-472c-a5a7-24e81899dfb2">Bot Channel</span> to generate a personal link to the midjourney account page. <strong>Do not share this personal link with others.</strong></p>
+<p>For prices and more information go to <a href="https://docs.midjourney.com/plans">Subscription Plans</a></p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Plan_Upgrade.png" alt="Image of the Midjourney account page for upgrading and downgrading plans" data-lightbox="box" /></p>
+<section class="infoBox">
+<div class="title">Double Check</div>
+<div class="content">
+<p>Make sure you are signing in using your existing Discord account. It is easy to accidentally create a new account.</p>
+</div>
+</section>
+<p></p>
+<hr />
+<h2 id="next-steps">Next Steps</h2>
+<h3 id="work-in-your-direct-messages">Work in Your Direct Messages</h3>
+<p>Public channels move too fast? Use the <code data-backticks="1">/imagine</code> command while direct messaging with the Midjourney Bot. Images made within your direct messages are still subject to content and moderation rules and are visible on the Midjourney website.</p>
+<h3 id="learn-more-about-prompts">Learn More About Prompts</h3>
+<p><a href="https://docs.midjourney.com/prompts">Learn the basics of writing prompts</a>, or <a href="https://docs.midjourney.com/explore-prompting">explore how descriptions of artistic mediums, locations, and time periods change an image</a>.</p>
+<h3 id="learn-how-to-combine-your-own-pictures">Learn How to Combine Your Own Pictures</h3>
+<p><a href="https://docs.midjourney.com/v1/docs/blend">Learn how to upload and blend your own images together</a> with the <code data-backticks="1">/blend</code> command.</p>
+<h3 id="get-answers">Get Answers</h3>
+<p>Need help or have questions? Try these commands:</p>
+<p><code data-backticks="1">/help</code> Shows helpful basic information and tips about the Midjourney Bot.</p>
+<p><code data-backticks="1">/ask</code> Get an answer to a question.<br /><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Command_Ask.png" alt="Midjourney Ask Command" data-lightbox="box" height="45px" /></p>
+<p></p>
+</div>
+<br />
+<div class="content"><span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"></span></div>
+</body>
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Image Prompts</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>You can use images as part of a prompt to influence a Job's composition, style, and colors. Images prompts can be used alone or with text prompts&mdash;experiment with combining images with different styles for the most exciting results.</h4>
+<p>To add images to a prompt, type or paste the web address where the image is stored online. The address must end in an extension like .png, .gif, or .jpg. After adding image addresses, add any additional text and parameters to complete the prompt.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ%20Prompt.png" alt="Image showing the Midjourney prompt structure." data-lightbox="box" width="900" /></p>
+<p></p>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p>Image prompts go at the front of a prompt.<br />Prompts must have two images or one image and additional text to work.<br />An image URL must be a direct link to an online image.<br />In most browsers, right-click or long-press an image and select Copy Image Address to get the URL.<br />The <a href="https://docs.midjourney.com/blend"><code data-backticks="1">/blend</code> command</a> is a simplified image prompting process optimized for mobile users.</p>
+</div>
+</section>
+<hr />
+<h2 id="upload-an-image-to-discord">Upload an image to Discord</h2>
+<p>To use a personal image as part of a prompt, upload it to Discord. To upload an image, click the <strong>Plus</strong> sign next to where messages are typed. Select <strong>Upload a File</strong>, select an image, and send the message. To add this image to a prompt, begin typing <code data-backticks="1">/imagine</code> as usual. After the prompt box appears, drag the image file into the prompt box to add the image's URL. Alternatively, right-click the image, select <strong>Copy Link</strong>, and then paste the link within the prompt box.</p>
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/Discord_FHZfwDLhLY.gif" alt="Discord_FHZfwDLhLY.gif" data-lightbox="box" /></p>
+<p></p>
+<section class="infoBox">
+<div class="title">Privacy Notes</div>
+<div class="content">
+<p>Upload images in your <span class="popover__title" data-glossary="Direct Message" data-glossaryid="f826e751-6db0-464b-a6c6-191ed45fe7fe">Direct Message</span>s with the Midjourney Bot to prevent other server users from seeing an image.<br />Image prompts are visible on the Midjourney website unless a user has Stealth Mode.</p>
+</div>
+</section>
+<p></p>
+<hr />
+<h2 id="examples">Examples</h2>
+<h3 id="starting-images">Starting Images</h3>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue.png" alt="Cropped image of the Bust of Apollo" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Statue of Apollo</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Flowers.png" alt="Cropped image of vintage flower illustraiton" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Vintage Flower Illustration</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Iris.png" alt="Cropped image of Van Gogh's Iris" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Van Gogh's Irises</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Jelly.jpg" alt="Cropped image of Ernst Haeckel's Jellyfish" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Ernst Haeckel's Jellyfish</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Lichen.png" alt="Cropped image of Ernst Haeckel's Lichen" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Ernst Haeckel's Lichen</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Wave.png" alt="Cropped image of The Great Wave off Kanagawa" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Hokusai's The Great Wave</p>
+</div>
+</div>
+<p></p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="statue-flowers">Statue + Flowers</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue.png" alt="Cropped image of the Bust of Apollo" data-tomark-pass="" data-lightbox="box" width="25%" /> + <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Flowers.png" alt="Cropped image of vintage flower illustraiton" data-tomark-pass="" data-lightbox="box" width="25%" />
+<p><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue_Flowers.png" alt="Midjourney image prompt combining the Statue of Apollo and Vintage Floral Illustrations" data-tomark-pass="" data-lightbox="box" /></p>
+</div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="statue-irises">Statue + Irises</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue.png" alt="Cropped image of the Bust of Apollo" data-tomark-pass="" data-lightbox="box" width="25%" /> + <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Iris.png" alt="Cropped image of vintage flower illustraiton" data-tomark-pass="" data-lightbox="box" width="25%" /> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue_Iris.png" alt="Midjourney image prompt combining the Statue of Apollo and Van Gogh's Irises" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="statue-jellyfish">Statue + Jellyfish</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue.png" alt="Cropped image of the Bust of Apollo" data-tomark-pass="" data-lightbox="box" width="25%" /> + <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Jelly.jpg" alt="Cropped image of Ernst Haeckel's Jellyfish" data-tomark-pass="" data-lightbox="box" width="25%" /> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue_Jelly.png" alt="Midjourney image prompt combining the Statue of Apollo and Haeckel Jellyfish" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="statue-lichen">Statue + Lichen</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue.png" alt="Cropped image of the Bust of Apollo" data-tomark-pass="" data-lightbox="box" width="25%" /> + <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Lichen.png" alt="Cropped image of Ernst Haeckel's Lichen" data-tomark-pass="" data-lightbox="box" width="25%" /> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue_Litchen.png" alt="Midjourney image prompt combining the Statue of Apollo and Haeckel Lichen" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="statue-wave">Statue + Wave</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue.png" alt="Cropped image of the Bust of Apollo" data-tomark-pass="" data-lightbox="box" width="25%" /> + <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Wave.png" alt="Cropped image of The Great Wave off Kanagawa" data-tomark-pass="" data-lightbox="box" width="25%" /> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue_Wave.png" alt="Midjourney image prompt combining the Statue of Apollo and the Great Wave" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass="">
+<h3 data-tomark-pass="" id="statue-lichen-flowers">Statue + Lichen + Flowers</h3>
+<img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue.png" alt="Cropped image of the Bust of Apollo" data-tomark-pass="" data-lightbox="box" width="25%" /> + <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Lichen.png" alt="Cropped image of Ernst Haeckel's Lichen" data-tomark-pass="" data-lightbox="box" width="25%" /> + <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Flowers.png" alt="Cropped image of vintage flower illustraiton" data-tomark-pass="" data-lightbox="box" width="25%" /> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ImagePrompt_Statue_lichen_flowers.png" alt="Midjourney image prompt combining the Statue of Apollo, Haeckel Lichen, and a vintage flower illustration" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+<section class="infoBox">
+<div class="title">Aspect Ratio Tip</div>
+<div class="content">
+<p>Crop images to the same aspect ratio as your final image for the best results.</p>
+</div>
+</section>
+<hr />
+<h2 id="image-prompts-in-v3">Image Prompts in V3</h2>
+<p>Image prompts in earlier <a href="https://docs.midjourney.com/models">Midjourney Model Versions</a> are more abstract inspirations than in current models. An image prompt is not the same as building on top of (or "initializing" from) a starting input image. Image prompts are used as visual inspiration, not as a starting point.</p>
+<h3 id="image-weight-iw">Image Weight, --iw</h3>
+<p>Earlier <a href="https://docs.midjourney.com/models">Midjourney Model Versions</a> can use the image weight parameter <code data-backticks="1">--iw</code> to adjust the importance of the image URLs vs. the text. <code data-backticks="1">--iw 0.25</code> is the default and is used when no <code data-backticks="1">--iw</code> is specified. Higher <code data-backticks="1">--iw</code> values mean the image prompt will have more impact on the finished job.<br />See the <a href="https://docs.midjourney.com/multi-prompts">Multi Prompts</a> page for more information about the relative importance between parts of a prompt.</p>
+<p><code data-backticks="1">--iw</code> accepts integers -10,000&ndash;10,000.</p>
+<p></p>
+<p>Example 1: The text prompt <code data-backticks="1">vibrant California poppies</code> combined with an image prompt of a Kandinsky painting.<br /><strong>prompt: <code data-backticks="1">http://kandinsky.png vibrant California poppies --v 3 --iw &lt;value&gt;</code></strong></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><strong data-tomark-pass="">Image Prompt</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/Kandinsky.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw .0</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW_0.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = 0</p>
+<p data-tomark-pass="">(the same as using no image prompt)</p>
+</div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw .25</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW2_025.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = .25</p>
+<p data-tomark-pass="">(the default image weight)</p>
+</div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw 1</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW2_1.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = 1</p>
+</div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw 2</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW2_2.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = 2</p>
+</div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw 5</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW2_5.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = 5</p>
+</div>
+</div>
+<p></p>
+<p>Example 2: The text prompt <code data-backticks="1">vibrant California poppies</code> combined with an image prompt of Van Gogh's Sunflowers.<br /><strong>prompt: <code data-backticks="1">http://sunflowers.png vibrant California poppies --v 3 --iw &lt;value&gt;</code></strong></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><strong data-tomark-pass="">Image Prompt</strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/Vangogh.png" alt="" data-tomark-pass="" data-lightbox="box" /></div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw .0</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW_0.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = 0</p>
+<p data-tomark-pass="">(the same as using no image prompt)</p>
+</div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw .25</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW_025.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = .25</p>
+<p data-tomark-pass="">(the default image weight)</p>
+</div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw 1</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW_1.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = 1</p>
+</div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw 2</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW_2.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = 2</p>
+</div>
+<div data-tomark-pass=""><strong data-tomark-pass=""><code data-tomark-pass="">--iw 5</code></strong> <img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_IW_5.png" alt="" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">Image weight = 5</p>
+</div>
+</div>
+</div>
+</body>
+</html>

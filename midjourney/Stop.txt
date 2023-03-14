@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="content_block_head">
+<div class="content_block_article_head">
+<h1>Stop</h1>
+</div>
+<hr /></div>
+<div class="content_block_text" dir="auto">
+<h4>Use the <code data-backticks="1">--stop</code> parameter to finish a Job partway through the process. Stopping a Job at an earlier percentage can create blurrier, less detailed results.</h4>
+<section class="infoBox">
+<div class="title"></div>
+<div class="content">
+<p><code data-backticks="1">--stop</code> accepts values: 10&ndash;100.<br />The default <code data-backticks="1">--stop</code> value is 100.<br /><code data-backticks="1">--stop</code> does not work while <a href="https://docs.midjourney.com/upscalers">Upscaling</a>.</p>
+</div>
+</section>
+<hr />
+<h2 id="stop-comparison">Stop Comparison</h2>
+<p>prompt example: <code data-backticks="1">/imagine prompt</code> <code data-backticks="1">splatter art painting of acorns --stop 90</code></p>
+<div class="gridsmall" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_10.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 10</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_20.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 20</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_30.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 30</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_40.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 40</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_50.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 50</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_60.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 60</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_70.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 70</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_80.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 80</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_90.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 90</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_stop_100.png" alt="Example of the Midjourney Stop Parameter" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 100</p>
+</div>
+</div>
+<hr />
+<h2 id="stops-affect-on-upscaling">Stops affect on Upscaling</h2>
+<p>The <code data-backticks="1">--stop</code> parameter does not affect a Job while upscaling. However, stopping will produce a softer, less detailed initial image that will influence the level of detail in the final upscaled result. The upscaled images below used the <a href="https://docs.midjourney.com/v1/docs/upscalers">Beta Upscaler</a>.</p>
+<div class="grid" data-tomark-pass="">
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_Up_20.png" alt="Comparison of the initial grid image and the upscaled version of an image using stop 20" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 20</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_Up_80.png" alt="Comparison of the initial grid image and the upscaled version of an image using stop 80" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 80</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_Up_90.png" alt="Comparison of the initial grid image and the upscaled version of an image using stop 90" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 90</p>
+</div>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Stop_Up_100.png" alt="Comparison of the initial grid image and the upscaled version of an image using stop 100" data-tomark-pass="" data-lightbox="box" />
+<p data-tomark-pass="">--stop 100</p>
+</div>
+</div>
+<hr />
+<h2 id="how-to-change-the-stop-percentage">How to Change the Stop Percentage</h2>
+<h3 id="use-the-stop-parameter">Use the <code data-backticks="1">--stop</code> Parameter</h3>
+<p>Add <code data-backticks="1">--stop &lt;value&gt;</code> to the end of your prompt.</p>
+<div data-tomark-pass=""><img src="https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter_Stop.gif" alt="Animated Gif showing how the Midjourney Stop parameter is typed" data-tomark-pass="" data-lightbox="box" /></div>
+</div>
+</body>
+</html>
