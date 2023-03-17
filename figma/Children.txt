@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3>Children</h3>
+<p>The Child layout has very few and less complex properties compared to the parent! These properties are essentially alignment and positioning controls (based on the Parent direction).</p>
+<ol>
+<li><strong>Alignment</strong>&nbsp;- align objects along one axis</li>
+<li><strong>Absolute position</strong>&nbsp;- easily position items within auto layout frames using precise controls.</li>
+<li><strong>Resizing -</strong>&nbsp;Lets you have a dynamic or fixed width</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/2KOMNER4cnMAmvMfKmPLcs/9c1e1c98639b2aceb7bad5f5c70afd6a/Auto-20Layout-202.png" class=" lazyloaded" alt="Auto-20Layout-202" src="https://images.ctfassets.net/ooa29xqb8tix/2KOMNER4cnMAmvMfKmPLcs/9c1e1c98639b2aceb7bad5f5c70afd6a/Auto-20Layout-202.png" /></p>
+</body>
+</html>

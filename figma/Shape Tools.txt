@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Shape Tools</h2>
+<p>Next up are the Shape tools. You can access all the basic ones via the Shape tools in the toolbar. The shapes available include - Rectangle, Line, Arrow, Ellipse, Polygon and Star. To insert a shape, do the following:</p>
+<ul>
+<li>Click the Shape tools option and select your preferred shape</li>
+</ul>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/5VbO4fIzbtJAQr1kzSQz8Q/153d523066f3f373e8382795ecd5730d/4.png" class=" lazyloaded" alt="4" src="https://images.ctfassets.net/ooa29xqb8tix/5VbO4fIzbtJAQr1kzSQz8Q/153d523066f3f373e8382795ecd5730d/4.png" /></p>
+<ul>
+<li>Here, we'll be adding a rectangle but you can add any shape you'd like</li>
+</ul>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/BAw8njYCO6uSBHghJMcGX/caa9b5a30bfffabd89af843d0fc61f35/5.png" class=" lazyloaded" alt="5" src="https://images.ctfassets.net/ooa29xqb8tix/BAw8njYCO6uSBHghJMcGX/caa9b5a30bfffabd89af843d0fc61f35/5.png" /></p>
+</body>
+</html>

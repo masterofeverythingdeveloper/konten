@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Prototype</h2>
+<p>Prototyping is an important process of design. Creating a prototype helps your engineers understand how the interactions and animations should work in the final product. Figma makes it super simple to create prototypes using transitions without downloading a third-party app.</p>
+<p>Prototype faster with Figma. Animate transitions with ease, add micro-interactions to your flow, and use smart-animate to quickly create interactions that look great on any device.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/2IXFxFFTlwlc5BrIdquxp1/caa00077e90bad764baf7167f1ba7d32/Prototype.jpg" class=" lazyloaded" alt="Prototype" src="https://images.ctfassets.net/ooa29xqb8tix/2IXFxFFTlwlc5BrIdquxp1/caa00077e90bad764baf7167f1ba7d32/Prototype.jpg" /></p>
+</body>
+</html>

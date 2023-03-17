@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3>Parent</h3>
+<p>The parent has four properties. Understanding these properties is essential. It will help you understand how your layout works and help you implement Auto Layout in the best way!</p>
+<ol>
+<li><strong>Direction</strong>: allows your design layout either to be in Columns (Horizontal) or Rows (Vertical)</li>
+<li><strong>Padding</strong>: determines the whitespace around your objects (Children)</li>
+<li><strong>Spacing</strong>: controls the spacing between your objects</li>
+<li><strong>Resizing</strong>: Lets you have a dynamic or fixed width</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/F6y6MBCKaqsrpjsWn24Nw/68e6832e29bc15ace0d94697eb1460c1/Auto-20Layout1.png" class=" lazyloaded" alt="Auto-20Layout1" src="https://images.ctfassets.net/ooa29xqb8tix/F6y6MBCKaqsrpjsWn24Nw/68e6832e29bc15ace0d94697eb1460c1/Auto-20Layout1.png" /></p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/2hm91ZYDDhJVQFq6GGZtHr/7bce031b7f792beab6ea1b8cee77a136/Auto-20lauout-203.png" class=" lazyloaded" alt="Auto-20lauout-203" src="https://images.ctfassets.net/ooa29xqb8tix/2hm91ZYDDhJVQFq6GGZtHr/7bce031b7f792beab6ea1b8cee77a136/Auto-20lauout-203.png" /></p>
+</body>
+</html>

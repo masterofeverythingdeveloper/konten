@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Why use Figma?</h2>
+<p>Only a few years ago, in 2016,&nbsp;<strong><a href="http://figma.com/">Figma</a></strong>&nbsp;came out as the first design tool that utilized the power and accessibility of the Web while promising the same powerful features you&rsquo;d expect from a native app. They surprised everyone with their real-time collaboration feature. Designers were ecstatic to finally be able to share their designs with their co-workers and clients with zero friction, and see multiple mouse pointers drawing shapes simultaneously. It was like magic.</p>
+<p>We&rsquo;ve come a long way since. Figma has set the bar to the highest level by continuously improving and implementing new features. Today, everything exists on the Web, and Figma makes full use of it by bringing everything together for designers and developers.</p>
+<p>Let's take a look at some of the special features that make Figma stand out.</p>
+</body>
+</html>

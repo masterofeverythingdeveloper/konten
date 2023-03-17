@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Live Embeds</h2>
+<p>You can embed your Figma Frames in your Website by getting the iFrames HTML code. This allows you to get live access to your designs.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/7u43Sav43dlPRNZz3h4Fl/e473ae489744c2660db8c2e0449a8008/10.png" class=" lazyloaded" alt="10" src="https://images.ctfassets.net/ooa29xqb8tix/7u43Sav43dlPRNZz3h4Fl/e473ae489744c2660db8c2e0449a8008/10.png" /></p>
+</body>
+</html>

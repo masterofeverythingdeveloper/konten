@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3>Keyboard Shortcuts</h3>
+<p>The shortcuts in Figma are very similar to Sketch. Some key differences that are quite important to know:</p>
+<ul>
+<li><strong>Command + Option + G</strong>&nbsp;creates a Frame for selected elements. A Frame is like an Artboard.</li>
+<li><strong>Control + G</strong>&nbsp;to enable / disable Grid.</li>
+<li><strong>K</strong>&nbsp;for Scale, which allows you to scale elements on the fly.</li>
+<li><strong>C</strong>&nbsp;for Commenting. Comments are embedded in Figma directly instead of having to go through a different space.</li>
+</ul>
+<p>You can open the Figma Keyboard Shortcuts by clicking the <strong>Menu</strong> bar, then going to <strong>Help and Account</strong> &gt; <strong>Keyboard Shortcuts</strong> or you can press a shortcut <strong>Ctrl+Shift+?</strong> on your keyboard.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/jPcUn1JqlVFBZSVPMDCH0/e1304bf8e0154d7c4f8ffffc397df526/12.png" class=" lazyloaded" alt="12" src="https://images.ctfassets.net/ooa29xqb8tix/jPcUn1JqlVFBZSVPMDCH0/e1304bf8e0154d7c4f8ffffc397df526/12.png" /></p>
+</body>
+</html>

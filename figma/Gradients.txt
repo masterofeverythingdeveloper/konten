@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Gradients</h2>
+<p>Figma also gives you the option of replacing the solid colors with gradients. There are multiple gradient options. You can find the gradient options in the color picker. You can play around with different combinations of colors, the opacity as well as the direction of the gradient!</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/40BlAdJwWj80eUzMPtFF0f/ca8970b49252f4eca0ac99a457b883f5/10.png" class=" lazyloaded" alt="10" src="https://images.ctfassets.net/ooa29xqb8tix/40BlAdJwWj80eUzMPtFF0f/ca8970b49252f4eca0ac99a457b883f5/10.png" /></p>
+</body>
+</html>

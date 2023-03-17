@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Team Library</h2>
+<p>Imagine Abstract, Google Docs and Sketch in a single tool. Imagine a more cohesive and smoother experience. That&rsquo;s Figma. Team Libraries allow you to share your components, styles and assets across your whole team. You can enable and disable these libraries by clicking the <strong>ON/OFF</strong> toggle anytime you want.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/pNHP55b6x2qomFN3IsKVd/7fba9c9a638b5177ddf55663de93064e/6.jpg" class=" lazyloaded" alt="6" src="https://images.ctfassets.net/ooa29xqb8tix/pNHP55b6x2qomFN3IsKVd/7fba9c9a638b5177ddf55663de93064e/6.jpg" /></p>
+</body>
+</html>

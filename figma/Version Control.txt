@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Version Control</h2>
+<p>In Figma, everything you do is automatically saved in history for free. You can also manually commit (<strong>Command + Option + S</strong>) versions to keep things in a neat timeline. You don&rsquo;t have to think about branches because real-time collaboration allows you to ensure that nobody is stepping on each other&rsquo;s toes. It&rsquo;s actually a relief to not compare this too much to Git because Figma has made the whole process way less complex than Git.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/4m4XuSLnmIaH6JNqgEWTVH/dd5d0f9ad8c182e3764d96c1ec1ced7b/Untitled-7.png" class=" lazyloaded" alt="Untitled-7" src="https://images.ctfassets.net/ooa29xqb8tix/4m4XuSLnmIaH6JNqgEWTVH/dd5d0f9ad8c182e3764d96c1ec1ced7b/Untitled-7.png" /></p>
+</body>
+</html>

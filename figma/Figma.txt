@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Figma</h2>
+<p>Figma is called <strong>the collaborative interface design tool</strong>. And it stands out for its collaboration feature. It gives users the ability to share a design file with multiple team members and get instant feedback from each other via comments. These days most of the other design tools have also implemented the <strong>collaboration</strong> feature but Figma is the one that first brought this to the table.</p>
+<p>Figma also provides a lot of useful resources, plugins, and techniques that make your workflow smoother.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/2scz4KzHlSAYCmXbkCiWRu/7e494730f9220ec0b90b45f49dd41649/2.png" class=" lazyloaded" alt="2" src="https://images.ctfassets.net/ooa29xqb8tix/2scz4KzHlSAYCmXbkCiWRu/7e494730f9220ec0b90b45f49dd41649/2.png" /></p>
+</body>
+</html>

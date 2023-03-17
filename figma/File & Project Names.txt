@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>File &amp; Project Names</h2>
+<ul>
+<li>The middle of the Toolbar contains the name of the file, which is 'Untitled' by default. Simply click on it to edit.</li>
+<li>The project name, which is 'Draft' by default contains the particular file. You can change the project name to move the file to another project.</li>
+</ul>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/2mQP6gEvkJtXVwxVawKMRj/a720c71cdd682e0c22b8d5b81dd5043b/14.png" class=" lazyloaded" alt="14" src="https://images.ctfassets.net/ooa29xqb8tix/2mQP6gEvkJtXVwxVawKMRj/a720c71cdd682e0c22b8d5b81dd5043b/14.png" /></p>
+<h2>Panel</h2>
+<p>There are two panels located on either side of the editor.</p>
+<ul>
+<li>Layers Panel: the panel to the left is the Layers panel. It contains Layers, Assets and Pages that have been added to the file.</li>
+<li>Properties Panel: the one on the right side is the Properties panel. Here, you can customize the Frame Size, Positions, Colors, Strokes, and Effects. You can also view the code of an element here.</li>
+</ul>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/sFIYx4zaMkuIxWH4MBMLh/a542298e6d1d5fe5cd8e40f08d8fec1a/15.png" class=" lazyloaded" alt="15" src="https://images.ctfassets.net/ooa29xqb8tix/sFIYx4zaMkuIxWH4MBMLh/a542298e6d1d5fe5cd8e40f08d8fec1a/15.png" /></p>
+<h2>Pages</h2>
+<p>When you're working on a huge design project you may need to put different design elements in different places, not just in a single page. You can create multiple pages in Figma and put similar elements in a single page.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/7IXNm2AM4ToT1oADpLVuVC/4f44765fec9fdca586156ade3a02d231/16.jpg" class=" lazyloaded" alt="16" src="https://images.ctfassets.net/ooa29xqb8tix/7IXNm2AM4ToT1oADpLVuVC/4f44765fec9fdca586156ade3a02d231/16.jpg" /></p>
+<h2>Assets</h2>
+<p>On the left side of the Figma editor, there's the <strong>Assets</strong> panel. Assets are the elements you save as <strong>Components</strong>. It can include b<strong>uttons</strong>, <strong>forms</strong>, <strong>navigations</strong>, <strong>cards</strong>, <strong>cells,</strong> and <strong>overlays</strong>. Assets are extremely handy when it comes to re-using design elements.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/1RXwNKE1nsJpiCusowqswi/c1a2f1f65f9caa37e5f2a9398828bfd6/17.png" class=" lazyloaded" alt="17" src="https://images.ctfassets.net/ooa29xqb8tix/1RXwNKE1nsJpiCusowqswi/c1a2f1f65f9caa37e5f2a9398828bfd6/17.png" /></p>
+</body>
+</html>

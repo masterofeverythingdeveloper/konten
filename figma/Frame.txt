@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Frame</h2>
+<p>The frame tool is what allows you to create frames on the canvas. You can nest frames inside each other as well. Let's start by adding a frame.</p>
+<ul>
+<li>To create a frame, either click on the Frame tool in the toolbar or press one of the following keys - F or A</li>
+</ul>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/5P4DGwVgXG9b2HgWYNSPGf/acd4281e4b08b447980165bff252a672/1.png" class=" lazyloaded" alt="1" src="https://images.ctfassets.net/ooa29xqb8tix/5P4DGwVgXG9b2HgWYNSPGf/acd4281e4b08b447980165bff252a672/1.png" /></p>
+<ul>
+<li>Once you click on the frame tool, you can either choose one of the preset devices from the Properties panel or draw a custom one on the canvas</li>
+</ul>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/lZE92JBaxhrPtQ2iXmZiz/07ee3dae0196455a45d1c520aab5a3b0/2.png" class=" lazyloaded" alt="2" src="https://images.ctfassets.net/ooa29xqb8tix/lZE92JBaxhrPtQ2iXmZiz/07ee3dae0196455a45d1c520aab5a3b0/2.png" /></p>
+</body>
+</html>

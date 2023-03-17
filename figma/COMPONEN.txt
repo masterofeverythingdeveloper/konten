@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Components</h2>
+<p>Components are building blocks for any design project. Theses are collections of elements put together in a reusable way, such as <strong>buttons</strong>, <strong>forms</strong>, <strong>navigations</strong>, <strong>cards</strong>, <strong>cells,</strong> and <strong>overlays</strong>. Component elements like text content, colors, and images can be customized in the Inspector. A button component can be duplicated many times, with different content and styles.</p>
+<p>Additionally, you can have Components within Components, allowing you to customize even the most complex groups of elements, like icons, states, and complex themes. In Figma, it's very easy to add different design elements as <strong>Component</strong> and publish them as customizable design assets.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/62cir6tE4iN00BWHhiQwHm/3d10f2e4585ee1b73ef64e1cf278bc81/5.jpg" class=" lazyloaded" alt="5" src="https://images.ctfassets.net/ooa29xqb8tix/62cir6tE4iN00BWHhiQwHm/3d10f2e4585ee1b73ef64e1cf278bc81/5.jpg" /></p>
+</body>
+</html>

@@ -1,0 +1,544 @@
+Getting started with Figma as your design tool
+icon
+
+Figma Handbook
+
+1
+
+The Figma Design Tool
+
+0:54
+
+2
+
+The Editor in Figma
+
+1:17
+
+3
+
+Basic Tools
+
+2:14
+
+4
+
+Position, Size, Rotation, & Corner Radius properties
+
+1:27
+
+5
+
+Color Styles
+
+1:13
+
+6
+
+Masks
+
+1:47
+
+7
+
+Dark Mode with Selection Colors
+
+1:17
+
+8
+
+Gradients
+
+1:36
+
+9
+
+Creating Backgrounds
+
+2:37
+
+10
+
+Blending Modes
+
+2:02
+
+11
+
+Alignment, Distribution, & Tidy up Properties
+
+1:24
+
+12
+
+Union and Corner Radius
+
+2:53
+
+13
+
+Shadow and Blur Effects
+
+1:48
+
+14
+
+Using Images
+
+2:00
+
+15
+
+Fill, Stroke, & Advanced Stroke
+
+3:21
+
+16
+
+Text Properties and Styles
+
+1:37
+
+17
+
+Google Fonts and Custom Fonts
+
+1:13
+
+18
+
+Accessibility
+
+19
+
+Responsive Design
+
+3:07
+
+20
+
+Constraints
+
+1:11
+
+21
+
+Layout Grid
+
+2:00
+
+22
+
+Auto Layout in Figma
+
+8:17
+
+23
+
+Vector Mode
+
+0:55
+
+24
+
+Vector Network
+
+1:19
+
+25
+
+Perspective Mockups
+
+2:00
+
+26
+
+3D Mockups
+
+1:20
+
+27
+
+Using Illustrations in Design
+
+2:03
+
+28
+
+Booleans
+
+2:24
+
+29
+
+Icon Design
+
+1:48
+
+30
+
+Components
+
+1:50
+
+31
+
+Team Library
+
+2:14
+
+32
+
+Creating Confetti
+
+1:59
+
+33
+
+Looper Shape Duplication
+
+1:41
+
+34
+
+Apple Watch Ring
+
+2:23
+
+35
+
+Exporting Assets in Figma
+
+1:39
+
+36
+
+Exporting CSS Code
+
+1:04
+
+37
+
+Designing with Data
+
+1:57
+
+38
+
+Prototyping
+
+2:25
+
+39
+
+Version History
+
+1:25
+
+40
+
+Multiplayer, Commenting, & Previews
+
+1:36
+
+41
+
+Variants
+
+5:39
+
+42
+
+Interactive Components
+
+43
+
+UIKits
+
+4:47
+
+44
+
+Plugins
+
+5:47
+
+45
+
+Blob Background
+
+4:45
+
+46
+
+Wave Background
+
+6:46
+
+47
+
+3D Shapes
+
+12:27
+
+48
+
+Parallax Prototyping in Figma
+
+7:52
+
+49
+
+3D UI Perspective Design
+
+7:16
+
+50
+
+Glass Icon
+
+9:16
+
+51
+
+Crystal Ball with Water Effect Animation
+
+12:54
+
+52
+
+Design and code a line animation with letters
+
+29:38
+
+53
+
+Futuristic line animation
+
+19:30
+
+54
+
+Import from Adobe Illustrator to Figma
+
+3:16
+
+55
+
+Create an Illustration in Figma
+
+4:07
+
+56
+
+Remove BG plugin
+
+2:27
+
+57
+
+Circular Lines Advanced Stroke
+
+3:27
+
+58
+
+Publish Design to Community
+
+4:49
+
+59
+
+Turn Image into Vector
+
+3:11
+
+60
+
+Prototype with Scrolling Content
+
+3:42
+
+61
+
+Hug Content and Resizing
+
+62
+
+Advanced Auto Layout
+
+4:13
+
+63
+
+Circular Text on Path
+
+5:57
+
+64
+
+Mirror Prototype
+
+2:39
+
+65
+
+Sticky Nav and Tab Bar Prototyping
+
+4:37
+
+66
+
+Video in Figma Prototype
+
+67
+
+Mesh Gradients
+
+3:03
+
+68
+
+Figma Sections
+
+69
+
+Unsplash Stock Photos
+
+2:07
+
+70
+
+Angular Gradient
+
+4:17
+
+71
+
+Radial Gradient
+
+5:11
+
+72
+
+After Delay Animation Prototyping
+
+73
+
+UI Wireframe
+
+2:53
+
+74
+
+Lottie Animations
+
+3:55
+
+75
+
+Design Sign Up Screen
+
+6:42
+
+76
+
+Content Generator
+
+2:53
+
+77
+
+Design Lint Missing Style
+
+2:36
+
+78
+
+Slice Tool
+
+79
+
+Adaptive Layout with Breakpoints
+
+80
+
+Chart Designs
+
+81
+
+Design Modals
+
+82
+
+Batch Rename
+
+83
+
+Design Onboarding Screen
+
+84
+
+Animated Button Prototype
+
+85
+
+Smart Selection
+
+86
+
+Component Properties
+
+87
+
+RedLines
+
+88
+
+Interactive Calendar
+
+89
+
+Measure Distance
+
+90
+
+Variable Fonts
+
+91
+
+AI Plugins
+
+92
+
+Text Animation
+
+93
+
+Resize Layers
+
+94
+
+View Layer Outlines
+
+95
+
+Prototype Connections
+
+96
+
+Export SVG Files and Code
+
+97
+
+3D Illustrations
+
+98
+
+UI Placeholder
+
+99
+
+Dark Mode Switch
+
+In this era of design, there are a vast number of amazing tools available. This handbook focuses on Figma. It will walk you through the whole Figma interface, at the same time it provides step-by-step instructions on how you can utilize the features provided by Figma in the best way possible. If you're our Pro user you'll get access to the asset files that you can use as a reference.

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Constraints</h2>
+<p>Constraints in Figma are the same as Sketch. They allow you to set distances from the parent container. It also enables you to scale or align elements.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/1tRiLDFtQHb9D7TITG2WEh/758a1f5a62849a49e6b9d57a7a05c628/7.jpg" class=" lazyloaded" alt="7" src="https://images.ctfassets.net/ooa29xqb8tix/1tRiLDFtQHb9D7TITG2WEh/758a1f5a62849a49e6b9d57a7a05c628/7.jpg" /></p>
+</body>
+</html>

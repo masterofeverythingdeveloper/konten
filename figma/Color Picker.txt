@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Color Picker</h2>
+<p>Click on the Fill to start customizing the background. As with most design tools, you can change the color by clicking the color on the wheel or via the eyedropper tool. Alternatively, you can input the HEX code or choose from one of the preset colors. The opacity value can also be changed from here.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/6cxcN22AqWh3Cp7aCs9SWy/f7570d662a9849e1b478ad6c31ce0afa/9.png" class=" lazyloaded" alt="9" src="https://images.ctfassets.net/ooa29xqb8tix/6cxcN22AqWh3Cp7aCs9SWy/f7570d662a9849e1b478ad6c31ce0afa/9.png" /></p>
+</body>
+</html>

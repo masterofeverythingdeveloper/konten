@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Vector Network</h2>
+<p>Figma introduced a powerful new way to design vectors. Instead of connecting paths one to one, you can create web-like connections, making the whole process of creating shapes more flexible.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/6EubuPay8OsLM60kBXabUh/3666fbf5b29807095223f1383208b92f/Vector_network.png" class=" lazyloaded" alt="Vector network" src="https://images.ctfassets.net/ooa29xqb8tix/6EubuPay8OsLM60kBXabUh/3666fbf5b29807095223f1383208b92f/Vector_network.png" /></p>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Real-Time Collaboration</h2>
+<p>Figma truly is the Google docs of design tools. Once you start collaborating with fellow designers, developers, and clients in real-time on a design project, you&rsquo;ll never want to go back. You can share your design with anyone and they can watch your progress, <strong>comment</strong>, and even participate as you bring your pixels to life.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/4jv756xWhG4piqdI7LYRw8/acbd6ee97b0db9cc4b8b040ed6fe3f66/Untitled-6.png" class=" lazyloaded" alt="Untitled-6" src="https://images.ctfassets.net/ooa29xqb8tix/4jv756xWhG4piqdI7LYRw8/acbd6ee97b0db9cc4b8b040ed6fe3f66/Untitled-6.png" /></p>
+</body>
+</html>

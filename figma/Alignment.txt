@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Alignment</h2>
+<p>The top of Properties panel contains various alignment options. Provided below is the list of all the options as well as their keyboard shortcuts:</p>
+<ul>
+<li>Align Left (Alt + A)</li>
+<li>Align Horizontal Centers (Alt + H)</li>
+<li>Align Right (Alt + D)</li>
+<li>Align Top (Alt + W)</li>
+<li>Align Vertical Centers (Alt + V)</li>
+<li>Align Bottom (Alt + S)</li>
+</ul>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/5mfUF29w0HjJrOTQq5ih2z/1ebbd56387ed9b3ad949d776b217a830/6.png" class=" lazyloaded" alt="6" src="https://images.ctfassets.net/ooa29xqb8tix/5mfUF29w0HjJrOTQq5ih2z/1ebbd56387ed9b3ad949d776b217a830/6.png" /></p>
+</body>
+</html>

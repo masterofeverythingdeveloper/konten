@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Grids</h2>
+<p>Grids are essential to understanding the negative spacing when you're designing for iOS, Android and Web. For mobile, it&rsquo;s common to use an 8-point grid. For Web, it&rsquo;s a little less about spacing and more about division, like the 960 grid. It's good to have some grid in place, like the default 10-point grid. This ensures that all the elements fall on clean pixels, avoiding half pixels as much as possible.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/4EGQyduJI5S8tMZPeAtzAG/cee2b1252fdbbc9db6f11dec2758b9cf/3.png" class=" lazyloaded" alt="3" src="https://images.ctfassets.net/ooa29xqb8tix/4EGQyduJI5S8tMZPeAtzAG/cee2b1252fdbbc9db6f11dec2758b9cf/3.png" /></p>
+</body>
+</html>

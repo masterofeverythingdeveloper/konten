@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Resize</h2>
+<p>You can resize any layer by selecting it and then, dragging the corners. Hold Shift to keep the same aspect ratio and hold Option to resize from center in order to keep the same alignment. Alternatively, you can change the 'W' (width) and 'H' (height) values in the properties panel. Make sure to click the Constraint Proportions option so that it scales proportionately.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/2p3KvbeWyqqallNISGCp0A/7408385858280caaee5e375d5d85a42a/7.png" class=" lazyloaded" alt="7" src="https://images.ctfassets.net/ooa29xqb8tix/2p3KvbeWyqqallNISGCp0A/7408385858280caaee5e375d5d85a42a/7.png" /></p>
+</body>
+</html>

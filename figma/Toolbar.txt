@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Toolbar</h2>
+<p>The first section we'll talk about is the toolbar. It has tons of options. Let's go through those options one by one. Starting from the left:</p>
+<ol>
+<li>The hamburger menu gives you access to a lot of different options such as <strong>Preferences</strong>, <strong>Plugins</strong>, <strong>Libraries</strong>, <strong>Account settings</strong>, <strong>Different Options</strong>, and <strong>Customizations</strong>.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/2LR6QNzHDuqn26s5Qhh79d/0a5cf999d66612fd9837acbda90af3c4/3.jpg" class=" lazyloaded" alt="3" src="https://images.ctfassets.net/ooa29xqb8tix/2LR6QNzHDuqn26s5Qhh79d/0a5cf999d66612fd9837acbda90af3c4/3.jpg" /></p>
+<ol start="2">
+<li>Next up is the select tool which gives you two options - <strong>Move</strong> and <strong>Scale</strong>.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/7gk47m8MJNebSXBBm9ue5U/47b449d80c32910323f7f107d1940337/4.jpg" class=" lazyloaded" alt="4" src="https://images.ctfassets.net/ooa29xqb8tix/7gk47m8MJNebSXBBm9ue5U/47b449d80c32910323f7f107d1940337/4.jpg" /></p>
+<ol start="3">
+<li>The frame tool allows you to create new artboards. You can either create a custom or select from one of the default options on the right panel. This tool also gives you access to the slice tool, which allows you to specify the region you'd like to export.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/6ja6b8960GJJbFIUtYp27p/d309454b69776c84b223942dcec3e3de/5.jpg" class=" lazyloaded" alt="5" src="https://images.ctfassets.net/ooa29xqb8tix/6ja6b8960GJJbFIUtYp27p/d309454b69776c84b223942dcec3e3de/5.jpg" /></p>
+<ol start="4">
+<li>The shape tools give you the ability to create basic pre-defined shapes.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/5hWLkhKVPr0qsIBssdXXSs/ed66971c6f8b957488c09bdd8e0567b6/6.jpg" class=" lazyloaded" alt="6" src="https://images.ctfassets.net/ooa29xqb8tix/5hWLkhKVPr0qsIBssdXXSs/ed66971c6f8b957488c09bdd8e0567b6/6.jpg" /></p>
+<ol start="5">
+<li>The pen tool allows you to create custom shapes using vector anchor points. The pencil tool is also available in the Pen tool dropdown.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/wuWrOaeGpM5sKzmgLj2qz/fd28930dcc17de6236249a655e4ee780/7.jpg" class=" lazyloaded" alt="7" src="https://images.ctfassets.net/ooa29xqb8tix/wuWrOaeGpM5sKzmgLj2qz/fd28930dcc17de6236249a655e4ee780/7.jpg" /></p>
+<ol start="6">
+<li>The type tool is what you'll use to add text elements to your design.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/XdGz1uK30HIcFUBlUfp3j/98d2a0cabf001ca8df85473af47201b1/8.jpg" class=" lazyloaded" alt="8" src="https://images.ctfassets.net/ooa29xqb8tix/XdGz1uK30HIcFUBlUfp3j/98d2a0cabf001ca8df85473af47201b1/8.jpg" /></p>
+<ol start="7">
+<li><strong>Hand tool</strong> comes in handy when you want to move around in your design file without activating hover lines, selecting elements, or accidentally moving the same.</li>
+<li>Now, let's move on to the <strong>Comment tool</strong> which gives the user the ability to add comments throughout the design file, view said comments, and reply to the same.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/41NufW4fO7yDawWPRTA3au/a2480e32615100ed242ebb93a8f7963c/9.jpg" class=" lazyloaded" alt="9" src="https://images.ctfassets.net/ooa29xqb8tix/41NufW4fO7yDawWPRTA3au/a2480e32615100ed242ebb93a8f7963c/9.jpg" /></p>
+<ol start="9">
+<li>On the right side, we've user profile avatars which allow you to see who is viewing the file at any point in time.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/dcKGFUS3hFLDLwSI2SGf9/dd1b53441a636b9ba16add5d4606aea2/10.jpg" class=" lazyloaded" alt="10" src="https://images.ctfassets.net/ooa29xqb8tix/dcKGFUS3hFLDLwSI2SGf9/dd1b53441a636b9ba16add5d4606aea2/10.jpg" /></p>
+<ol start="10">
+<li>Right next to it is the <strong>Share</strong> button which provides you with a link or an embed code that you can share. It also opens up share settings.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/12VuDcWqR5iAsC17WPfrlY/47234e6cd96dbf01dad967278a5d4fb6/11.jpg" class=" lazyloaded" alt="11" src="https://images.ctfassets.net/ooa29xqb8tix/12VuDcWqR5iAsC17WPfrlY/47234e6cd96dbf01dad967278a5d4fb6/11.jpg" /></p>
+<ol start="11">
+<li>The play button allows you to view the prototype, if you've any.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/7vcKNCaf0NfIKSlTnOqcfE/dd7b9569c34e88f497616c8c15f0988d/12.jpg" class=" lazyloaded" alt="12" src="https://images.ctfassets.net/ooa29xqb8tix/7vcKNCaf0NfIKSlTnOqcfE/dd7b9569c34e88f497616c8c15f0988d/12.jpg" /></p>
+<ol start="12">
+<li>Lastly, you've the zoom settings as well as other options such as grids, rulers, outlines, etc.</li>
+</ol>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/MaDvOTDUVTFZCEaThEgz1/315caff34542d921016a633d0f6999ae/13.png" class=" lazyloaded" alt="13" src="https://images.ctfassets.net/ooa29xqb8tix/MaDvOTDUVTFZCEaThEgz1/315caff34542d921016a633d0f6999ae/13.png" /></p>
+</body>
+</html>

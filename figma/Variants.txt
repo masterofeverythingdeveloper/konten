@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Variants</h2>
+<p>Variants work slightly differently from components as they have a different naming system to organize everything. It's very important to keep in mind that only use variants when necessary if not stick to components.</p>
+<p>It's best to use variants when dealing with multiple versions of similar components that share the same properties, such as state, size, color, etc. Also, when having two distinct variations like a toggle on/off.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/1rKBixgW5Usnj9Cv2pwBhv/8f6c5fc64726a637d14ac88c4b11fec8/Variants.png" class=" lazyloaded" alt="Variants" src="https://images.ctfassets.net/ooa29xqb8tix/1rKBixgW5Usnj9Cv2pwBhv/8f6c5fc64726a637d14ac88c4b11fec8/Variants.png" /></p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/31XmAzQ82A8xzEYBoaLc5u/99dbbc81e08b4c579d82ba97086048e4/Variants-202.png" class=" lazyloaded" alt="Variants-202" src="https://images.ctfassets.net/ooa29xqb8tix/31XmAzQ82A8xzEYBoaLc5u/99dbbc81e08b4c579d82ba97086048e4/Variants-202.png" /></p>
+</body>
+</html>

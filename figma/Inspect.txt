@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Inspect</h2>
+<p>Any document in Figma can be shared with anyone. More importantly, developers can come in and inspect design elements to get the color properties, sizes, and distances. They can select any asset and export it to <strong>PNG</strong>, <strong>SVG</strong>, or in code using <strong>Swift</strong>, <strong>Java</strong>, or <strong>CSS</strong>.</p>
+<p>More generally, invited people can be given permission to view or to edit. This means that you can include virtually anyone in your team, including product managers, clients, and any person via a link.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/4YKtYmVHGZUW1zA37R1z2D/1796aa734ed23fa2eaf01758ca6f7702/Untitled-8.png" class=" lazyloaded" alt="Untitled-8" src="https://images.ctfassets.net/ooa29xqb8tix/4YKtYmVHGZUW1zA37R1z2D/1796aa734ed23fa2eaf01758ca6f7702/Untitled-8.png" /></p>
+</body>
+</html>

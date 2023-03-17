@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Auto Layout</h2>
+<p>Auto layout is a feature that lets you create designs that grow to fill or shrink to fit, and reflow as their contents change. This makes it possible to adapt to the changing needs of your work and helps ensure that your designs are consistent across the various screen sizes they will appear on. It's important that you know about these!</p>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Styles</h2>
+<p>In Figma, most of the foundation elements are set in the <strong>Styles</strong>, which contains <strong>Colors</strong> (including gradients and images), <strong>Text,</strong> and even <strong>Effects</strong>. You can make them readily available as a Library. As you design, you can set these styles in your Inspector, for things like <strong>Text</strong>, <strong>Fill</strong>, <strong>Stroke,</strong> and <strong>Effects</strong>.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/5Kg7IaX92nt4Y4W9Ov160g/c7807e3fba7b08e7b7cadadf1971dd43/4.jpg" class=" lazyloaded" alt="4" src="https://images.ctfassets.net/ooa29xqb8tix/5Kg7IaX92nt4Y4W9Ov160g/c7807e3fba7b08e7b7cadadf1971dd43/4.jpg" /></p>
+</body>
+</html>

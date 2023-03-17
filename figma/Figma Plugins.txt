@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2>Figma Plugins</h2>
+<p>Plugins are specialized tools designed to help you use Figma to its full potential. They're made by talented designers and developers who are eager to share their passion with the greater design community. From image assets to embedding maps into your designs, plugins make it easy to add life and personality to your designs.</p>
+<ul>
+<li>You can switch your account to the community by clicking on home.</li>
+</ul>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/789FsEeJZKZBPacl7yvBhZ/30d5a802ec363e987697c6da7e52e19f/Plugins.jpg" class=" lazyloaded" alt="Plugins" src="https://images.ctfassets.net/ooa29xqb8tix/789FsEeJZKZBPacl7yvBhZ/30d5a802ec363e987697c6da7e52e19f/Plugins.jpg" /></p>
+</body>
+</html>

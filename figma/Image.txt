@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Image</h1>
+<p>In Figma, images can be edited on the fly after importing. You can control settings like Exposure, Contrast, Saturation and much more without having to leave the design tool.</p>
+<p><img data-src="//images.ctfassets.net/ooa29xqb8tix/YRi4LwyY6e5O1X13yEnes/4a526316fd9781cb2eb9eb57cc350aca/8.jpg" class=" lazyloaded" alt="8" src="https://images.ctfassets.net/ooa29xqb8tix/YRi4LwyY6e5O1X13yEnes/4a526316fd9781cb2eb9eb57cc350aca/8.jpg" /></p>
+</body>
+</html>
